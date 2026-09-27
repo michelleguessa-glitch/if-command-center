@@ -56,6 +56,11 @@ a { color: #e8c766; text-decoration: underline; overflow-wrap: anywhere; }
 .section-intro { color: #a09a88; font-size: .92rem; margin: 0 0 14px; }
 #no-results { display: none; text-align: center; color: #8a8578; padding: 30px; }
 @media (max-width: 560px) { header.mast h1 { font-size: 1.4rem; } .card-head { flex-direction: column; } .badge { align-self: flex-start; } }
+
+/* Checkoff boxes — the only editable element (Roll Out Plan + Tasks) */
+.card-head .checkoff{width:22px;height:22px;flex:none;margin:2px 2px 0 0;accent-color:#d91f32;cursor:pointer;}
+details.card.is-done{opacity:.62;}
+details.card.is-done .card-head h3{text-decoration:line-through;}
 </style>
 </head>
 <body>
@@ -143,6 +148,40 @@ a { color: #e8c766; text-decoration: underline; overflow-wrap: anywhere; }
     document.getElementById('no-results').style.display = (!anyVisible && q) ? 'block' : 'none';
   }
   document.getElementById('q').addEventListener('input', function(e) { filter(e.target.value); });
+})();
+</script>
+
+<script>
+// Checkoff boxes for 2027 Roll Out Plan + Tasks — the ONLY editable element on this page.
+// Each visitor's checkoffs save privately in their own browser.
+(function(){
+  var STORE_KEY = 'ifcc-checkoffs-v1';
+  var saved = {};
+  try { saved = JSON.parse(localStorage.getItem(STORE_KEY) || '{}'); } catch(e){ saved = {}; }
+  function save(){ try { localStorage.setItem(STORE_KEY, JSON.stringify(saved)); } catch(e){} }
+  ['rollout','tasks'].forEach(function(view){
+    var section = document.querySelector('section[data-view="'+view+'"]');
+    if(!section) return;
+    var cards = section.querySelectorAll('details.card');
+    cards.forEach(function(card, i){
+      var head = card.querySelector('.card-head');
+      var titleEl = card.querySelector('h3');
+      if(!head || !titleEl) return;
+      var id = view + '::' + i + '::' + titleEl.textContent.trim();
+      var box = document.createElement('input');
+      box.type = 'checkbox';
+      box.className = 'checkoff';
+      box.setAttribute('aria-label', 'Mark as done: ' + titleEl.textContent.trim());
+      if(saved[id]){ box.checked = true; card.classList.add('is-done'); }
+      box.addEventListener('click', function(e){ e.stopPropagation(); });
+      box.addEventListener('change', function(){
+        if(box.checked){ saved[id] = 1; card.classList.add('is-done'); }
+        else { delete saved[id]; card.classList.remove('is-done'); }
+        save();
+      });
+      head.insertBefore(box, head.firstChild);
+    });
+  });
 })();
 </script>
 </body>
