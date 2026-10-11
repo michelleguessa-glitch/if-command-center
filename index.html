@@ -125,7 +125,7 @@
     </main>
   </div>
 <script>
-const SNAPSHOT_DAY='2026-09-27';
+const SNAPSHOT_DAY='2026-09-27';const TODAY_STR=(()=>{const d=new Date(),p=n=>String(n).padStart(2,'0');return d.getFullYear()+'-'+p(d.getMonth()+1)+'-'+p(d.getDate())})();
 const labels={performance:'Performance',ife:'IFE',book_campaign:'Book Campaign',podcast:'Podcast',needs_review:'Needs review',lead:'Lead',tentative:'Tentative',pending:'Pending',confirmed:'Confirmed',completed:'Completed',cancelled:'Cancelled',planning:'Planning',booked:'Booked',paid:'Paid',not_set:'Not set',church:'Churches',education:'Education',media:'Media',event:'Events',organization:'Organizations',stylist:'Stylists',barber:'Barbers',other:'Other',college:'College',creative_director:'Creative Director',videographer:'Videographer',photographer:'Photographer',pr:'PR',pr_firm:'PR Firm',graphic_designer:'Graphic Designer',web_designer:'Web Designer',radio:'Radio',not_started:'Not started',in_progress:'In progress',blocked:'Blocked',done:'Done',low:'Low',medium:'Medium',high:'High'};
 const EMAILJS_PUBLIC_KEY='00xJ0dEIkBzfau7IR';
 const EMAILJS_SERVICE_ID='service_qhwulf7';
@@ -144,8 +144,8 @@ const timeRange=(a,b,all=false,tz=null)=>{if(all)return'All day';const s=timeOne
 const moment=(v,all=false,tz=null)=>{if(!v)return'';const off=/(?:Z|[+-]\d{2}:?\d{2})$/i.test(v),d=new Date(v.length===10?v+'T12:00:00Z':off?v:v+'Z');if(isNaN(d))return v;try{return new Intl.DateTimeFormat(undefined,all?{weekday:'long',month:'long',day:'numeric',year:'numeric',timeZone:'UTC'}:{weekday:'long',month:'long',day:'numeric',year:'numeric',hour:'numeric',minute:'2-digit',timeZoneName:'short',timeZone:off?(tz||undefined):'UTC'}).format(d)}catch{return day(v)}};
 const money=n=>new Intl.NumberFormat(undefined,{style:'currency',currency:'USD',maximumFractionDigits:n%1?2:0}).format(n);
 const periodLabel=v=>{if(typeof v!=='string'||!/^[0-9]{4}-[0-9]{2}$/.test(v))return'Month not set';const [year,month]=v.split('-'),index=Number(month)-1;if(index<0||index>11)return v;return`${new Intl.DateTimeFormat(undefined,{month:'long',timeZone:'UTC'}).format(new Date(Date.UTC(2000,index,1)))} ${year}`};
-const bookingPast=x=>(x.endDate||x.startDate||'9999').slice(0,10)<SNAPSHOT_DAY;
-const timedPast=(a,b)=>{const v=b||a;if(!v)return false;if(v.length===10)return v<SNAPSHOT_DAY;return new Date(v).getTime()<new Date('2026-09-27T00:00:00-04:00').getTime()};
+const bookingPast=x=>(x.endDate||x.startDate||'9999').slice(0,10)<TODAY_STR;
+const timedPast=(a,b)=>{const v=b||a;if(!v)return false;if(v.length===10)return v<TODAY_STR;return new Date(v).getTime()<Date.now()};
 const calendarPast=x=>timedPast(x.startAt,x.endAt);
 const parseMoney=v=>{if(!v||/[\/–—-]/.test(String(v).replace(/^\s*-?\$/,'')))return null;const s=String(v).replace(/[$,\s]/g,'');return /^\d+(?:\.\d{1,2})?$/.test(s)?Number(s):null};
 const fullPaid=x=>x.status!=='cancelled'&&x.fullPaymentReceived===true;
