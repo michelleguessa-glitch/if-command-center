@@ -2186,7 +2186,7 @@
       "_recordId": 203,
       "category": "media",
       "email": "mckenzie@storytoldpr.com",
-      "mediaType": "pr",
+      "mediaType": "pr_firm",
       "name": "StoryTold",
       "notes": "Key people: McKenzie \u2014 PR, mckenzie@storytoldpr.com. Spare heading book launch media campaign.",
       "organization": "StoryTold",
@@ -2416,7 +2416,7 @@
       "name": "David C. Cook",
       "organization": "David C. Cook",
       "category": "media",
-      "mediaType": "pr",
+      "mediaType": "publishing_company",
       "contacts": [
         {
           "title": "Sr. Marketing Director",
