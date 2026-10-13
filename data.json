@@ -1440,13 +1440,14 @@
       "allDay": false,
       "calendarImportCapturedAt": "2026-09-22T15:31:38.000Z",
       "calendarImportKey": "calendar-flight-bos-2026-10-23",
-      "details": null,
-      "endAt": "2026-10-23T21:20:00-05:00",
+      "details": "Departure: DFW 5:25 PM\nArrival: BOS 10:19 PM\n\nDelta Air Lines DL2057\nDelta Comfort Classic",
+      "endAt": "2026-10-23T22:19:00-04:00",
       "location": null,
       "owner": "Emanuel",
-      "startAt": "2026-10-23T16:25:00-05:00",
+      "startAt": "2026-10-23T17:25:00-05:00",
       "timezone": "America/Chicago",
-      "title": "Flight to BOS"
+      "title": "Flight to BOS",
+      "endTimezone": "America/New_York"
     },
     {
       "_recordId": 143,
@@ -3212,14 +3213,15 @@
       "_recordId": 134,
       "calendarImportCapturedAt": "2026-09-22T15:31:38.000Z",
       "calendarImportKey": "flight-bos-2026-10-23",
-      "details": null,
-      "endAt": "2026-10-23T21:20:00-05:00",
+      "details": "Departure: DFW 5:25 PM\nArrival: BOS 10:19 PM\n\nDelta Air Lines DL2057\nDelta Comfort Classic",
+      "endAt": "2026-10-23T22:19:00-04:00",
       "location": null,
-      "startAt": "2026-10-23T16:25:00-05:00",
-      "status": "pending",
+      "startAt": "2026-10-23T17:25:00-05:00",
+      "status": "booked",
       "timezone": "America/Chicago",
       "title": "Flight to BOS",
-      "traveler": "Emanuel"
+      "traveler": "Emanuel",
+      "endTimezone": "America/New_York"
     },
     {
       "_recordId": 135,
