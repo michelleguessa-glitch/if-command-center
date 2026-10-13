@@ -1346,7 +1346,7 @@
       "calendarImportCapturedAt": "2026-09-22T15:31:38.000Z",
       "calendarImportKey": "calendar-flight-lft-2026-10-12",
       "createdAt": "2026-09-20T15:12:35.778Z",
-      "details": "Confirmation: HRED8H \n\nDL1152 (Delta Comfort S)\nSeat 12D\nDeparture: PHL at  6:35 AM \nArrival:  ATL at 8:49 AM\nLayover ATL ~1h 10m\n\nDL5526 \nSeat 6C\nDeparture: ATL at 9:59AM\nArrival:  LFT at 10:48 AN",
+      "details": "Return to Lafayette after the October 11 Sharon Baptist Church event in Philadelphia.\n\nFlight 1: DL1152\nDeparture: PHL 6:35 AM\nArrival: ATL 8:49 AM\nConfirmation #HRED8H\nLayover: 1 hr 10 min\n\nFlight 2: DL5526\nDeparture: ATL 9:59 AM\nArrival: LFT 10:48 AM\nConfirmation #HRED8H",
       "endAt": "2026-10-12T10:48:00-05:00",
       "endTimezone": "America/Chicago",
       "id": 19,
@@ -1387,7 +1387,7 @@
       "allDay": true,
       "calendarImportCapturedAt": "2026-09-22T15:31:38.000Z",
       "calendarImportKey": "calendar-flight-chicago-2026-10-08",
-      "details": "Outbound to Chicago for the October 8 Esau McCaulley Podcast taping and the October 10 Coffee, Hip-Hop & Mental Health event.\n\nConfirmation #IETK0P\nUA4000\nDeparture: LFT (Lafayette, LA)\nArrival: IAH (Houston, TX)\n\nConfirmation #IETK0P\nUA2182\nDeparture: IAH (Houston, TX)\nArrival: ORD (Chicago, IL)\n\nPassenger: Emanuel Lambert Jr. Boarding passes issued Oct 7. Departure/arrival times were not included in the United email \u2014 do not invent times.",
+      "details": "Outbound to Chicago for the October 8 Esau McCaulley Podcast taping and the October 10 Coffee, Hip-Hop & Mental Health event.\n\nFlight 1: UA4000\nDeparture: LFT (Lafayette, LA)\nArrival: IAH (Houston, TX)\nConfirmation #IETK0P\n\nFlight 2: UA2182\nDeparture: IAH (Houston, TX)\nArrival: ORD (Chicago, IL)\nConfirmation #IETK0P\n\nPassenger: Emanuel Lambert Jr. Boarding passes issued Oct 7. Departure/arrival times were not included in the United email \u2014 do not invent times.",
       "endAt": "2026-10-08",
       "location": null,
       "owner": "Emanuel",
@@ -1601,7 +1601,7 @@
     {
       "_recordId": 270,
       "allDay": false,
-      "details": "Departure: BTR 3:49 PM\nArrival: LAX 8:35 PM\n\nConfirmation #GW33EY\nDL2730 (Boeing 717-200) / DL0996 (Airbus A350-900)\nVia ATL (40 min layover)\nLAX Terminal 3",
+      "details": "Flight 1: DL2730 (Boeing 717-200)\nDeparture: BTR 3:49 PM\nArrival: ATL (40 min layover)\nConfirmation #GW33EY\n\nFlight 2: DL0996 (Airbus A350-900)\nDeparture: ATL\nArrival: LAX 8:35 PM\nConfirmation #GW33EY\n\nFlight 3 (Return): DL0395 (Airbus A321neo)\nDeparture: LAX 12:15 PM\nArrival: ATL (1 hr 54 min layover)\nConfirmation #GW33EY\nLAX Terminal 3\n\nFlight 4 (Return): DL5535 (Canadair RJ900, Endeavor Air)\nDeparture: ATL\nArrival: LFT 10:11 PM\nConfirmation #GW33EY",
       "endAt": "2026-10-29T22:35:00-05:00",
       "location": "Baton Rouge (BTR) \u2192 Los Angeles (LAX)",
       "owner": "Emanuel",
@@ -3150,7 +3150,7 @@
   "travel": [
     {
       "_recordId": 128,
-      "details": "Return to Lafayette after the October 11 Sharon Baptist Church event in Philadelphia.\n\nConfirmation #HRED8H\nDL1152\nDeparture: PHL 6:35 AM\nArrival: ATL 8:49 AM\nLayover: 1 hr 10 min\n\nDL5526\nDeparture: ATL 9:59 AM\nArrival: LFT 10:48 AM",
+      "details": "Return to Lafayette after the October 11 Sharon Baptist Church event in Philadelphia.\n\nFlight 1: DL1152\nDeparture: PHL 6:35 AM\nArrival: ATL 8:49 AM\nConfirmation #HRED8H\nLayover: 1 hr 10 min\n\nFlight 2: DL5526\nDeparture: ATL 9:59 AM\nArrival: LFT 10:48 AM\nConfirmation #HRED8H",
       "endAt": "2026-10-12T10:48:00-05:00",
       "endTimezone": "America/Chicago",
       "startAt": "2026-10-12T06:35:00-04:00",
@@ -3161,7 +3161,7 @@
     },
     {
       "_recordId": 129,
-      "details": "Outbound to Chicago for the October 8 Esau McCaulley Podcast taping and the October 10 Coffee, Hip-Hop & Mental Health event.\n\nConfirmation #IETK0P\nUA4000\nDeparture: LFT (Lafayette, LA)\nArrival: IAH (Houston, TX)\n\nUA2182\nDeparture: IAH (Houston, TX)\nArrival: ORD (Chicago, IL)\n\nPassenger: Emanuel Lambert Jr. Boarding passes issued Oct 7. Departure/arrival times were not included in the United email \u2014 do not invent times.",
+      "details": "Outbound to Chicago for the October 8 Esau McCaulley Podcast taping and the October 10 Coffee, Hip-Hop & Mental Health event.\n\nFlight 1: UA4000\nDeparture: LFT (Lafayette, LA)\nArrival: IAH (Houston, TX)\nConfirmation #IETK0P\n\nFlight 2: UA2182\nDeparture: IAH (Houston, TX)\nArrival: ORD (Chicago, IL)\nConfirmation #IETK0P\n\nPassenger: Emanuel Lambert Jr. Boarding passes issued Oct 7. Departure/arrival times were not included in the United email \u2014 do not invent times.",
       "endAt": "2026-10-08",
       "startAt": "2026-10-08",
       "status": "booked",
@@ -3273,7 +3273,7 @@
     },
     {
       "_recordId": 269,
-      "details": "Departure: BTR 3:49 PM\nArrival: LAX 8:35 PM\n\nConfirmation #GW33EY\nDL2730 (Boeing 717-200) / DL0996 (Airbus A350-900)\nVia ATL (40 min layover)\n\nDeparture: LAX 12:15 PM\nArrival: LFT 10:11 PM\n\nDL0395 (Airbus A321neo) / DL5535 (Canadair RJ900, Endeavor Air)\nVia ATL (1 hr 54 min layover)\nLAX Terminal 3",
+      "details": "Flight 1: DL2730 (Boeing 717-200)\nDeparture: BTR 3:49 PM\nArrival: ATL (40 min layover)\nConfirmation #GW33EY\n\nFlight 2: DL0996 (Airbus A350-900)\nDeparture: ATL\nArrival: LAX 8:35 PM\nConfirmation #GW33EY\n\nFlight 3 (Return): DL0395 (Airbus A321neo)\nDeparture: LAX 12:15 PM\nArrival: ATL (1 hr 54 min layover)\nConfirmation #GW33EY\nLAX Terminal 3\n\nFlight 4 (Return): DL5535 (Canadair RJ900, Endeavor Air)\nDeparture: ATL\nArrival: LFT 10:11 PM\nConfirmation #GW33EY",
       "endAt": "2026-10-31T22:11:00-05:00",
       "endTimezone": "America/Chicago",
       "startAt": "2026-10-29T15:49:00-05:00",
