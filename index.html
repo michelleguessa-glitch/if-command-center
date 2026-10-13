@@ -215,7 +215,7 @@ var trR=null;try{trR=(DATA.travel||[]).find(function(t){return (t.title||'').toL
 var p=zonedDateParts(x.startAt,x.timezone);
 var range=x.timeLabel||timeRange(x.startAt,x.endAt,x.allDay,x.timezone);
 var key=x.id??x._recordId??x.title;
-return `<details class="overview-event" id="overview-${esc(key)}"><summary><div class="date"><span>${esc(p.m)}</span><strong>${esc(p.d)}</strong></div><div class="row-copy"><div class="meta"><span class="tag">Calendar</span><span class="expand">View details</span></div><h3>${esc(x.title)}</h3>${range?`<p class="time">${esc(range)}</p>`:''}</div></summary><div class="detail"><dl>${dArr.join('')}</dl>${fN?`<h4>Details</h4><div class="notes">${richText(fN)}</div>`:''}</div></details>`;
+return `<details class="overview-event" id="overview-${esc(key)}"><summary><div class="date"><span>${esc(p.m)}</span><strong>${esc(p.d)}</strong></div><div class="row-copy"><div class="meta"><span class="tag">Calendar</span><span class="expand">View details</span></div><h3>${esc(x.title)}</h3>${range?`<p class="time">${esc(range)}</p>`:''}</div></summary><div class="detail"><dl>${dArr.join('')}</dl>${fN?`<div class="notes"><strong>Details</strong><p>${richText(fN)}</p></div>`:''}</div></details>`;
 }
 return glanceEventCard(x);
 }
