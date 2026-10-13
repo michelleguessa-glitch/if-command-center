@@ -70,7 +70,7 @@
       "fullPaymentReceived": false,
       "id": 4,
       "kind": "ife",
-      "notes": "Will pay in full upon arrival. Confirmed by Michelle Sep 27, 2026.",
+      "notes": "Will pay in full upon arrival. Confirmed by Michelle Sep 27, 2026.\n\nTravel pending: DL2057 DFW 5:25 PM \u2192 BOS 10:19 PM (Oct 23). Awaiting confirmation number from Nina Kumar.",
       "startDate": "2026-10-24",
       "state": "MA",
       "status": "confirmed",
@@ -2460,6 +2460,16 @@
       "organization": "David C. Cook",
       "phone": null,
       "role": "David C. Cook \u2014 author-discount pricing contact"
+    },
+    {
+      "_recordId": 280,
+      "name": "Rex Louth",
+      "role": "Author Order Specialist",
+      "organization": "David C. Cook",
+      "email": "authororders@davidccook.org",
+      "category": "media",
+      "mediaType": "pr",
+      "notes": "Introduced Oct 13, 2026 as Author Order Specialist for book orders. Discount scales with quantity; shipping = actual cost; expedited available; can ship direct to venue."
     }
   ],
   "dailyTasks": [
@@ -3219,7 +3229,7 @@
       "endAt": "2026-10-23T22:19:00-04:00",
       "location": null,
       "startAt": "2026-10-23T17:25:00-05:00",
-      "status": "booked",
+      "status": "pending",
       "timezone": "America/Chicago",
       "title": "Flight to BOS",
       "traveler": "Emanuel",
