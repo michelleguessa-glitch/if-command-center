@@ -187,7 +187,7 @@ if(isReturnFlight){
 if(arrMatches.length>0) detailsArr.push(pair('Arrival',parsePair(arrMatches[arrMatches.length-1])));
 }else{
 if(arrMatches[0]) detailsArr.push(pair('Arrival',parsePair(arrMatches[0])));
-if(depMatches[1]) detailsArr.push(pair('Return',parsePair(depMatches[1])));
+if(depMatches[1]){var rt=parsePair(depMatches[1]).replace(/^[A-Z]{3}\s+/, '');var rd=x.endAt?new Date(x.endAt).toLocaleDateString('en-US',{weekday:'long',month:'long',day:'numeric',year:'numeric',timeZone:x.endTimezone||x.timezone}):'';detailsArr.push(pair('Return',rd+' at '+rt));}
 if(arrMatches[1]) detailsArr.push(pair('Arrival',parsePair(arrMatches[1])));
 }
 detailsArr.push(pair('Time zone',x.endTimezone?x.timezone+' \u2192 '+x.endTimezone:x.timezone));
