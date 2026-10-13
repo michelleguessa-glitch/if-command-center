@@ -2189,7 +2189,27 @@
       "mediaType": "pr",
       "name": "StoryTold",
       "notes": "Key people: McKenzie \u2014 PR, mckenzie@storytoldpr.com. Spare heading book launch media campaign.",
-      "organization": "StoryTold"
+      "organization": "StoryTold",
+      "contacts": [
+        {
+          "title": "PR",
+          "name": "McKenzie Masters",
+          "email": "mckenzie@storytoldpr.com",
+          "phone": ""
+        },
+        {
+          "title": "PR contact, booked the MercyCast podcast",
+          "name": "Maddie Boarman",
+          "email": "maddie@storytoldpr.com",
+          "phone": ""
+        },
+        {
+          "title": "PR contact",
+          "name": "Elizabeth Cole",
+          "email": "elizabeth@storytoldpr.com",
+          "phone": ""
+        }
+      ]
     },
     {
       "_recordId": 204,
@@ -2370,18 +2390,6 @@
       "role": "Bishop (speaker pitch recipient)"
     },
     {
-      "_recordId": 244,
-      "category": "media",
-      "createdAt": "2026-09-30T14:26:02.055Z",
-      "email": "maddie@storytoldpr.com",
-      "groupLabel": "MercyCast Podcast",
-      "linkedBookingId": "mercycast-podcast-2026-10-14",
-      "name": "Maddie Boarman",
-      "organization": "StoryTold PR",
-      "role": "PR contact, booked the MercyCast podcast",
-      "updatedAt": "2026-09-30T14:28:23.170Z"
-    },
-    {
       "_recordId": 245,
       "category": "media",
       "createdAt": "2026-09-30T14:26:02.055Z",
@@ -2394,50 +2402,6 @@
       "updatedAt": "2026-09-30T14:28:23.170Z"
     },
     {
-      "_recordId": 246,
-      "category": "media",
-      "createdAt": "2026-09-30T14:26:02.055Z",
-      "email": "elizabeth@storytoldpr.com",
-      "groupLabel": "MercyCast Podcast",
-      "linkedBookingId": "mercycast-podcast-2026-10-14",
-      "name": "Elizabeth Cole",
-      "organization": "StoryTold PR",
-      "role": "PR contact (invited to MercyCast booking)",
-      "updatedAt": "2026-09-30T14:28:23.170Z"
-    },
-    {
-      "_recordId": 247,
-      "category": "media",
-      "createdAt": "2026-09-30T14:26:02.055Z",
-      "email": "asa.stringer@davidccook.org",
-      "groupLabel": "David C. Cook",
-      "linkedBookingId": null,
-      "name": "Asa Stringer",
-      "organization": "David C. Cook",
-      "role": "David C. Cook PR team (CC'd on MercyCast thread)",
-      "updatedAt": "2026-09-30T14:28:23.170Z"
-    },
-    {
-      "_recordId": 253,
-      "category": "media",
-      "email": "tammi.gray@davidccook.org",
-      "groupLabel": "David C. Cook",
-      "name": "Tammi Gray",
-      "organization": "David C. Cook",
-      "role": "David C. Cook (alternate contact for book-shipment assistance while Annette Brickbealer is OOO Oct 5-9)"
-    },
-    {
-      "_recordId": 254,
-      "category": "media",
-      "city": "Franklin, TN",
-      "email": "rudy.kish@davidccook.org",
-      "name": "Rudy Kish",
-      "notes": "Tied to Book Campaign (David C. Cook book publicity) and All Rise with Abdu Murray podcast (DCC media-coverage decision). Oct 5, 2026: encouraged Emanuel to do both Deep End podcasts (Lecrae and RuslanKD). Added from inbox-watch 2026-10-05 \u2014 new contact appearing in the Media Book Request / All Rise threads.",
-      "organization": "David C. Cook",
-      "phone": "719.536.0100",
-      "role": "Sr. Marketing Director, David C. Cook"
-    },
-    {
       "_recordId": 262,
       "category": "Organization",
       "city": "Houston, TX",
@@ -2448,28 +2412,44 @@
       "role": "Event organizer"
     },
     {
-      "_recordId": 275,
-      "category": "media",
-      "city": null,
-      "email": "luke.mckinnon@davidccook.org",
-      "groupLabel": null,
-      "linkedBookingId": null,
-      "mediaType": null,
-      "name": "Luke McKinnon",
-      "notes": "Added to the Books Shipping Inquiry email chain by Annette Brickbealer on Oct 12, 2026 to provide Emanuel's author-discount book pricing (per his contract). Book campaign.",
+      "_recordId": 281,
+      "name": "David C. Cook",
       "organization": "David C. Cook",
-      "phone": null,
-      "role": "David C. Cook \u2014 author-discount pricing contact"
-    },
-    {
-      "_recordId": 280,
-      "name": "Rex Louth",
-      "role": "Author Order Specialist",
-      "organization": "David C. Cook",
-      "email": "authororders@davidccook.org",
       "category": "media",
       "mediaType": "pr",
-      "notes": "Introduced Oct 13, 2026 as Author Order Specialist for book orders. Discount scales with quantity; shipping = actual cost; expedited available; can ship direct to venue."
+      "contacts": [
+        {
+          "title": "Sr. Marketing Director",
+          "name": "Rudy Kish",
+          "email": "rudy.kish@davidccook.org",
+          "phone": "719.536.0100"
+        },
+        {
+          "title": "Author Order Specialist",
+          "name": "Rex Louth",
+          "email": "authororders@davidccook.org",
+          "phone": ""
+        },
+        {
+          "title": "Author-discount pricing contact",
+          "name": "Luke McKinnon",
+          "email": "luke.mckinnon@davidccook.org",
+          "phone": ""
+        },
+        {
+          "title": "PR team",
+          "name": "Asa Stringer",
+          "email": "asa.stringer@davidccook.org",
+          "phone": ""
+        },
+        {
+          "title": "Alternate book-shipment contact",
+          "name": "Tammi Gray",
+          "email": "tammi.gray@davidccook.org",
+          "phone": ""
+        }
+      ],
+      "notes": "Publisher for Confessions of a Submissive Wife. Book orders and PR."
     }
   ],
   "dailyTasks": [
