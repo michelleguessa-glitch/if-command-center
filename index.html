@@ -202,7 +202,6 @@ if(arrMatches.length>0) detailsArr.push(pair('Arrival',parsePair(arrMatches[arrM
 }else{
 if(arrMatches[0]) detailsArr.push(pair('Arrival',parsePair(arrMatches[0])));
 if(depMatches[1]){var rtp=parsePair(depMatches[1]);var rtm=rtp.match(/([A-Z]{3})\s+(\d{1,2}):(\d{2})\s*([AP])M/i);var rtime=rtm?rtm[2]+':'+rtm[3]+rtm[4].toLowerCase():'';var rdt=x.endAt?new Date(x.endAt):null;var months=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];var rdate=rdt?months[rdt.getMonth()]+' '+rdt.getDate()+', '+rdt.getFullYear():'';var tzAbbr=(x.endTimezone||x.timezone||'').indexOf('Chicago')>=0?'CDT':(x.endTimezone||x.timezone||'').indexOf('Los_Angeles')>=0?'PDT':(x.endTimezone||x.timezone||'').indexOf('New_York')>=0?'EDT':'';detailsArr.push(pair('Return',rdate+' '+rtime+' '+tzAbbr));}
-if(arrMatches[1]) detailsArr.push(pair('Arrival',parsePair(arrMatches[1])));
 }
 detailsArr.push(pair('Time zone',x.endTimezone?x.timezone+' \u2192 '+x.endTimezone:x.timezone));
 var filteredNotes=(x.details||'').split('\n').filter(function(line){return !/^\s*(Departure|Arrival):\s*[A-Z]{3}\s+\d{1,2}:\d{2}\s*[AP]M/i.test(line);}).join('\n').replace(/\n{3,}/g,'\n\n').trim();
