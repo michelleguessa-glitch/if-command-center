@@ -162,14 +162,26 @@ function bookingGlance(x,c){const loc=c.location||compact([x.venue,x.city,x.stat
 function calendarRow(x,id='calendar-'+x.id){
 var isTravel=(x.details||'').indexOf('Departure:')>=0||/flight/i.test(x.title||'');
 if(isTravel){
-var det=x.details||'';
-var depM=det.match(/Departure:\s*([A-Z]{3})\s+(\d{1,2}:\d{2}\s*[AP]M)/);
-var arrM=det.match(/Arrival:\s*([A-Z]{3})\s+(\d{1,2}:\d{2}\s*[AP]M)/);
-var dArr=[];dArr.push(pair('Status',trRec&&trRec.status?label(trRec.status):'Booked'));dArr.push(pair('Traveler',trRec&&trRec.traveler?trRec.traveler:'Emanuel'));
-dArr.push(pair('Departure',depM?depM[1]+' '+depM[2]:''));
-dArr.push(pair('Arrival',arrM?arrM[1]+' '+arrM[2]:''));
-var trRec=null;try{trRec=(DATA.travel||[]).find(function(t){return (t.title||'').toLowerCase()===(x.title||'').toLowerCase();});}catch(e){}var fNotes=((trRec&&trRec.details?trRec.details:x.details)||'').split('\n').filter(function(l){return !/^\s*(Departure|Arrival):\s*[A-Z]{3}\s+\d{1,2}:\d{2}\s*[AP]M/i.test(l);}).join('\n').replace(/\n{3,}/g,'\n\n').trim();
-var tTz=trRec&&trRec.timezone?trRec.timezone:x.timezone;var tETz=trRec&&trRec.endTimezone?trRec.endTimezone:null;dArr.push(pair('Time zone',tETz?tTz+' \u2192 '+tETz:tTz));return row({id:id,date:x.startAt?x.startAt.slice(0,10):'',category:'Calendar',title:x.title,time:'',location:'',details:dArr,notes:fNotes});
+var trRec=null;try{trRec=(DATA.travel||[]).find(function(t){return (t.title||'').toLowerCase()===(x.title||'').toLowerCase();});}catch(e){}
+var tDet=trRec&&trRec.details?trRec.details:(x.details||'');
+var tIsRF=/flight to lft/i.test(x.title||'');
+var tDepM=tDet.match(/Departure:\s*([A-Z]{3})\s+(\d{1,2}:\d{2}\s*[AP]M)/);
+var tArrM=tDet.match(/Arrival:\s*([A-Z]{3})\s+(\d{1,2}:\d{2}\s*[AP]M)/);
+var dArr=[];
+dArr.push(pair('Status',trRec&&trRec.status?label(trRec.status):'Booked'));
+dArr.push(pair('Traveler',trRec&&trRec.traveler?trRec.traveler:'Emanuel'));
+if(tDepM)dArr.push(pair('Departure',tDepM[1]+' '+tDepM[2]));
+if(tIsRF){
+var tAA=tDet.match(/Arrival:\s*([A-Z]{3})\s+(\d{1,2}:\d{2}\s*[AP]M)/g)||[];
+if(tAA.length>0){var tL=tAA[tAA.length-1].match(/([A-Z]{3})\s+(\d{1,2}:\d{2}\s*[AP]M)/);if(tL)dArr.push(pair('Arrival',tL[1]+' '+tL[2]));}
+}else{
+if(tArrM)dArr.push(pair('Arrival',tArrM[1]+' '+tArrM[2]));
+var tD2=tDet.match(/Departure:\s*([A-Z]{3})\s+(\d{1,2}:\d{2}\s*[AP]M)/g)||[];
+if(tD2.length>1){var tM2=tD2[1].match(/([A-Z]{3})\s+(\d{1,2}):(\d{2})\s*([AP])M/i);if(tM2){var tRt=tM2[2]+':'+tM2[3]+tM2[4].toLowerCase();var tRd=trRec&&trRec.endAt?new Date(trRec.endAt):null;var tMo=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];var tDt=tRd?tMo[tRd.getMonth()]+' '+tRd.getDate()+', '+tRd.getFullYear():'';var tZz=(trRec&&(trRec.endTimezone||trRec.timezone)||'').indexOf('Chicago')>=0?'CDT':'';dArr.push(pair('Return',tDt+' '+tRt+' '+tZz));var tA2=tDet.match(/Arrival:\s*([A-Z]{3})\s+(\d{1,2}:\d{2}\s*[AP]M)/g)||[];if(tA2.length>1){var tAM=tA2[1].match(/([A-Z]{3})\s+(\d{1,2}:\d{2}\s*[AP]M)/);if(tAM)dArr.push(pair('Arrival',tAM[1]+' '+tAM[2]));}}}
+}
+var tTz=trRec&&trRec.timezone?trRec.timezone:x.timezone;var tETz=trRec&&trRec.endTimezone?trRec.endTimezone:null;dArr.push(pair('Time zone',tETz?tTz+' \u2192 '+tETz:tTz));
+var fNotes=tDet.split('\n').filter(function(l){return !/^\s*(Departure|Arrival):\s*[A-Z]{3}\s+\d{1,2}:\d{2}\s*[AP]M/i.test(l);}).join('\n').replace(/\n{3,}/g,'\n\n').trim();
+return row({id:id,date:x.startAt?x.startAt.slice(0,10):'',category:'Calendar',title:x.title,time:'',location:'',details:dArr,notes:fNotes});
 }
 var range=x.timeLabel||(x.endTimezone?compact([timeOne(x.startAt,x.allDay,x.timezone),timeOne(x.endAt,x.allDay,x.endTimezone)]).join(' – '):timeRange(x.startAt,x.endAt,x.allDay,x.timezone));
 return row({id:id,date:x.startAt?x.startAt.slice(0,10):'',category:'Calendar',title:x.title,time:range,location:x.location,details:[pair('Starts',x.startAt?moment(x.startAt,x.allDay,x.timezone):null),pair('Ends',x.endAt?moment(x.endAt,x.allDay,x.endTimezone||x.timezone):null),pair('Schedule',x.allDay?'All day':'Timed event'),pair('Calendar',x.owner)],notes:x.details});
@@ -203,15 +215,25 @@ function overviewEventCard(x){
 var det=x.details||'';
 var isTravel=det.indexOf('Departure:')>=0||/flight/i.test(x.title||'');
 if(isTravel){
-var depM=det.match(/Departure:\s*([A-Z]{3})\s+(\d{1,2}:\d{2}\s*[AP]M)/);
-var arrM=det.match(/Arrival:\s*([A-Z]{3})\s+(\d{1,2}:\d{2}\s*[AP]M)/);
+var trR=null;try{trR=(DATA.travel||[]).find(function(t){return (t.title||'').toLowerCase()===(x.title||'').toLowerCase();});}catch(e){}
+var tD=trR&&trR.details?trR.details:(x.details||'');
+var tRF=/flight to lft/i.test(x.title||'');
+var dM=tD.match(/Departure:\s*([A-Z]{3})\s+(\d{1,2}:\d{2}\s*[AP]M)/);
+var aM=tD.match(/Arrival:\s*([A-Z]{3})\s+(\d{1,2}:\d{2}\s*[AP]M)/);
 var dArr=[];
 dArr.push(pair('Status',trR&&trR.status?label(trR.status):'Booked'));
 dArr.push(pair('Traveler',trR&&trR.traveler?trR.traveler:'Emanuel'));
-if(depM)dArr.push(pair('Departure',depM[1]+' '+depM[2]));
-if(arrM)dArr.push(pair('Arrival',arrM[1]+' '+arrM[2]));
+if(dM)dArr.push(pair('Departure',dM[1]+' '+dM[2]));
+if(tRF){
+var aA=tD.match(/Arrival:\s*([A-Z]{3})\s+(\d{1,2}:\d{2}\s*[AP]M)/g)||[];
+if(aA.length>0){var lM=aA[aA.length-1].match(/([A-Z]{3})\s+(\d{1,2}:\d{2}\s*[AP]M)/);if(lM)dArr.push(pair('Arrival',lM[1]+' '+lM[2]));}
+}else{
+if(aM)dArr.push(pair('Arrival',aM[1]+' '+aM[2]));
+var d2=tD.match(/Departure:\s*([A-Z]{3})\s+(\d{1,2}:\d{2}\s*[AP]M)/g)||[];
+if(d2.length>1){var m2=d2[1].match(/([A-Z]{3})\s+(\d{1,2}):(\d{2})\s*([AP])M/i);if(m2){var rt=m2[2]+':'+m2[3]+m2[4].toLowerCase();var rd=trR&&trR.endAt?new Date(trR.endAt):null;var mos=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];var rdt=rd?mos[rd.getMonth()]+' '+rd.getDate()+', '+rd.getFullYear():'';var tza=(trR&&(trR.endTimezone||trR.timezone)||'').indexOf('Chicago')>=0?'CDT':'';dArr.push(pair('Return',rdt+' '+rt+' '+tza));var a2=tD.match(/Arrival:\s*([A-Z]{3})\s+(\d{1,2}:\d{2}\s*[AP]M)/g)||[];if(a2.length>1){var am2=a2[1].match(/([A-Z]{3})\s+(\d{1,2}:\d{2}\s*[AP]M)/);if(am2)dArr.push(pair('Arrival',am2[1]+' '+am2[2]));}}}
+}
 var oTz=trR&&trR.timezone?trR.timezone:x.timezone;var oETz=trR&&trR.endTimezone?trR.endTimezone:null;dArr.push(pair('Time zone',oETz?oTz+' \u2192 '+oETz:oTz));
-var trR=null;try{trR=(DATA.travel||[]).find(function(t){return (t.title||'').toLowerCase()===(x.title||'').toLowerCase();});}catch(e){}var fN=(trR&&trR.details?trR.details:det).split('\n').filter(function(l){return !/^\s*(Departure|Arrival):\s*[A-Z]{3}\s+\d{1,2}:\d{2}\s*[AP]M/i.test(l);}).join('\n').replace(/\n{3,}/g,'\n\n').trim();
+var fN=tD.split('\n').filter(function(l){return !/^\s*(Departure|Arrival):\s*[A-Z]{3}\s+\d{1,2}:\d{2}\s*[AP]M/i.test(l);}).join('\n').replace(/\n{3,}/g,'\n\n').trim();
 var p=zonedDateParts(x.startAt,x.timezone);
 var range=x.timeLabel||timeRange(x.startAt,x.endAt,x.allDay,x.timezone);
 var key=x.id??x._recordId??x.title;
