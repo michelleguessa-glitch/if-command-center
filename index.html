@@ -175,21 +175,17 @@ return row({id,date:x.startAt?.slice(0,10),category:'Calendar',title:x.title,tim
 const range=x.timeLabel||(x.endTimezone?compact([timeOne(x.startAt,x.allDay,x.timezone),timeOne(x.endAt,x.allDay,x.endTimezone)]).replace(' · ',' – '):timeRange(x.startAt,x.endAt,x.allDay,x.timezone));return row({id,date:x.startAt?.slice(0,10),category:'Calendar',title:x.title,time:range,location:x.location,details:[pair('Starts',x.startAt?moment(x.startAt,x.allDay,x.timezone):null),pair('Ends',x.endAt?moment(x.endAt,x.allDay,x.endTimezone||x.timezone):null),pair('Schedule',x.allDay?'All day':'Timed event'),pair('Calendar',x.owner),pair('Time zone',x.endTimezone?`${x.timezone} → ${x.endTimezone}`:x.timezone),pair('Location',x.location)],notes:x.details})}
 function travelRow(x){
 const det=x.details||'';
-// Parse Departure:/Arrival: lines from details
-// Format: "Departure: BTR 3:49 PM" and "Arrival: LAX 8:35 PM"
 const depMatches=[...det.matchAll(/Departure:\s*([A-Z]{3})\s+(\d{1,2}:\d{2}\s*[AP]M)/g)];
 const arrMatches=[...det.matchAll(/Arrival:\s*([A-Z]{3})\s+(\d{1,2}:\d{2}\s*[AP]M)/g)];
 const detailsArr=[];
 detailsArr.push(pair('Status',label(x.status)));
 detailsArr.push(pair('Traveler',x.traveler));
-// Outbound
 if(depMatches[0]) detailsArr.push(pair('Departure',depMatches[0][1]+' '+depMatches[0][2]));
 if(arrMatches[0]) detailsArr.push(pair('Arrival',arrMatches[0][1]+' '+arrMatches[0][2]));
-// Return (second set)
 if(depMatches[1]) detailsArr.push(pair('Return',depMatches[1][1]+' '+depMatches[1][2]));
 if(arrMatches[1]) detailsArr.push(pair('Arrival',arrMatches[1][1]+' '+arrMatches[1][2]));
-detailsArr.push(pair('Time zone',x.endTimezone?`${x.timezone} → ${x.endTimezone}`:x.timezone));
-return row({id:'travel-'+x.id,date:x.startAt,category:'Travel · '+label(x.status),title:x.title,time:'',location:'',details:detailsArr,notes:x.details});
+detailsArr.push(pair('Time zone',x.endTimezone?`${x.timezone} \u2192 ${x.endTimezone}`:x.timezone));
+return row({id:'travel-'+x.id,date:x.startAt,category:'Travel \u00b7 '+label(x.status),title:x.title,time:'',location:'',details:detailsArr,notes:x.details});
 }
 // Look for return leg
 const retMatch=det.match(/([A-Z]{3})\s+(\d{1,2}:\d{2}\s*[AP]M)\s*→\s*([A-Z]{3})\s+(\d{1,2}:\d{2}\s*[AP]M)/g);
