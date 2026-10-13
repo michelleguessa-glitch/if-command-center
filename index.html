@@ -168,7 +168,7 @@ var arrM=det.match(/Arrival:\s*([A-Z]{3})\s+(\d{1,2}:\d{2}\s*[AP]M)/);
 var dArr=[];dArr.push(pair('Status','Booked'));dArr.push(pair('Traveler','Emanuel'));
 dArr.push(pair('Departure',depM?depM[1]+' '+depM[2]:''));
 dArr.push(pair('Arrival',arrM?arrM[1]+' '+arrM[2]:''));
-var fNotes=(x.details||'').split('\n').filter(function(l){return !/^\s*(Departure|Arrival):\s*[A-Z]{3}\s+\d{1,2}:\d{2}\s*[AP]M/i.test(l);}).join('\n').replace(/\n{3,}/g,'\n\n').trim();
+var trRec=null;try{trRec=(DATA.travel||[]).find(function(t){return (t.title||'').toLowerCase()===(x.title||'').toLowerCase();});}catch(e){}var fNotes=((trRec&&trRec.details?trRec.details:x.details)||'').split('\n').filter(function(l){return !/^\s*(Departure|Arrival):\s*[A-Z]{3}\s+\d{1,2}:\d{2}\s*[AP]M/i.test(l);}).join('\n').replace(/\n{3,}/g,'\n\n').trim();
 dArr.push(pair('Time zone',x.timezone));return row({id:id,date:x.startAt?x.startAt.slice(0,10):'',category:'Calendar',title:x.title,time:'',location:'',details:dArr,notes:fNotes});
 }
 var range=x.timeLabel||(x.endTimezone?compact([timeOne(x.startAt,x.allDay,x.timezone),timeOne(x.endAt,x.allDay,x.endTimezone)]).join(' – '):timeRange(x.startAt,x.endAt,x.allDay,x.timezone));
@@ -211,7 +211,7 @@ dArr.push(pair('Traveler','Emanuel'));
 if(depM)dArr.push(pair('Departure',depM[1]+' '+depM[2]));
 if(arrM)dArr.push(pair('Arrival',arrM[1]+' '+arrM[2]));
 dArr.push(pair('Time zone',x.timezone));
-var fN=det.split('\n').filter(function(l){return !/^\s*(Departure|Arrival):\s*[A-Z]{3}\s+\d{1,2}:\d{2}\s*[AP]M/i.test(l);}).join('\n').replace(/\n{3,}/g,'\n\n').trim();
+var trR=null;try{trR=(DATA.travel||[]).find(function(t){return (t.title||'').toLowerCase()===(x.title||'').toLowerCase();});}catch(e){}var fN=(trR&&trR.details?trR.details:det).split('\n').filter(function(l){return !/^\s*(Departure|Arrival):\s*[A-Z]{3}\s+\d{1,2}:\d{2}\s*[AP]M/i.test(l);}).join('\n').replace(/\n{3,}/g,'\n\n').trim();
 var p=zonedDateParts(x.startAt,x.timezone);
 var range=x.timeLabel||timeRange(x.startAt,x.endAt,x.allDay,x.timezone);
 var key=x.id??x._recordId??x.title;
