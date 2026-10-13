@@ -163,7 +163,7 @@ function bookingGlance(x,c){const loc=c.location||compact([x.venue,x.city,x.stat
 function calendarRow(x,id='calendar-'+x.id){
 var isTravel=(x.details||'').indexOf('Departure:')>=0||/flight/i.test(x.title||'');
 if(isTravel){
-var trRec=null;try{trRec=(DATA.travel||[]).find(function(t){return (t.title||'').toLowerCase()===(x.title||'').toLowerCase();});}catch(e){}
+var trRec=null;try{trRec=(DATA.travel||[]).find(function(t){return (t.title||'').toLowerCase()===(x.title||'').toLowerCase()&&(t.startAt||'').slice(0,10)===(x.startAt||'').slice(0,10);})||(DATA.travel||[]).find(function(t){return (t.title||'').toLowerCase()===(x.title||'').toLowerCase();});}catch(e){}
 var tDet=trRec&&trRec.details?trRec.details:(x.details||'');
 var tIsRF=/flight to lft/i.test(x.title||'');
 var tDepM=tDet.match(/Departure:\s*([A-Z]{3})\s+(\d{1,2}:\d{2}\s*[AP]M)/);
@@ -215,7 +215,7 @@ function overviewEventCard(x){
 var det=x.details||'';
 var isTravel=det.indexOf('Departure:')>=0||/flight/i.test(x.title||'');
 if(isTravel){
-var trR=null;try{trR=(DATA.travel||[]).find(function(t){return (t.title||'').toLowerCase()===(x.title||'').toLowerCase();});}catch(e){}
+var trR=null;try{trR=(DATA.travel||[]).find(function(t){return (t.title||'').toLowerCase()===(x.title||'').toLowerCase()&&(t.startAt||'').slice(0,10)===(x.startAt||'').slice(0,10);})||(DATA.travel||[]).find(function(t){return (t.title||'').toLowerCase()===(x.title||'').toLowerCase();});}catch(e){}
 var tD=trR&&trR.details?trR.details:(x.details||'');
 var tRF=/flight to lft/i.test(x.title||'');
 var dM=tD.match(/Departure:\s*([A-Z]{3})\s+(\d{1,2}:\d{2}\s*[AP]M)/);
