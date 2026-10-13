@@ -1410,16 +1410,17 @@
     },
     {
       "_recordId": 140,
-      "allDay": true,
+      "allDay": false,
       "calendarImportCapturedAt": "2026-09-22T15:31:38.000Z",
       "calendarImportKey": "calendar-flight-atl-2026-10-16",
-      "details": null,
-      "endAt": "2026-10-16",
+      "details": "Departure: LFT 11:32 AM\nArrival: ATL 2:19 PM\n\nConfirmation #HGSM9K\nDelta Connection (Endeavor Air) DL5526\nCanadair Regional Jet 900\nSeat 10A Main Classic",
+      "endAt": "2026-10-17T14:19:00-04:00",
       "location": null,
       "owner": "Emanuel",
-      "startAt": "2026-10-16",
+      "startAt": "2026-10-17T11:32:00-05:00",
       "timezone": "America/Chicago",
-      "title": "Flight to ATL"
+      "title": "Flight to ATL",
+      "endTimezone": "America/New_York"
     },
     {
       "_recordId": 141,
@@ -3184,14 +3185,15 @@
       "_recordId": 132,
       "calendarImportCapturedAt": "2026-09-22T15:31:38.000Z",
       "calendarImportKey": "flight-atl-2026-10-16",
-      "details": null,
-      "endAt": "2026-10-16",
+      "details": "Departure: LFT 11:32 AM\nArrival: ATL 2:19 PM\n\nConfirmation #HGSM9K\nDelta Connection (Endeavor Air) DL5526\nCanadair Regional Jet 900\nSeat 10A Main Classic",
+      "endAt": "2026-10-17T14:19:00-04:00",
       "location": null,
-      "startAt": "2026-10-16",
-      "status": "pending",
+      "startAt": "2026-10-17T11:32:00-05:00",
+      "status": "booked",
       "timezone": "America/Chicago",
       "title": "Flight to ATL",
-      "traveler": "Emanuel"
+      "traveler": "Emanuel",
+      "endTimezone": "America/New_York"
     },
     {
       "_recordId": 133,
