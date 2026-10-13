@@ -1,6 +1,6 @@
 /* IF Command Center service worker — offline-capable, but the page itself
    always checks the network first so snapshot updates always come through. */
-const CACHE = 'ifcc-v3';
+const CACHE = 'ifcc-v4';
 const CORE = ['./', './index.html', './manifest.json', './icon-192.png', './icon-512.png', './icon-180.png'];
 
 self.addEventListener('install', (e) => {
