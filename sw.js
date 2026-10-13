@@ -1,6 +1,6 @@
 /* IF Command Center service worker — offline-capable, but the page itself
    always checks the network first so snapshot updates always come through. */
-const CACHE = 'ifcc-v2';
+const CACHE = 'ifcc-v3';
 const CORE = ['./', './index.html', './manifest.json', './icon-192.png', './icon-512.png', './icon-180.png'];
 
 self.addEventListener('install', (e) => {
@@ -27,6 +27,20 @@ self.addEventListener('fetch', (e) => {
   if (e.request.method !== 'GET') return;
   const url = new URL(e.request.url);
   if (url.origin !== location.origin) return;
+
+  // data.json: network first (data updates always win), cache only as offline fallback.
+  if (url.pathname.endsWith('data.json')) {
+    e.respondWith(
+      fetch(e.request)
+        .then((res) => {
+          const copy = res.clone();
+          caches.open(CACHE).then((c) => c.put(e.request, copy));
+          return res;
+        })
+        .catch(() => caches.match(e.request))
+    );
+    return;
+  }
 
   // Page loads: network first (updates always win), cache only as offline fallback.
   if (isPageRequest(e.request)) {
