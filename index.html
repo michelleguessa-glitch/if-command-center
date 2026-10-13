@@ -193,7 +193,7 @@ else{var tD2=tDet.match(/Departure:\s*([A-Z]{3})\s+(\d{1,2}:\d{2}\s*[AP]M)/g)||[
 if(tD2.length>1){var tM2=tD2[1].match(/([A-Z]{3})\s+(\d{1,2}):(\d{2})\s*([AP])M/i);if(tM2){var tRt=tM2[2]+':'+tM2[3]+tM2[4].toLowerCase();var tRd=trRec&&trRec.endAt?new Date(trRec.endAt):null;var tMo=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];var tDt=tRd?tMo[tRd.getMonth()]+' '+tRd.getDate()+', '+tRd.getFullYear():'';var tZz=(trRec&&(trRec.endTimezone||trRec.timezone)||'').indexOf('Chicago')>=0?'CDT':'';dArr.push(pair('Return',tDt+' '+tRt+' '+tZz));}}}
 }
 var tTz=trRec&&trRec.timezone?trRec.timezone:x.timezone;var tETz=trRec&&trRec.endTimezone?trRec.endTimezone:null;dArr.push(pair('Time zone',tETz?tTz+' \u2192 '+tETz:tTz));
-var fNotes=tDet.split('\n').filter(function(l){return !/^\s*(Departure|Arrival):\s*[A-Z]{3}\s+\d{1,2}:\d{2}\s*[AP]M/i.test(l);}).join('\n').replace(/\n{3,}/g,'\n\n').trim();
+var fNotes=tDet.split('\n').filter(function(l){return !/^\s*(Departure|Arrival):\s*[A-Z]{3}\s+\d{1,2}:\d{2}\s*[AP]M/i.test(l)&&!/^\s*Return:/i.test(l);}).join('\n').replace(/\n{3,}/g,'\n\n').trim();
 return row({id:id,date:x.startAt?x.startAt.slice(0,10):'',category:'Calendar',title:x.title,time:'',location:'',details:dArr,notes:fNotes});
 }
 var range=x.timeLabel||(x.endTimezone?compact([timeOne(x.startAt,x.allDay,x.timezone),timeOne(x.endAt,x.allDay,x.endTimezone)]).join(' – '):timeRange(x.startAt,x.endAt,x.allDay,x.timezone));
@@ -249,7 +249,7 @@ else{var d2=tD.match(/Departure:\s*([A-Z]{3})\s+(\d{1,2}:\d{2}\s*[AP]M)/g)||[];
 if(d2.length>1){var m2=d2[1].match(/([A-Z]{3})\s+(\d{1,2}):(\d{2})\s*([AP])M/i);if(m2){var rt=m2[2]+':'+m2[3]+m2[4].toLowerCase();var rd=trR&&trR.endAt?new Date(trR.endAt):null;var mos=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];var rdt=rd?mos[rd.getMonth()]+' '+rd.getDate()+', '+rd.getFullYear():'';var tza=(trR&&(trR.endTimezone||trR.timezone)||'').indexOf('Chicago')>=0?'CDT':'';dArr.push(pair('Return',rdt+' '+rt+' '+tza));}}}
 }
 var oTz=trR&&trR.timezone?trR.timezone:x.timezone;var oETz=trR&&trR.endTimezone?trR.endTimezone:null;dArr.push(pair('Time zone',oETz?oTz+' \u2192 '+oETz:oTz));
-var fN=tD.split('\n').filter(function(l){return !/^\s*(Departure|Arrival):\s*[A-Z]{3}\s+\d{1,2}:\d{2}\s*[AP]M/i.test(l);}).join('\n').replace(/\n{3,}/g,'\n\n').trim();
+var fN=tD.split('\n').filter(function(l){return !/^\s*(Departure|Arrival):\s*[A-Z]{3}\s+\d{1,2}:\d{2}\s*[AP]M/i.test(l)&&!/^\s*Return:/i.test(l);}).join('\n').replace(/\n{3,}/g,'\n\n').trim();
 var p=zonedDateParts(x.startAt,x.timezone);
 var range=x.timeLabel||timeRange(x.startAt,x.endAt,x.allDay,x.timezone);
 var key=x.id??x._recordId??x.title;
