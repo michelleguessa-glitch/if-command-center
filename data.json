@@ -1601,7 +1601,7 @@
     {
       "_recordId": 270,
       "allDay": false,
-      "details": "Flight 1: DL2730 (Boeing 717-200)\nDeparture: BTR 3:49 PM\nArrival: ATL (40 min layover)\nConfirmation #GW33EY\n\nFlight 2: DL0996 (Airbus A350-900)\nDeparture: ATL\nArrival: LAX 8:35 PM\nConfirmation #GW33EY\n\nFlight 3 (Return): DL0395 (Airbus A321neo)\nDeparture: LAX 12:15 PM\nArrival: ATL (1 hr 54 min layover)\nConfirmation #GW33EY\nLAX Terminal 3\n\nFlight 4 (Return): DL5535 (Canadair RJ900, Endeavor Air)\nDeparture: ATL\nArrival: LFT 10:11 PM\nConfirmation #GW33EY",
+      "details": "Flight 1: DL2730 (Boeing 717-200)\nDeparture: BTR 3:49 PM\nArrival: ATL (40 min layover)\nConfirmation #GW33EY\n\nFlight 2: DL0996 (Airbus A350-900)\nDeparture: ATL\nArrival: LAX 8:35 PM\nConfirmation #GW33EY\n\nReturn: Oct 31, 2026 12:15p PDT",
       "endAt": "2026-10-29T22:35:00-05:00",
       "location": "Baton Rouge (BTR) \u2192 Los Angeles (LAX)",
       "owner": "Emanuel",
@@ -3273,7 +3273,7 @@
     },
     {
       "_recordId": 269,
-      "details": "Flight 1: DL2730 (Boeing 717-200)\nDeparture: BTR 3:49 PM\nArrival: ATL (40 min layover)\nConfirmation #GW33EY\n\nFlight 2: DL0996 (Airbus A350-900)\nDeparture: ATL\nArrival: LAX 8:35 PM\nConfirmation #GW33EY\n\nFlight 3 (Return): DL0395 (Airbus A321neo)\nDeparture: LAX 12:15 PM\nArrival: ATL (1 hr 54 min layover)\nConfirmation #GW33EY\nLAX Terminal 3\n\nFlight 4 (Return): DL5535 (Canadair RJ900, Endeavor Air)\nDeparture: ATL\nArrival: LFT 10:11 PM\nConfirmation #GW33EY",
+      "details": "Flight 1: DL2730 (Boeing 717-200)\nDeparture: BTR 3:49 PM\nArrival: ATL (40 min layover)\nConfirmation #GW33EY\n\nFlight 2: DL0996 (Airbus A350-900)\nDeparture: ATL\nArrival: LAX 8:35 PM\nConfirmation #GW33EY\n\nReturn: Oct 31, 2026 12:15p PDT",
       "endAt": "2026-10-31T22:11:00-05:00",
       "endTimezone": "America/Chicago",
       "startAt": "2026-10-29T15:49:00-05:00",
