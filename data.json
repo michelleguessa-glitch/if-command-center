@@ -70,7 +70,7 @@
       "fullPaymentReceived": false,
       "id": 4,
       "kind": "ife",
-      "notes": "Will pay in full upon arrival. Confirmed by Michelle Sep 27, 2026.\n\nTravel pending: DL2057 DFW 5:25 PM \u2192 BOS 10:19 PM (Oct 23). Awaiting confirmation number from Nina Kumar.",
+      "notes": "Will pay in full upon arrival. Confirmed by Michelle Sep 27, 2026.\n\nTravel pending: DL2057 DFW 5:25 PM \u2192 BOS 10:19 PM (Oct 23), Delta Comfort Classic. Awaiting confirmation number from Nina Kumar \u2014 Nina Kumar is tracking the confirmation.",
       "startDate": "2026-10-24",
       "state": "MA",
       "status": "confirmed",
@@ -78,6 +78,7 @@
       "timezone": "America/New_York",
       "title": "IFE + Motivation Church - Boston",
       "topic": "Apologetics + Q&A (Conference)",
+      "updatedAt": "2026-10-14T06:19:12.288Z",
       "venue": "Motivation Church, 600 South St, Holbrook, MA 02343, USA"
     },
     {
@@ -1137,12 +1138,13 @@
       "id": "mercycast-podcast-2026-10-14",
       "kind": "podcast",
       "mediaType": "podcast",
-      "notes": "MercyCast podcast: https://redcircle.com/shows/the-mercycast\n\nVideo + audio recorded interview about 'the subtle art of compassion through the adversity of everyday life.'\n\nMichelle confirmed Emanuel's availability for 10AM on 10/14 on Sep 29 at 11:58 PM EDT; Maddie scheduled it Sep 30 at 10:00 AM EDT and sent the Google Calendar invite.\n\nCC'd on the thread: Annette Brickbealer, Rudy Kish, Asa Stringer (David C. Cook).\n\nHit time: 9:00 am CST\nHost: Raleigh Sadler\nRiverside: https://riverside.fm/studio/mercy-cast?t=7793368ea1168a0a6b71\n\nAbout the show: The MercyCast is a podcast dedicated to learning the subtle art of compassion through the adversity of everyday life.\n\nJoin Raleigh Sadler, the host, as he has honest and thought-provoking conversations with friends he has met along the way.",
+      "notes": "Hit time: 9:00 am CST\nHost: Raleigh Sadler\nRiverside: https://riverside.fm/studio/mercy-cast?t=7793368ea1168a0a6b71\n\nAbout the show: The MercyCast is a podcast dedicated to learning the subtle art of compassion through the adversity of everyday life.\n\nJoin Raleigh Sadler, the host, as he has honest and thought-provoking conversations with friends he has met along the way.",
       "startDate": "2026-10-14",
       "status": "confirmed",
       "timeLabel": "9:00 AM\u201310:00 AM CDT",
-      "timezone": "America/New_York",
+      "timezone": "America/Chicago",
       "title": "MercyCast Podcast",
+      "updatedAt": "2026-10-14T06:14:19.201Z",
       "venue": "https://riverside.fm/studio/mercy-cast?t=7793368ea1168a0a6b71"
     },
     {
@@ -1350,11 +1352,14 @@
       "endAt": "2026-10-12T10:48:00-05:00",
       "endTimezone": "America/Chicago",
       "id": 19,
-      "location": "Philadelphia International Airport (PHL)",
+      "location": null,
       "owner": "Emanuel",
-      "startAt": "2026-10-12T05:35:00-05:00",
+      "startAt": "2026-10-12T06:35:00-04:00",
+      "status": "booked",
       "timezone": "America/New_York",
-      "title": "Flight to LFT"
+      "title": "Flight to LFT",
+      "traveler": "Emanuel",
+      "updatedAt": "2026-10-14T06:19:12.288Z"
     },
     {
       "_recordId": 65,
@@ -1392,8 +1397,11 @@
       "location": null,
       "owner": "Emanuel",
       "startAt": "2026-10-08",
+      "status": "booked",
       "timezone": "America/Chicago",
-      "title": "Flight to Chicago"
+      "title": "Flight to Chicago",
+      "traveler": "Emanuel",
+      "updatedAt": "2026-10-14T06:19:12.288Z"
     },
     {
       "_recordId": 139,
@@ -1415,12 +1423,15 @@
       "calendarImportKey": "calendar-flight-atl-2026-10-16",
       "details": "Departure: LFT 11:32 AM\nArrival: ATL 2:19 PM\n\nConfirmation #HGSM9K\nDelta Connection (Endeavor Air) DL5526\nCanadair Regional Jet 900\nSeat 10A Main Classic",
       "endAt": "2026-10-17T14:19:00-04:00",
+      "endTimezone": "America/New_York",
       "location": null,
       "owner": "Emanuel",
       "startAt": "2026-10-17T11:32:00-05:00",
+      "status": "booked",
       "timezone": "America/Chicago",
       "title": "Flight to ATL",
-      "endTimezone": "America/New_York"
+      "traveler": "Emanuel",
+      "updatedAt": "2026-10-14T06:19:12.288Z"
     },
     {
       "_recordId": 141,
@@ -1440,14 +1451,17 @@
       "allDay": false,
       "calendarImportCapturedAt": "2026-09-22T15:31:38.000Z",
       "calendarImportKey": "calendar-flight-bos-2026-10-23",
-      "details": "Departure: DFW 5:25 PM\nArrival: BOS 10:19 PM\n\nDelta Air Lines DL2057\nDelta Comfort Classic",
+      "details": "Departure: DFW 5:25 PM\nArrival: BOS 10:19 PM\n\nDelta Air Lines DL2057\nDelta Comfort Classic\n\nPending \u2014 awaiting confirmation number from Nina Kumar",
       "endAt": "2026-10-23T22:19:00-04:00",
+      "endTimezone": "America/New_York",
       "location": null,
       "owner": "Emanuel",
       "startAt": "2026-10-23T17:25:00-05:00",
+      "status": "pending",
       "timezone": "America/Chicago",
       "title": "Flight to BOS",
-      "endTimezone": "America/New_York"
+      "traveler": "Emanuel",
+      "updatedAt": "2026-10-14T06:19:12.288Z"
     },
     {
       "_recordId": 143,
@@ -1498,14 +1512,16 @@
     },
     {
       "_recordId": 243,
+      "allDay": false,
       "createdAt": "2026-09-30T14:26:02.055Z",
-      "details": "MercyCast (host Raleigh Sadler, ~3K monthly listens), booked by StoryTold PR / Maddie Boarman.\n\nHit time: 9:00 am CST\nHost: Raleigh Sadler\nRiverside: https://riverside.fm/studio/mercy-cast?t=7793368ea1168a0a6b71\n\nAbout the show: The MercyCast is a podcast dedicated to learning the subtle art of compassion through the adversity of everyday life.\n\nJoin Raleigh Sadler, the host, as he has honest and thought-provoking conversations with friends he has met along the way.",
+      "details": "Hit time: 9:00 am CST\nHost: Raleigh Sadler\nRiverside: https://riverside.fm/studio/mercy-cast?t=7793368ea1168a0a6b71\n\nAbout the show: The MercyCast is a podcast dedicated to learning the subtle art of compassion through the adversity of everyday life.\n\nJoin Raleigh Sadler, the host, as he has honest and thought-provoking conversations with friends he has met along the way.",
       "endAt": "2026-10-14T10:00:00-05:00",
       "location": "https://riverside.fm/studio/mercy-cast?t=7793368ea1168a0a6b71",
       "owner": "Emanuel",
       "startAt": "2026-10-14T09:00:00-05:00",
       "timezone": "America/Chicago",
-      "title": "MercyCast Podcast"
+      "title": "MercyCast Podcast",
+      "updatedAt": "2026-10-14T06:14:19.201Z"
     },
     {
       "_recordId": 248,
@@ -1581,13 +1597,14 @@
     {
       "_recordId": 263,
       "allDay": false,
+      "details": "Google Meet: https://meet.google.com/jhf-dicw-knz",
       "endAt": "2026-10-15T10:30:00-05:00",
+      "meetLink": "https://meet.google.com/jhf-dicw-knz",
       "owner": "Emanuel",
       "startAt": "2026-10-15T10:00:00-05:00",
       "timezone": "America/New_York",
       "title": "30-MIN Chat + Howard Right Now Media",
-      "details": "Google Meet: https://meet.google.com/jhf-dicw-knz",
-      "meetLink": "https://meet.google.com/jhf-dicw-knz"
+      "updatedAt": "2026-10-14T06:19:12.288Z"
     },
     {
       "_recordId": 268,
@@ -1604,34 +1621,44 @@
       "_recordId": 270,
       "allDay": false,
       "details": "Flight 1: DL2730 (Boeing 717-200)\nDeparture: BTR 3:49 PM\nArrival: ATL (40 min layover)\nConfirmation #GW33EY\n\nFlight 2: DL0996 (Airbus A350-900)\nDeparture: ATL\nArrival: LAX 8:35 PM\nConfirmation #GW33EY\n\nReturn: Oct 31, 2026 12:15p PDT",
-      "endAt": "2026-10-29T22:35:00-05:00",
-      "location": "Baton Rouge (BTR) \u2192 Los Angeles (LAX)",
+      "endAt": "2026-10-29T20:35:00-07:00",
+      "endTimezone": "America/Los_Angeles",
+      "location": null,
       "owner": "Emanuel",
       "startAt": "2026-10-29T15:49:00-05:00",
+      "status": "booked",
       "timezone": "America/Chicago",
-      "title": "Flight to Los Angeles"
+      "title": "Flight to Los Angeles",
+      "traveler": "Emanuel",
+      "updatedAt": "2026-10-14T06:19:12.288Z"
     },
     {
       "_recordId": 272,
       "allDay": false,
-      "details": "Confirmation #ATTEG4\nUnited Express (GoJet Airlines)\nDeparture: LFT 12:03 PM\nArrival: IAH 1:25 PM",
+      "details": "Departure: LFT 12:03 PM\nArrival: IAH 1:25 PM\n\nConfirmation #ATTEG4\nUnited Express (GoJet Airlines)\n\nJude 3 Project \u2014 Ask Initiative at Texas Southern University, Houston, TX.\n\neTicket: 01621480274363\nTotal: $896.80\n\n[Boarding Pass](https://michelleguessa-glitch.github.io/if-command-center/boarding-pass-houston-lft-iah.jpg)\n\nReturn: Oct 14, 2026 3:29p CDT",
       "endAt": "2026-10-13T13:25:00-05:00",
-      "location": "Lafayette (LFT) \u2192 Houston (IAH)",
+      "location": null,
       "owner": "Emanuel",
       "startAt": "2026-10-13T12:03:00-05:00",
+      "status": "booked",
       "timezone": "America/Chicago",
-      "title": "Flight to Houston"
+      "title": "Flight to Houston",
+      "traveler": "Emanuel",
+      "updatedAt": "2026-10-14T06:19:12.288Z"
     },
     {
       "_recordId": 273,
       "allDay": false,
-      "details": "Confirmation #ATTEG4\nUnited Express (Mesa Airlines)\nDeparture: IAH 2:20 PM\nArrival: LFT 3:29 PM\n\n[Boarding Pass](https://michelleguessa-glitch.github.io/if-command-center/boarding-pass-ua6177-oct14.jpg)",
+      "details": "Departure: IAH 2:20 PM\nArrival: LFT 3:29 PM\n\nConfirmation #ATTEG4\nUnited Express (Mesa Airlines)\n\nReturn to Lafayette from Houston.\n\n[Boarding Pass](https://michelleguessa-glitch.github.io/if-command-center/boarding-pass-ua6177-oct14.jpg)",
       "endAt": "2026-10-14T15:29:00-05:00",
-      "location": "Houston (IAH) \u2192 Lafayette (LFT)",
+      "location": null,
       "owner": "Emanuel",
       "startAt": "2026-10-14T14:20:00-05:00",
+      "status": "booked",
       "timezone": "America/Chicago",
-      "title": "Flight to LFT"
+      "title": "Flight to LFT",
+      "traveler": "Emanuel",
+      "updatedAt": "2026-10-14T06:19:12.288Z"
     },
     {
       "_recordId": 274,
@@ -2186,30 +2213,32 @@
       "_recordId": 203,
       "category": "media",
       "email": "mckenzie@storytoldpr.com",
+      "groupLabel": "StoryTold PR",
+      "keyContacts": [
+        {
+          "email": "mckenzie@storytoldpr.com",
+          "name": "McKenzie Masters",
+          "phone": "",
+          "title": "PR"
+        },
+        {
+          "email": "maddie@storytoldpr.com",
+          "name": "Maddie Boarman",
+          "phone": "",
+          "title": "PR"
+        },
+        {
+          "email": "elizabeth@storytoldpr.com",
+          "name": "Elizabeth Cole",
+          "phone": "",
+          "title": "PR contact"
+        }
+      ],
       "mediaType": "pr_firm",
       "name": "StoryTold",
       "notes": "Key people: McKenzie \u2014 PR, mckenzie@storytoldpr.com. Spare heading book launch media campaign.",
-      "organization": "StoryTold",
-      "contacts": [
-        {
-          "title": "PR",
-          "name": "McKenzie Masters",
-          "email": "mckenzie@storytoldpr.com",
-          "phone": ""
-        },
-        {
-          "title": "PR",
-          "name": "Maddie Boarman",
-          "email": "maddie@storytoldpr.com",
-          "phone": ""
-        },
-        {
-          "title": "PR contact",
-          "name": "Elizabeth Cole",
-          "email": "elizabeth@storytoldpr.com",
-          "phone": ""
-        }
-      ]
+      "organization": "StoryTold PR",
+      "updatedAt": "2026-10-14T06:14:19.201Z"
     },
     {
       "_recordId": 204,
@@ -2233,10 +2262,31 @@
     {
       "_recordId": 206,
       "category": "media",
+      "keyContacts": [
+        {
+          "email": "pjames@behaviorgenius.com",
+          "name": "Portia James",
+          "phone": "",
+          "title": "Undivided Podcast"
+        },
+        {
+          "email": "kgranger@behaviorgenius.com",
+          "name": "Kamora Granger",
+          "phone": "",
+          "title": "Undivided Podcast"
+        },
+        {
+          "email": "rjames@behaviorgenius.com",
+          "name": "RJ James",
+          "phone": "(951) 236-5131",
+          "title": "CEO"
+        }
+      ],
       "mediaType": "podcast",
       "name": "Behavior Genius",
       "notes": "Key people: RJ James \u2014 CEO, rjames@behaviorgenius.com, (951) 236-5131; Portia James \u2014 Undivided Podcast, pjames@behaviorgenius.com; Kamora Granger \u2014 Undivided Podcast, kgranger@behaviorgenius.com. www.BehaviorGenius.com.",
       "organization": "Undivided Podcast",
+      "updatedAt": "2026-10-14T06:27:28.374Z",
       "website": "www.BehaviorGenius.com"
     },
     {
@@ -2390,18 +2440,6 @@
       "role": "Bishop (speaker pitch recipient)"
     },
     {
-      "_recordId": 245,
-      "category": "media",
-      "createdAt": "2026-09-30T14:26:02.055Z",
-      "email": "",
-      "groupLabel": "MercyCast Podcast",
-      "linkedBookingId": "mercycast-podcast-2026-10-14",
-      "name": "Raleigh Sadler",
-      "organization": "",
-      "role": "Host of the MercyCast podcast",
-      "updatedAt": "2026-09-30T14:28:23.170Z"
-    },
-    {
       "_recordId": 262,
       "category": "Organization",
       "city": "Houston, TX",
@@ -2413,65 +2451,69 @@
     },
     {
       "_recordId": 281,
-      "name": "David C. Cook",
-      "organization": "David C. Cook",
       "category": "media",
-      "mediaType": "publishing_company",
-      "contacts": [
+      "createdAt": "2026-10-14T06:14:19.201Z",
+      "groupLabel": "David C. Cook",
+      "keyContacts": [
         {
-          "title": "Sr. Marketing Director",
-          "name": "Rudy Kish",
           "email": "rudy.kish@davidccook.org",
-          "phone": "719.536.0100"
+          "name": "Rudy Kish",
+          "phone": "719.536.0100",
+          "title": "Sr. Marketing Director"
         },
         {
-          "title": "Author Order Specialist",
-          "name": "Rex Louth",
           "email": "authororders@davidccook.org",
-          "phone": ""
+          "name": "Rex Louth",
+          "phone": "",
+          "title": "Author Order Specialist"
         },
         {
-          "title": "Author-discount pricing contact",
-          "name": "Luke McKinnon",
           "email": "luke.mckinnon@davidccook.org",
-          "phone": ""
+          "name": "Luke McKinnon",
+          "phone": "",
+          "title": "author-discount pricing contact"
         },
         {
-          "title": "PR team",
-          "name": "Asa Stringer",
           "email": "asa.stringer@davidccook.org",
-          "phone": ""
+          "name": "Asa Stringer",
+          "phone": "",
+          "title": "PR team"
         },
         {
-          "title": "Alternate book-shipment contact",
-          "name": "Tammi Gray",
           "email": "tammi.gray@davidccook.org",
-          "phone": ""
+          "name": "Tammi Gray",
+          "phone": "",
+          "title": "alternate book-shipment contact"
         }
       ],
-      "notes": "Publisher for Confessions of a Submissive Wife. Book orders and PR."
+      "mediaType": "publishing_company",
+      "name": "David C. Cook",
+      "organization": "David C. Cook",
+      "updatedAt": "2026-10-14T06:14:19.201Z"
     },
     {
       "_recordId": 282,
-      "name": "The Grind House.co",
-      "organization": "The Grind House.co",
       "category": "event",
-      "website": "www.thegrindhouse.co",
-      "contacts": [
+      "createdAt": "2026-10-14T06:14:19.201Z",
+      "groupLabel": "The Grind House.co",
+      "keyContacts": [
         {
-          "title": "Founder & CEO",
-          "name": "Christina Faith",
           "email": "cfaith@thegrindhouse.co",
-          "phone": "610-731-6064"
+          "name": "Christina Faith",
+          "phone": "610-731-6064",
+          "title": "Founder & CEO"
         },
         {
-          "title": "",
-          "name": "Jana Henry",
           "email": "jana@thegrindhouse.co",
-          "phone": ""
+          "name": "Jana Henry",
+          "phone": "",
+          "title": ""
         }
       ],
-      "notes": "Event venue. Space rentals: https://thegrindhouse.co/space-rentals. Contacted Jun 2026 re: EPK filming/content shoot for Emanuel book launch."
+      "name": "The Grind House.co",
+      "organization": "The Grind House.co",
+      "updatedAt": "2026-10-14T06:14:19.201Z",
+      "website": "www.thegrindhouse.co"
     }
   ],
   "dailyTasks": [
@@ -2688,7 +2730,7 @@
       "updatedAt": "2026-09-25T22:59:15.220Z"
     }
   ],
-  "latestUpdateAt": "2026-09-30T14:28:23.170Z",
+  "latestUpdateAt": "2026-10-14T06:30:03.506Z",
   "notes": [
     {
       "_recordId": 152,
@@ -3003,7 +3045,15 @@
     {
       "_recordId": 237,
       "category": "Book Campaign",
-      "summary": "Last received (Sep 30, 12:54 PM EDT) \u2014 McKenzie Masters replied that outreach is underway across TBN, Daystar, and comparable networks, and she will keep the media grid spreadsheet updated with the latest; StoryTold PR has strong contacts at those outlets but is happy to use Emanuel's existing relationships to move things faster.\n\nLast outgoing (Sep 30, 11:10 AM EDT) \u2014 Michelle asked McKenzie Masters for an update on the traction with TBN, Daystar, and the other comparable networks; said if she has secured a contact who is slow to move forward, Emanuel is available to work alongside her and leverage his contacts to help push things through.\n\nEarlier (Sep 30, 10:00 AM EDT) \u2014 Maddie Boarman confirmed and scheduled the MercyCast VIDEO podcast interview: Emanuel will appear on the MercyCast podcast (host Raleigh Sadler, ~3K monthly listens) on Wed Oct 14, 10:00\u201311:00 AM EDT \u2014 a 1-hour video + audio recorded interview via Google Meet (https://meet.google.com/csu-srrp-rug). A calendar invite went to emanuellambert@gmail.com. Podcast booking record and contacts added; event added to Emanuel's Google Calendar.\n\nEarlier (Sep 30, 10:53 AM EDT) \u2014 Michelle thanked Maddie for scheduling the MercyCast interview.\n\nEarlier (Sep 29, 11:58 PM EDT) \u2014 Michelle told Maddie that Emanuel is available at 10AM on 10/14.\n\nEarlier (Sep 29, 11:56 AM EDT) \u2014 Maddie Boarman secured interest (not yet a booking at that time) from MercyCast with Raleigh Sadler (~3K monthly listens) for a 1-hour video + audio interview; shared his availability Oct 13\u201322 (EDT) and asked what works for Emanuel.\n\nEarlier (Sep 29, 11:28 AM EDT) \u2014 McKenzie Masters replied that StoryTold PR is in full pitching and follow-up mode; some shows are slower to respond.",
+      "contactEmail": "",
+      "contactName": "",
+      "contactPhone": "",
+      "emailDate": "",
+      "emailSender": "",
+      "emailSubject": "",
+      "relatedEvent": "",
+      "status": "",
+      "summary": "Last received (Tue, Oct 13, 3:31 PM EDT) \u2014 Maddie Boarman (StoryTold PR) sent Emanuel's interview sheet for his MercyCast interview tomorrow: Wed Oct 14, 10:00\u201311:00 AM EDT, a 1-hour video + audio recorded interview with host Raleigh Sadler. The updated invite carries the Riverside studio link and 10 potential questions for Raleigh. Asa Stringer's auto-reply (8:48 PM EDT) said he has limited email access Oct 14 and responses may be delayed.\n\nLast outgoing (Tue, Oct 13, 8:48 PM EDT) \u2014 Michelle replied to Maddie: \"Awesome, thank you so much!\"\n\nEarlier (Sep 30, 12:54 PM EDT) \u2014 McKenzie Masters replied that outreach is underway across TBN, Daystar, and comparable networks, and she will keep the media grid spreadsheet updated with the latest; StoryTold PR has strong contacts at those outlets but is happy to use Emanuel's existing relationships to move things faster.\n\nEarlier (Sep 30, 11:10 AM EDT) \u2014 Michelle asked McKenzie Masters for an update on the traction with TBN, Daystar, and the other comparable networks; said if she has secured a contact who is slow to move forward, Emanuel is available to work alongside her and leverage his contacts to help push things through.\n\nEarlier (Sep 30, 10:00 AM EDT) \u2014 Maddie Boarman confirmed and scheduled the MercyCast VIDEO podcast interview: Emanuel will appear on the MercyCast podcast (host Raleigh Sadler, ~3K monthly listens) on Wed Oct 14, 10:00\u201311:00 AM EDT \u2014 a 1-hour video + audio recorded interview via Google Meet (https://meet.google.com/csu-srrp-rug). A calendar invite went to emanuellambert@gmail.com. Podcast booking record and contacts added.\n\nEarlier (Sep 30, 10:53 AM EDT) \u2014 Michelle thanked Maddie for scheduling the MercyCast interview.\n\nEarlier (Sep 29, 11:58 PM EDT) \u2014 Michelle told Maddie that Emanuel is available at 10AM on 10/14.\n\nEarlier (Sep 29, 11:56 AM EDT) \u2014 Maddie Boarman secured interest (not yet a booking at that time) from MercyCast with Raleigh Sadler (~3K monthly listens) for a 1-hour video + audio interview; shared his availability Oct 13\u201322 (EDT) and asked what works for Emanuel.\n\nEarlier (Sep 29, 11:28 AM EDT) \u2014 McKenzie Masters replied that StoryTold PR is in full pitching and follow-up mode; some shows are slower to respond.",
       "topic": "PR campaign follow-up (StoryTold PR / David C. Cook)"
     },
     {
@@ -3167,21 +3217,25 @@
       "details": "Return to Lafayette after the October 11 Sharon Baptist Church event in Philadelphia.\n\nFlight 1: DL1152\nDeparture: PHL 6:35 AM\nArrival: ATL 8:49 AM\nConfirmation #HRED8H\nLayover: 1 hr 10 min\n\nFlight 2: DL5526\nDeparture: ATL 9:59 AM\nArrival: LFT 10:48 AM\nConfirmation #HRED8H",
       "endAt": "2026-10-12T10:48:00-05:00",
       "endTimezone": "America/Chicago",
+      "location": null,
       "startAt": "2026-10-12T06:35:00-04:00",
       "status": "booked",
       "timezone": "America/New_York",
       "title": "Flight to LFT",
-      "traveler": "Emanuel"
+      "traveler": "Emanuel",
+      "updatedAt": "2026-10-14T06:19:12.288Z"
     },
     {
       "_recordId": 129,
       "details": "Outbound to Chicago for the October 8 Esau McCaulley Podcast taping and the October 10 Coffee, Hip-Hop & Mental Health event.\n\nFlight 1: UA4000\nDeparture: LFT (Lafayette, LA)\nArrival: IAH (Houston, TX)\nConfirmation #IETK0P\n\nFlight 2: UA2182\nDeparture: IAH (Houston, TX)\nArrival: ORD (Chicago, IL)\nConfirmation #IETK0P\n\nPassenger: Emanuel Lambert Jr. Boarding passes issued Oct 7. Departure/arrival times were not included in the United email \u2014 do not invent times.",
       "endAt": "2026-10-08",
+      "location": null,
       "startAt": "2026-10-08",
       "status": "booked",
       "timezone": "America/Chicago",
       "title": "Flight to Chicago",
-      "traveler": "Emanuel"
+      "traveler": "Emanuel",
+      "updatedAt": "2026-10-14T06:19:12.288Z"
     },
     {
       "_recordId": 130,
@@ -3202,13 +3256,14 @@
       "calendarImportKey": "flight-atl-2026-10-16",
       "details": "Departure: LFT 11:32 AM\nArrival: ATL 2:19 PM\n\nConfirmation #HGSM9K\nDelta Connection (Endeavor Air) DL5526\nCanadair Regional Jet 900\nSeat 10A Main Classic",
       "endAt": "2026-10-17T14:19:00-04:00",
+      "endTimezone": "America/New_York",
       "location": null,
       "startAt": "2026-10-17T11:32:00-05:00",
       "status": "booked",
       "timezone": "America/Chicago",
       "title": "Flight to ATL",
       "traveler": "Emanuel",
-      "endTimezone": "America/New_York"
+      "updatedAt": "2026-10-14T06:19:12.288Z"
     },
     {
       "_recordId": 133,
@@ -3227,15 +3282,16 @@
       "_recordId": 134,
       "calendarImportCapturedAt": "2026-09-22T15:31:38.000Z",
       "calendarImportKey": "flight-bos-2026-10-23",
-      "details": "Departure: DFW 5:25 PM\nArrival: BOS 10:19 PM\n\nDelta Air Lines DL2057\nDelta Comfort Classic",
+      "details": "Departure: DFW 5:25 PM\nArrival: BOS 10:19 PM\n\nDelta Air Lines DL2057\nDelta Comfort Classic\n\nPending \u2014 awaiting confirmation number from Nina Kumar",
       "endAt": "2026-10-23T22:19:00-04:00",
+      "endTimezone": "America/New_York",
       "location": null,
       "startAt": "2026-10-23T17:25:00-05:00",
       "status": "pending",
       "timezone": "America/Chicago",
       "title": "Flight to BOS",
       "traveler": "Emanuel",
-      "endTimezone": "America/New_York"
+      "updatedAt": "2026-10-14T06:19:12.288Z"
     },
     {
       "_recordId": 135,
@@ -3288,33 +3344,39 @@
     {
       "_recordId": 269,
       "details": "Flight 1: DL2730 (Boeing 717-200)\nDeparture: BTR 3:49 PM\nArrival: ATL (40 min layover)\nConfirmation #GW33EY\n\nFlight 2: DL0996 (Airbus A350-900)\nDeparture: ATL\nArrival: LAX 8:35 PM\nConfirmation #GW33EY\n\nReturn: Oct 31, 2026 12:15p PDT",
-      "endAt": "2026-10-31T22:11:00-05:00",
-      "endTimezone": "America/Chicago",
+      "endAt": "2026-10-29T20:35:00-07:00",
+      "endTimezone": "America/Los_Angeles",
+      "location": null,
       "startAt": "2026-10-29T15:49:00-05:00",
       "status": "booked",
       "timezone": "America/Chicago",
       "title": "Flight to Los Angeles",
-      "traveler": "Emanuel"
+      "traveler": "Emanuel",
+      "updatedAt": "2026-10-14T06:19:12.288Z"
     },
     {
       "_recordId": 271,
-      "details": "[Boarding Pass](https://michelleguessa-glitch.github.io/if-command-center/boarding-pass-houston-lft-iah.jpg)\n\nJude 3 Project \u2014 Ask Initiative at Texas Southern University, Houston, TX.\n\nConfirmation #ATTEG4\nUnited Express (GoJet Airlines)\nDeparture: LFT 12:03 PM\nArrival: IAH 1:25 PM\n\nReturn: Oct 14, 2026 3:29p CDT\n\neTicket: 01621480274363\nTotal: $896.80",
+      "details": "Departure: LFT 12:03 PM\nArrival: IAH 1:25 PM\n\nConfirmation #ATTEG4\nUnited Express (GoJet Airlines)\n\nJude 3 Project \u2014 Ask Initiative at Texas Southern University, Houston, TX.\n\neTicket: 01621480274363\nTotal: $896.80\n\n[Boarding Pass](https://michelleguessa-glitch.github.io/if-command-center/boarding-pass-houston-lft-iah.jpg)\n\nReturn: Oct 14, 2026 3:29p CDT",
       "endAt": "2026-10-13T13:25:00-05:00",
+      "location": null,
       "startAt": "2026-10-13T12:03:00-05:00",
       "status": "booked",
       "timezone": "America/Chicago",
       "title": "Flight to Houston",
-      "traveler": "Emanuel"
+      "traveler": "Emanuel",
+      "updatedAt": "2026-10-14T06:19:12.288Z"
     },
     {
       "_recordId": 279,
-      "details": "Return to Lafayette from Houston.\n\nConfirmation #ATTEG4\nUnited Express (Mesa Airlines)\nDeparture: IAH 2:20 PM\nArrival: LFT 3:29 PM\n\n[Boarding Pass](https://michelleguessa-glitch.github.io/if-command-center/boarding-pass-ua6177-oct14.jpg)",
+      "details": "Departure: IAH 2:20 PM\nArrival: LFT 3:29 PM\n\nConfirmation #ATTEG4\nUnited Express (Mesa Airlines)\n\nReturn to Lafayette from Houston.\n\n[Boarding Pass](https://michelleguessa-glitch.github.io/if-command-center/boarding-pass-ua6177-oct14.jpg)",
       "endAt": "2026-10-14T15:29:00-05:00",
+      "location": null,
       "startAt": "2026-10-14T14:20:00-05:00",
       "status": "booked",
       "timezone": "America/Chicago",
       "title": "Flight to LFT",
-      "traveler": "Emanuel"
+      "traveler": "Emanuel",
+      "updatedAt": "2026-10-14T06:19:12.288Z"
     }
   ]
 }
