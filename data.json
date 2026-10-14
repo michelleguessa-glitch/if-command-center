@@ -1140,7 +1140,7 @@
       "notes": "MercyCast podcast: https://redcircle.com/shows/the-mercycast\n\nVideo + audio recorded interview about 'the subtle art of compassion through the adversity of everyday life.'\n\nMichelle confirmed Emanuel's availability for 10AM on 10/14 on Sep 29 at 11:58 PM EDT; Maddie scheduled it Sep 30 at 10:00 AM EDT and sent the Google Calendar invite.\n\nCC'd on the thread: Annette Brickbealer, Rudy Kish, Asa Stringer (David C. Cook).\n\nHit time: 9:00 am CST\nHost: Raleigh Sadler\nRiverside: https://riverside.fm/studio/mercy-cast?t=7793368ea1168a0a6b71\n\nAbout the show: The MercyCast is a podcast dedicated to learning the subtle art of compassion through the adversity of everyday life.\n\nJoin Raleigh Sadler, the host, as he has honest and thought-provoking conversations with friends he has met along the way.",
       "startDate": "2026-10-14",
       "status": "confirmed",
-      "timeLabel": "10:00 AM\u201311:00 AM EDT",
+      "timeLabel": "9:00 AM\u201310:00 AM CDT",
       "timezone": "America/New_York",
       "title": "MercyCast Podcast",
       "venue": "Google Meet (video)"
@@ -1500,11 +1500,11 @@
       "_recordId": 243,
       "createdAt": "2026-09-30T14:26:02.055Z",
       "details": "MercyCast (host Raleigh Sadler, ~3K monthly listens), booked by StoryTold PR / Maddie Boarman.\n\nGoogle Meet: https://meet.google.com/csu-srrp-rug | Phone (US): +1 240-705-8590, PIN: 429952653.\n\nInvite organizer: Maddie Boarman (maddie@storytoldpr.com); guests optional: michelleguessa@gmail.com, Mckenzie Masters, Elizabeth Cole.\n\nHit time: 9:00 am CST\nHost: Raleigh Sadler\nRiverside: https://riverside.fm/studio/mercy-cast?t=7793368ea1168a0a6b71\n\nAbout the show: The MercyCast is a podcast dedicated to learning the subtle art of compassion through the adversity of everyday life.\n\nJoin Raleigh Sadler, the host, as he has honest and thought-provoking conversations with friends he has met along the way.",
-      "endAt": "2026-10-14T11:00:00-04:00",
+      "endAt": "2026-10-14T10:00:00-05:00",
       "location": "Google Meet (video)",
       "owner": "Emanuel",
-      "startAt": "2026-10-14T10:00:00-04:00",
-      "timezone": "America/New_York",
+      "startAt": "2026-10-14T09:00:00-05:00",
+      "timezone": "America/Chicago",
       "title": "MercyCast Podcast"
     },
     {
