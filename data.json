@@ -1956,6 +1956,20 @@
       "createdAt": "2026-09-26T19:58:53.827Z",
       "email": "booking@jerryflowersministries.com",
       "groupLabel": "Jerry Flowers Ministries",
+      "keyContacts": [
+        {
+          "email": "",
+          "name": "Pastor Jerry",
+          "phone": "",
+          "title": "Host"
+        },
+        {
+          "email": "booking@jerryflowersministries.com",
+          "name": "Amber Bergeron",
+          "phone": "832-775-2207",
+          "title": "Executive Assistant"
+        }
+      ],
       "linkedBookingId": null,
       "mediaType": "podcast",
       "name": "Jerry Flowers Ministries",
@@ -1963,7 +1977,7 @@
       "organization": "Jerry Flowers Ministries",
       "phone": "832-775-2207",
       "role": null,
-      "updatedAt": "2026-09-26T19:58:53.827Z",
+      "updatedAt": "2026-10-14T06:54:44.732Z",
       "website": "https://www.jerryflowersministries.com"
     },
     {
@@ -2203,11 +2217,23 @@
       "_recordId": 202,
       "category": "media",
       "email": "onthepathpodcast@gmail.com",
+      "keyContacts": [
+        {
+          "assistant": "Mikayla Janeese",
+          "email": "info@cherylnembhard.com",
+          "instagram": "@cherylnembhard",
+          "name": "Cheryl Nembhard",
+          "phone": "416-551-7196",
+          "showEmail": "onthepathpodcast@gmail.com",
+          "title": "Host"
+        }
+      ],
       "mediaType": "podcast",
       "name": "On The Path Podcast",
       "notes": "Key people: Mikayla Janeese \u2014 Executive assistant, onthepathpodcast@gmail.com, 416-551-7196. EA for Cheryl Nembhard.",
       "organization": "On The Path Podcast",
-      "phone": "416-551-7196"
+      "phone": "416-551-7196",
+      "updatedAt": "2026-10-14T06:54:44.732Z"
     },
     {
       "_recordId": 203,
@@ -2244,20 +2270,38 @@
       "_recordId": 204,
       "category": "media",
       "email": "dafixxradioshow@gmail.com",
+      "keyContacts": [
+        {
+          "email": "dafixxradioshow@gmail.com",
+          "name": "Gwen",
+          "phone": "",
+          "title": "Radio host"
+        }
+      ],
       "mediaType": "radio",
       "name": "Da'Fixx Radio Show",
       "notes": "Key people: Gwen \u2014 Radio host, dafixxradioshow@gmail.com.",
-      "organization": "Da'Fixx Radio Show"
+      "organization": "Da'Fixx Radio Show",
+      "updatedAt": "2026-10-14T06:54:44.732Z"
     },
     {
       "_recordId": 205,
       "category": "media",
       "email": "thomas@maltivas.com",
+      "keyContacts": [
+        {
+          "email": "thomas@maltivas.com",
+          "name": "Thomas",
+          "phone": "337-519-8757",
+          "title": "Photographer/Videographer"
+        }
+      ],
       "mediaType": "photographer",
       "name": "Maltivas",
       "notes": "Key people: Thomas \u2014 Photographer \u00b7 Videographer, thomas@maltivas.com, 337-519-8757. From Emanuel admin intake.",
       "organization": "Maltivas",
-      "phone": "337-519-8757"
+      "phone": "337-519-8757",
+      "updatedAt": "2026-10-14T06:54:44.732Z"
     },
     {
       "_recordId": 206,
@@ -2293,27 +2337,60 @@
       "_recordId": 207,
       "category": "media",
       "email": "ebony@epimediagroup.com",
+      "keyContacts": [
+        {
+          "email": "ebony@epimediagroup.com",
+          "name": "Ebony Porter-Ike",
+          "phone": "",
+          "title": "Podcast host"
+        }
+      ],
       "mediaType": "pr_firm",
       "name": "EPI Media Group",
       "notes": "Key people: Ebony Porter-Ike \u2014 Podcast host, ebony@epimediagroup.com. Pitched podcast for Emanuel re 'Forgive Me If I Was Rude'.",
-      "organization": "EPI Media Group"
+      "organization": "EPI Media Group",
+      "updatedAt": "2026-10-14T06:54:44.732Z"
     },
     {
       "_recordId": 208,
       "category": "media",
+      "keyContacts": [
+        {
+          "email": "jamesrosseau@holyculture.net",
+          "name": "James Rosseau (Trig)",
+          "phone": "",
+          "title": "Founder/CEO"
+        },
+        {
+          "email": "kingcyz@holyculture.net",
+          "name": "King Cyz",
+          "phone": "",
+          "title": "Radio host (SiriusXM 140)"
+        }
+      ],
       "mediaType": "radio",
       "name": "Holy Culture / The Corelink Solution",
       "notes": "Key people: James Rosseau (Trig) \u2014 Founder / CEO, jamesrosseau@holyculture.net; King Cyz \u2014 Radio host, kingcyz@holyculture.net (Holy Culture Radio, SiriusXM 140).",
-      "organization": "Holy Culture / The Corelink Solution"
+      "organization": "Holy Culture / The Corelink Solution",
+      "updatedAt": "2026-10-14T06:54:44.732Z"
     },
     {
       "_recordId": 209,
       "category": "media",
       "email": "Eunice@upsettheworld.com",
+      "keyContacts": [
+        {
+          "email": "Eunice@upsettheworld.com",
+          "name": "Eunice",
+          "phone": "",
+          "title": "Admin"
+        }
+      ],
       "mediaType": "podcast",
       "name": "The Basement with Tim Ross",
       "notes": "Key people: Eunice \u2014 Admin, Eunice@upsettheworld.com. Upset the World.",
-      "organization": "The Basement with Tim Ross"
+      "organization": "The Basement with Tim Ross",
+      "updatedAt": "2026-10-14T06:54:44.732Z"
     },
     {
       "_recordId": 212,
@@ -2730,7 +2807,7 @@
       "updatedAt": "2026-09-25T22:59:15.220Z"
     }
   ],
-  "latestUpdateAt": "2026-10-14T06:30:03.506Z",
+  "latestUpdateAt": "2026-10-14T06:54:44.732Z",
   "notes": [
     {
       "_recordId": 152,
