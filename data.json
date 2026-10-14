@@ -2591,6 +2591,29 @@
       "organization": "The Grind House.co",
       "updatedAt": "2026-10-14T06:14:19.201Z",
       "website": "www.thegrindhouse.co"
+    },
+    {
+      "_recordId": 283,
+      "category": "church",
+      "createdAt": "2026-10-14T07:12:59.473Z",
+      "groupLabel": "Rock City Church Birmingham",
+      "keyContacts": [
+        {
+          "email": "",
+          "name": "Pastor Mike Jr.",
+          "phone": "",
+          "title": "Pastor"
+        },
+        {
+          "email": "lgooden@therockcity.org",
+          "name": "Lesley Gooden",
+          "phone": "(205) 531-5693",
+          "title": "Pastor of Education"
+        }
+      ],
+      "name": "Rock City Church Birmingham",
+      "organization": "Rock City Church Birmingham",
+      "updatedAt": "2026-10-14T07:12:59.473Z"
     }
   ],
   "dailyTasks": [
@@ -2807,7 +2830,7 @@
       "updatedAt": "2026-09-25T22:59:15.220Z"
     }
   ],
-  "latestUpdateAt": "2026-10-14T07:03:13.063Z",
+  "latestUpdateAt": "2026-10-14T07:12:59.473Z",
   "notes": [
     {
       "_recordId": 152,
