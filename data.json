@@ -1135,12 +1135,12 @@
       "contactEmail": "maddie@storytoldpr.com",
       "contactName": "Maddie Boarman",
       "createdAt": "2026-09-30T14:26:02.055Z",
-      "endDate": "2026-10-14",
+      "endDate": "",
       "id": "mercycast-podcast-2026-10-14",
       "kind": "podcast",
       "mediaType": "podcast",
       "notes": "RESCHEDULING \u2014 Wed Oct 14, 7:01 AM EDT (Maddie Boarman, StoryTold PR): host Raleigh Sadler asked to reschedule today's interview \u2014 he double-booked and will be on a flight during the 10:00\u201311:00 AM EDT slot. Maddie is coordinating new dates. Today's slot is no longer confirmed; the interview is PENDING new dates.\n\nHit time: 9:00 am CST\nHost: Raleigh Sadler\nRiverside: https://riverside.fm/studio/mercy-cast?t=7793368ea1168a0a6b71\n\nAbout the show: The MercyCast is a podcast dedicated to learning the subtle art of compassion through the adversity of everyday life.\n\nJoin Raleigh Sadler, the host, as he has honest and thought-provoking conversations with friends he has met along the way.",
-      "startDate": "2026-10-14",
+      "startDate": "",
       "status": "pending",
       "timeLabel": "Rescheduling \u2014 new date TBD",
       "timezone": "America/Chicago",
@@ -1509,18 +1509,6 @@
       "startAt": "2026-10-05T18:00:00-07:00",
       "timezone": "America/Los_Angeles",
       "title": "IG Live with Bishop Jakes"
-    },
-    {
-      "_recordId": 243,
-      "allDay": false,
-      "createdAt": "2026-09-30T14:26:02.055Z",
-      "details": "RESCHEDULING \u2014 Wed Oct 14, 7:01 AM EDT (Maddie Boarman, StoryTold PR): host Raleigh Sadler asked to reschedule today's interview \u2014 he double-booked and will be on a flight during the 10:00\u201311:00 AM EDT slot. Maddie is coordinating new dates. Today's slot is no longer confirmed; the interview is PENDING new dates.\n\nHit time: 9:00 am CST\nHost: Raleigh Sadler\nRiverside: https://riverside.fm/studio/mercy-cast?t=7793368ea1168a0a6b71\n\nAbout the show: The MercyCast is a podcast dedicated to learning the subtle art of compassion through the adversity of everyday life.\n\nJoin Raleigh Sadler, the host, as he has honest and thought-provoking conversations with friends he has met along the way.",
-      "endAt": "2026-10-14T10:00:00-05:00",
-      "location": "https://riverside.fm/studio/mercy-cast?t=7793368ea1168a0a6b71",
-      "owner": "Emanuel",
-      "startAt": "2026-10-14T09:00:00-05:00",
-      "timezone": "America/Chicago",
-      "title": "MercyCast Podcast"
     },
     {
       "_recordId": 248,
