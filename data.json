@@ -1765,7 +1765,7 @@
     {
       "_recordId": 72,
       "category": "stylist",
-      "city": null,
+      "city": "Philadelphia",
       "createdAt": "2026-09-20T14:38:30.484Z",
       "email": null,
       "groupLabel": null,
@@ -1777,12 +1777,12 @@
       "organization": null,
       "phone": "215-764-0068",
       "role": "Wardrobe stylist",
-      "updatedAt": "2026-09-20T23:11:37.855Z"
+      "updatedAt": "2026-10-14T07:03:13.063Z"
     },
     {
       "_recordId": 73,
       "category": "barber",
-      "city": null,
+      "city": "Tennessee",
       "createdAt": "2026-09-20T14:38:30.506Z",
       "email": null,
       "groupLabel": null,
@@ -1794,7 +1794,7 @@
       "organization": null,
       "phone": "901-310-7429",
       "role": "Barber (TN)",
-      "updatedAt": "2026-09-20T14:38:30.506Z"
+      "updatedAt": "2026-10-14T07:03:13.063Z"
     },
     {
       "_recordId": 74,
@@ -1850,7 +1850,7 @@
     {
       "_recordId": 81,
       "category": "media",
-      "city": null,
+      "city": "Texas",
       "createdAt": "2026-09-20T14:38:33.577Z",
       "email": "admin@iambrendapalmer.com",
       "groupLabel": null,
@@ -1862,7 +1862,7 @@
       "organization": null,
       "phone": null,
       "role": "Podcast host",
-      "updatedAt": "2026-09-20T19:22:30.000Z"
+      "updatedAt": "2026-10-14T07:03:13.063Z"
     },
     {
       "_recordId": 82,
@@ -2807,7 +2807,7 @@
       "updatedAt": "2026-09-25T22:59:15.220Z"
     }
   ],
-  "latestUpdateAt": "2026-10-14T06:54:44.732Z",
+  "latestUpdateAt": "2026-10-14T07:03:13.063Z",
   "notes": [
     {
       "_recordId": 152,
