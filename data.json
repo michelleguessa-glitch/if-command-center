@@ -1625,7 +1625,7 @@
     {
       "_recordId": 273,
       "allDay": false,
-      "details": "Confirmation #ATTEG4\nUnited Express (Mesa Airlines)\nDeparture: IAH 2:20 PM\nArrival: LFT 3:29 PM",
+      "details": "Confirmation #ATTEG4\nUnited Express (Mesa Airlines)\nDeparture: IAH 2:20 PM\nArrival: LFT 3:29 PM\n\nBoarding pass: UA 6177\nGate: B41\nSeat: 23D\nGroup: 3\nBoards: 1:55 PM\nSeq: 46\nTSA Pre\u2713",
       "endAt": "2026-10-14T15:29:00-05:00",
       "location": "Houston (IAH) \u2192 Lafayette (LFT)",
       "owner": "Emanuel",
@@ -3308,7 +3308,7 @@
     },
     {
       "_recordId": 279,
-      "details": "Return to Lafayette from Houston.\n\nConfirmation #ATTEG4\nUnited Express (Mesa Airlines)\nDeparture: IAH 2:20 PM\nArrival: LFT 3:29 PM",
+      "details": "Return to Lafayette from Houston.\n\nConfirmation #ATTEG4\nUnited Express (Mesa Airlines)\nDeparture: IAH 2:20 PM\nArrival: LFT 3:29 PM\n\nBoarding pass: UA 6177\nGate: B41\nSeat: 23D\nGroup: 3\nBoards: 1:55 PM\nSeq: 46\nTSA Pre\u2713",
       "endAt": "2026-10-14T15:29:00-05:00",
       "startAt": "2026-10-14T14:20:00-05:00",
       "status": "booked",
