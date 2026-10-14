@@ -1161,6 +1161,25 @@
       "title": "Jude 3 Project \u2014 Ask Initiative at Texas Southern",
       "topic": "Does Christianity Make Sense?",
       "venue": "Texas Southern University, Public Affairs Building, 3100 Cleburne St, Houston, TX 77004, USA"
+    },
+    {
+      "_recordId": 284,
+      "category": "Podcasts",
+      "contactEmail": "mckenzie@storytoldpr.com",
+      "contactName": "Mckenzie Masters",
+      "createdAt": "2026-10-14T14:19:29.353Z",
+      "endDate": "2026-11-05",
+      "id": "jesus-calling-podcast-2026-11-05",
+      "kind": "podcast",
+      "mediaType": "podcast",
+      "notes": "Organizer: Mckenzie Masters, StoryTold PR. Guests: Emanuel, Maddie Boarman, Elizabeth Cole. 1-hour audio/video virtual interview (25M+ podcast downloads). Booked by McKenzie Oct 14, 9:54 AM EDT; calendar invite received. Loaner headset requested Oct 6 \u2014 mailing address still to be provided. Devotional: McKenzie asked Oct 14 whether Emanuel wants a devotional mailed (to keep or to give) \u2014 Michelle has not yet answered.",
+      "startDate": "2026-11-05",
+      "status": "confirmed",
+      "timeLabel": "9:00 AM\u201310:00 AM CT",
+      "timezone": "America/Chicago",
+      "title": "Video Podcast interview: Jesus Calling",
+      "updatedAt": "2026-10-14T14:19:29.353Z",
+      "venue": null
     }
   ],
   "calendar": [
@@ -1679,6 +1698,19 @@
       "startAt": "2027-10-12T18:00:00-05:00",
       "timezone": "America/Chicago",
       "title": "House of Freedom"
+    },
+    {
+      "_recordId": 285,
+      "allDay": false,
+      "createdAt": "2026-10-14T14:19:29.353Z",
+      "details": "Video podcast interview: Jesus Calling. Thu Nov 5, 2026, 9:00\u201310:00 AM CT (10:00\u201311:00 AM ET). Remote/virtual \u2014 1-hour audio/video interview. Organizer: Mckenzie Masters, StoryTold PR (mckenzie@storytoldpr.com). Guests: Emanuel, Maddie Boarman, Elizabeth Cole.",
+      "endAt": "2026-11-05T10:00:00-06:00",
+      "location": "",
+      "owner": "Emanuel",
+      "startAt": "2026-11-05T09:00:00-06:00",
+      "timezone": "America/Chicago",
+      "title": "Video Podcast interview: Jesus Calling",
+      "updatedAt": "2026-10-14T14:19:29.353Z"
     }
   ],
   "capturedAt": "2026-09-20T21:15:26-04:00",
@@ -2841,7 +2873,7 @@
       "updatedAt": "2026-09-25T22:59:15.220Z"
     }
   ],
-  "latestUpdateAt": "2026-10-14T07:40:11.390Z",
+  "latestUpdateAt": "2026-10-14T14:19:29.353Z",
   "notes": [
     {
       "_recordId": 152,
@@ -3222,6 +3254,22 @@
       "status": "closed",
       "summary": "Last received (Sep 1, 9:09 AM EDT) \u2014 Rudy Kish replied \"Thank you Michelle.\"\n\nEarlier (Sep 1, 7:02 AM EDT) \u2014 Michelle thanked Rudy for the clarification and confirmed they will proceed with a virtual interview; asked McKenzie for thoughts on Emanuel doing the recorded interview on the book release date even though it won't drop that day.\n\nFirst (Aug 31, 9:31 PM EDT) \u2014 Rudy Kish clarified David C. Cook covers expenses for national media only; since All Rise with Abdu Murray is not national media, they would not cover travel expenses, and suggested a virtual interview instead. (Booking tracked under Updates > Podcasts: All Rise with Abdu Murray.)",
       "topic": "All Rise expense coverage (David C. Cook)"
+    },
+    {
+      "_recordId": 286,
+      "category": "Podcasts",
+      "contactEmail": "",
+      "contactName": "",
+      "contactPhone": "",
+      "createdAt": "2026-10-14T14:19:29.353Z",
+      "emailDate": "",
+      "emailSender": "",
+      "emailSubject": "",
+      "relatedEvent": "",
+      "status": "",
+      "summary": "Last received (Wed, Oct 14, 9:54 AM EDT) \u2014 Mckenzie Masters (StoryTold PR) confirmed the Jesus Calling Podcast interview is booked for Thu Nov 5, 9:00\u201310:00 AM CST (10:00\u201311:00 AM EST): a 1-hour audio/video virtual interview. She said the calendar invite is sent and more info is coming. She asked Michelle to confirm whether Emanuel needs a Jesus Calling devotional mailed to him, either to keep or to give.\n\nLast outgoing (Tue, Oct 13, 1:02 PM EDT) \u2014 Michelle confirmed Nov 5 at 9 AM works for Emanuel.\n\nTravel: virtual interview \u2014 no travel needed.",
+      "topic": "Jesus Calling podcast interview",
+      "updatedAt": "2026-10-14T14:19:29.353Z"
     }
   ],
   "revenueSummary": {
