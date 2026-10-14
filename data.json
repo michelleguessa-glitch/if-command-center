@@ -1858,6 +1858,14 @@
       "email": "admin@iambrendapalmer.com",
       "groupLabel": null,
       "id": 16,
+      "keyContacts": [
+        {
+          "email": "info@iambrendapalmer.com",
+          "name": "Naomi Milord",
+          "phone": "917-525-8966",
+          "title": "Team BP"
+        }
+      ],
       "linkedBookingId": null,
       "mediaType": "podcast",
       "name": "Brenda Palmer",
@@ -1865,7 +1873,7 @@
       "organization": null,
       "phone": null,
       "role": "Podcast host",
-      "updatedAt": "2026-10-14T07:24:51.259Z"
+      "updatedAt": "2026-10-14T07:38:02.680Z"
     },
     {
       "_recordId": 82,
@@ -1891,6 +1899,20 @@
       "email": "esaumccaulley@gmail.com",
       "groupLabel": "Esau McCaulley Podcast",
       "id": 17,
+      "keyContacts": [
+        {
+          "email": "Esaumccaulley@gmail.com",
+          "name": "Esau McCaulley",
+          "phone": "",
+          "title": "Host"
+        },
+        {
+          "email": "mike@holypost.com",
+          "name": "Mike Stralow",
+          "phone": "",
+          "title": "Producer"
+        }
+      ],
       "linkedBookingId": null,
       "mediaType": "podcast",
       "name": "Esau McCaulley Podcast",
@@ -1898,7 +1920,7 @@
       "organization": "Wheaton College",
       "phone": null,
       "role": null,
-      "updatedAt": "2026-09-20T22:39:10.000Z"
+      "updatedAt": "2026-10-14T07:38:02.680Z"
     },
     {
       "_recordId": 108,
@@ -2345,14 +2367,14 @@
           "email": "ebony@epimediagroup.com",
           "name": "Ebony Porter-Ike",
           "phone": "",
-          "title": "Podcast host"
+          "title": "CEO"
         }
       ],
       "mediaType": "pr_firm",
       "name": "EPI Media Group",
       "notes": "Key people: Ebony Porter-Ike \u2014 Podcast host, ebony@epimediagroup.com. Pitched podcast for Emanuel re 'Forgive Me If I Was Rude'.",
       "organization": "EPI Media Group",
-      "updatedAt": "2026-10-14T06:54:44.732Z"
+      "updatedAt": "2026-10-14T07:40:11.390Z"
     },
     {
       "_recordId": 208,
@@ -2833,7 +2855,7 @@
       "updatedAt": "2026-09-25T22:59:15.220Z"
     }
   ],
-  "latestUpdateAt": "2026-10-14T07:24:51.259Z",
+  "latestUpdateAt": "2026-10-14T07:40:11.390Z",
   "notes": [
     {
       "_recordId": 152,
