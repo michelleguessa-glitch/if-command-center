@@ -16,7 +16,7 @@
       "fullPaymentReceived": false,
       "id": 1,
       "kind": "ife",
-      "notes": "Needs confirmation: website tour dates listed Oct 23, 2026; calendar shows Nov 8, 2026.\n\n[Calendar import Sep 22, 2026] Calendar details were added, but confirmation status remains unclear; keep pending Michelle\u2019s review.",
+      "notes": "Needs confirmation: website tour dates listed Oct 23, 2026; calendar shows Nov 8, 2026.\n\n[Calendar import Sep 22, 2026] Calendar details were added, but confirmation status remains unclear; keep pending Michelle’s review.",
       "startDate": "2026-11-08",
       "state": "KY",
       "status": "pending",
@@ -43,7 +43,7 @@
       "fullPaymentReceived": false,
       "id": 2,
       "kind": "ife",
-      "notes": "Blair Hatchett is the admin contact for CCC Atlanta \u2014 bhatchett@cccinfo.org. Hotel Oct 17-20. Total with travel $4,092.03 (hotel $819.23, flights $472.80, per diem $100/day).\n\nSunday Oct 18, 10:00 AM \u2014 Emanuel guest speaker; Lead Pastor Samu'l Collier; The Loft at Center Stage.",
+      "notes": "Blair Hatchett is the admin contact for CCC Atlanta — bhatchett@cccinfo.org. Hotel Oct 17-20. Total with travel $4,092.03 (hotel $819.23, flights $472.80, per diem $100/day).\n\nSunday Oct 18, 10:00 AM — Emanuel guest speaker; Lead Pastor Samu'l Collier; The Loft at Center Stage.",
       "startDate": "2026-10-18",
       "state": "GA",
       "status": "confirmed",
@@ -70,11 +70,11 @@
       "fullPaymentReceived": false,
       "id": 4,
       "kind": "ife",
-      "notes": "Will pay in full upon arrival. Confirmed by Michelle Sep 27, 2026.\n\nTravel pending: DL2057 DFW 5:25 PM \u2192 BOS 10:19 PM (Oct 23), Delta Comfort Classic. Awaiting confirmation number from Nina Kumar \u2014 Nina Kumar is tracking the confirmation.",
+      "notes": "Will pay in full upon arrival. Confirmed by Michelle Sep 27, 2026.\n\nTravel pending: DL2057 DFW 5:25 PM → BOS 10:19 PM (Oct 23), Delta Comfort Classic. Awaiting confirmation number from Nina Kumar — Nina Kumar is tracking the confirmation.",
       "startDate": "2026-10-24",
       "state": "MA",
       "status": "confirmed",
-      "timeLabel": "11:00 AM\u20131:00 PM ET",
+      "timeLabel": "11:00 AM–1:00 PM ET",
       "timezone": "America/New_York",
       "title": "IFE + Motivation Church - Boston",
       "topic": "Apologetics + Q&A (Conference)",
@@ -97,14 +97,14 @@
       "fullPaymentReceived": false,
       "id": 5,
       "kind": "ife",
-      "notes": "Date confirmed Oct 11, 2026 per church itinerary (spreadsheet's Sep 13 is stale). 92nd Anniversary: Sunday Worship 9:15 AM & Ethos 2:00 PM, 50 min-1 hr. Hotel: Hilton Philadelphia, 4200 City Ave, Philadelphia PA 19131, (215) 879-4000, conf 3532808802, check-in Sat 10/10 4:00 PM, check-out Mon 10/12 11:00 AM. Church contacts: Rev. Ed Kargbo (610) 880-1027, Rev. Keith W. Reed Jr. (215) 764-0068. Deposit will be paid in full upon arrival.\n\nHotel confirmed Sat Oct 10, 2026 2:37 PM EDT (Sharon M. Johnson): credit card authorization on file covers room, tax, and all incidentals \u2014 no credit card needed at check-in.\n\nLate check-in confirmed; room already assigned; folio left at front desk (no no-show).",
+      "notes": "Date confirmed Oct 11, 2026 per church itinerary (spreadsheet's Sep 13 is stale). 92nd Anniversary: Sunday Worship 9:15 AM & Ethos 2:00 PM, 50 min-1 hr. Hotel: Hilton Philadelphia, 4200 City Ave, Philadelphia PA 19131, (215) 879-4000, conf 3532808802, check-in Sat 10/10 4:00 PM, check-out Mon 10/12 11:00 AM. Church contacts: Rev. Ed Kargbo (610) 880-1027, Rev. Keith W. Reed Jr. (215) 764-0068. Deposit will be paid in full upon arrival.\n\nHotel confirmed Sat Oct 10, 2026 2:37 PM EDT (Sharon M. Johnson): credit card authorization on file covers room, tax, and all incidentals — no credit card needed at check-in.\n\nLate check-in confirmed; room already assigned; folio left at front desk (no no-show).",
       "startDate": "2026-10-11",
       "state": "PA",
       "status": "confirmed",
       "timeLabel": null,
       "timezone": "America/New_York",
       "title": "Sharon Baptist Church - Philly",
-      "topic": "92nd Anniversary \u2014 Sunday Worship & Ethos",
+      "topic": "92nd Anniversary — Sunday Worship & Ethos",
       "updatedAt": "2026-09-20T20:58:41.755Z",
       "venue": "Sharon Baptist Church, 3955 Conshohocken Ave, Philadelphia, PA 19131, USA"
     },
@@ -271,14 +271,14 @@
       "fullPaymentReceived": false,
       "id": 13,
       "kind": "ife",
-      "notes": "Exploratory IFE booking lead \u2014 not confirmed. ACEPRODUCTIONS selected \u201cCurious Conversations & Q&A\u201d for the VIP breakout \u201cSilent Deconstruction\u201d: Emanuel briefly shares his story with deconstruction, then joins Albaner in conversation followed by live Q&A. A Main Stage Panel that evening is also possible; Emanuel is \u201cmost definitely open\u201d to the main stage. Dallas connection call: Albaner is available October 21, 22, or 23, 2026. Aria asked Michelle to confirm which day and time work best for Emanuel; Michelle recommended the Intelligent Faith for Believers package on Sep 23 and will follow up with Emanuel's Oct 21\u201323 availability after his Sep 24 organizer meeting.",
+      "notes": "Exploratory IFE booking lead — not confirmed. ACEPRODUCTIONS selected “Curious Conversations & Q&A” for the VIP breakout “Silent Deconstruction”: Emanuel briefly shares his story with deconstruction, then joins Albaner in conversation followed by live Q&A. A Main Stage Panel that evening is also possible; Emanuel is “most definitely open” to the main stage. Dallas connection call: Albaner is available October 21, 22, or 23, 2026. Aria asked Michelle to confirm which day and time work best for Emanuel; Michelle recommended the Intelligent Faith for Believers package on Sep 23 and will follow up with Emanuel's Oct 21–23 availability after his Sep 24 organizer meeting.",
       "startDate": "2026-12-11",
       "state": "TX",
       "status": "pending",
       "timeLabel": null,
       "timezone": "America/Chicago",
       "title": "Albaner Eugene Jr Conference (WTW Production)",
-      "topic": "Curious Conversations & Q&A \u2014 Silent Deconstruction",
+      "topic": "Curious Conversations & Q&A — Silent Deconstruction",
       "updatedAt": "2026-09-24T06:06:11.823Z",
       "venue": "WTW Production"
     },
@@ -560,11 +560,11 @@
       "fee": "",
       "fullPaymentReceived": false,
       "kind": "podcast",
-      "notes": "Rescheduled to Oct 30, 2026 during LA trip (Oct 29-31). Original Oct 6, 2026 taping was CANCELLED.\n\nContract signed via DocuSign.\n\nTaping was 12:30 - 1:30 PM, one continuous full-hour conversation, no cuts; arrive ~15 min early, ~15 min wrap.\n\nAir date tentatively Nov 3, 2026 (Season 2).\n\nAdmin: Kamora Granger <kgranger@behaviorgenius.com>, RJ James (CEO, (951) 236-5131).\n\nConversation outline for Emanuel (PDF) \u2014 View: https://michelleguessa-glitch.github.io/if-command-center/undivided-podcast-outline.pdf\n\nFilming at 12:00 PM Pacific (2:00 PM Central). Arrive by 11:45 AM Pacific (1:45 PM Central) \u2014 15 min early for check-in.",
+      "notes": "Rescheduled to Oct 30, 2026 during LA trip (Oct 29-31). Original Oct 6, 2026 taping was CANCELLED.\n\nContract signed via DocuSign.\n\nTaping was 12:30 - 1:30 PM, one continuous full-hour conversation, no cuts; arrive ~15 min early, ~15 min wrap.\n\nAir date tentatively Nov 3, 2026 (Season 2).\n\nAdmin: Kamora Granger <kgranger@behaviorgenius.com>, RJ James (CEO, (951) 236-5131).\n\nConversation outline for Emanuel (PDF) — View: https://michelleguessa-glitch.github.io/if-command-center/undivided-podcast-outline.pdf\n\nFilming at 12:00 PM Pacific (2:00 PM Central). Arrive by 11:45 AM Pacific (1:45 PM Central) — 15 min early for check-in.",
       "startDate": "2026-10-30",
       "state": "CA",
       "status": "confirmed",
-      "timeLabel": "Arrive 11:45 AM \u00b7 Filming 12:00 PM Pacific Time",
+      "timeLabel": "Arrive 11:45 AM · Filming 12:00 PM Pacific Time",
       "timezone": "America/Los_Angeles",
       "title": "Undivided Podcast - LA",
       "topic": "",
@@ -612,7 +612,7 @@
       "startDate": "2026-10-08",
       "state": "IL",
       "status": "confirmed",
-      "timeLabel": "1:00 PM\u20132:00 PM CT",
+      "timeLabel": "1:00 PM–2:00 PM CT",
       "timezone": "America/Chicago",
       "title": "The Esau McCaulley Podcast - Chicago",
       "topic": null,
@@ -624,7 +624,7 @@
       "calendarImportKey": "booking-all-rise-2026-10-06",
       "city": null,
       "contactEmail": "mckenzie@storytoldpr.com",
-      "contactName": "McKenzie \u00b7 StoryTold",
+      "contactName": "McKenzie · StoryTold",
       "contactPhone": null,
       "depositAmount": null,
       "depositStatus": "not_set",
@@ -632,11 +632,11 @@
       "fee": null,
       "fullPaymentReceived": false,
       "kind": "podcast",
-      "notes": "Remote.\n\nNo conflict with Undivided Podcast (full slot 12:15 PM - 2:00 PM Pacific / 2:15 - 4:00 PM Central; taping 12:30 - 1:30 PM Pacific).\n\n[Calendar import Sep 22, 2026] Calendar lists 11:30 AM\u20131:00 PM Central at the Riverside studio link. Confirmed by Michelle Sep 29, 2026.",
+      "notes": "Remote.\n\nNo conflict with Undivided Podcast (full slot 12:15 PM - 2:00 PM Pacific / 2:15 - 4:00 PM Central; taping 12:30 - 1:30 PM Pacific).\n\n[Calendar import Sep 22, 2026] Calendar lists 11:30 AM–1:00 PM Central at the Riverside studio link. Confirmed by Michelle Sep 29, 2026.",
       "startDate": "2026-10-06",
       "state": null,
       "status": "confirmed",
-      "timeLabel": "11:30 AM\u20131:00 PM CT",
+      "timeLabel": "11:30 AM–1:00 PM CT",
       "timezone": "America/Chicago",
       "title": "VIDEO Podcast interview: All Rise with Abdu Murray",
       "topic": null,
@@ -672,7 +672,7 @@
       "calendarImportKey": "booking-basement-2026-10-20",
       "city": "Denton",
       "contactEmail": "Eunice@upsettheworld.com",
-      "contactName": "Eunice \u00b7 Admin",
+      "contactName": "Eunice · Admin",
       "contactPhone": null,
       "createdAt": "2026-09-20T14:38:16.783Z",
       "depositAmount": null,
@@ -686,7 +686,7 @@
       "startDate": "2026-10-20",
       "state": "TX",
       "status": "confirmed",
-      "timeLabel": "9:00 AM\u20131:00 PM CT",
+      "timeLabel": "9:00 AM–1:00 PM CT",
       "timezone": "America/Chicago",
       "title": "The Basement w/Tim Ross",
       "topic": null,
@@ -712,7 +712,7 @@
       "startDate": "2026-11-04",
       "state": null,
       "status": "confirmed",
-      "timeLabel": "2:00 PM\u20132:30 PM CT",
+      "timeLabel": "2:00 PM–2:30 PM CT",
       "timezone": "America/Chicago",
       "title": "Podcast interview: God's Story",
       "topic": null,
@@ -757,7 +757,7 @@
       "fullPaymentReceived": true,
       "id": 36,
       "kind": "podcast",
-      "notes": "Emanuel appeared Sep 4; new invite received for Bri. Host: Cheryl Nembhard \u2014 personal email info@cherylnembhard.com, phone 416-551-7196, IG @cherylnembhard; show email onthepathpodcast@gmail.com; EA Mikayla Janeese.",
+      "notes": "Emanuel appeared Sep 4; new invite received for Bri. Host: Cheryl Nembhard — personal email info@cherylnembhard.com, phone 416-551-7196, IG @cherylnembhard; show email onthepathpodcast@gmail.com; EA Mikayla Janeese.",
       "startDate": "2026-09-04",
       "state": null,
       "status": "completed",
@@ -1122,7 +1122,7 @@
       "startDate": "2026-09-21",
       "state": null,
       "status": "confirmed",
-      "timeLabel": "1:00 PM \u2013 2:00 PM CDT",
+      "timeLabel": "1:00 PM – 2:00 PM CDT",
       "timezone": "America/Chicago",
       "title": "Initiated By God Podcast",
       "topic": "Podcast meeting",
@@ -1139,10 +1139,10 @@
       "id": "mercycast-podcast-2026-10-14",
       "kind": "podcast",
       "mediaType": "podcast",
-      "notes": "RESCHEDULING \u2014 Wed Oct 14, 7:01 AM EDT (Maddie Boarman, StoryTold PR): host Raleigh Sadler asked to reschedule today's interview \u2014 he double-booked and will be on a flight during the 10:00\u201311:00 AM EDT slot. Maddie is coordinating new dates. Today's slot is no longer confirmed; the interview is PENDING new dates.\n\nReschedule update \u2014 Wed Oct 14: Maddie offered Raleigh Sadler's availability Wed Oct 21 and Fri Oct 23 (10:17 AM EDT); Michelle replied Emanuel is next available Nov 6, 9:00 AM CT (10:58 AM EDT); Maddie passed it to Raleigh and will confirm (4:13 PM EDT). Awaiting Raleigh Sadler's confirmation.\n\nHit time: 9:00 am CST\nHost: Raleigh Sadler\nRiverside: https://riverside.fm/studio/mercy-cast?t=7793368ea1168a0a6b71\n\nAbout the show: The MercyCast is a podcast dedicated to learning the subtle art of compassion through the adversity of everyday life.\n\nJoin Raleigh Sadler, the host, as he has honest and thought-provoking conversations with friends he has met along the way.",
+      "notes": "RESCHEDULING — Wed Oct 14, 7:01 AM EDT (Maddie Boarman, StoryTold PR): host Raleigh Sadler asked to reschedule today's interview — he double-booked and will be on a flight during the 10:00–11:00 AM EDT slot. Maddie is coordinating new dates. Today's slot is no longer confirmed; the interview is PENDING new dates.\n\nReschedule update — Wed Oct 14: Maddie offered Raleigh Sadler's availability Wed Oct 21 and Fri Oct 23 (10:17 AM EDT); Michelle replied Emanuel is next available Nov 6, 9:00 AM CT (10:58 AM EDT); Maddie passed it to Raleigh and will confirm (4:13 PM EDT). Awaiting Raleigh Sadler's confirmation.\n\nHit time: 9:00 am CST\nHost: Raleigh Sadler\nRiverside: https://riverside.fm/studio/mercy-cast?t=7793368ea1168a0a6b71\n\nAbout the show: The MercyCast is a podcast dedicated to learning the subtle art of compassion through the adversity of everyday life.\n\nJoin Raleigh Sadler, the host, as he has honest and thought-provoking conversations with friends he has met along the way.",
       "startDate": "",
       "status": "pending",
-      "timeLabel": "Rescheduling \u2014 new date TBD",
+      "timeLabel": "Rescheduling — new date TBD",
       "timezone": "America/Chicago",
       "title": "MercyCast Podcast",
       "venue": "https://riverside.fm/studio/mercy-cast?t=7793368ea1168a0a6b71"
@@ -1152,13 +1152,13 @@
       "city": "Houston",
       "endDate": "2026-10-13",
       "kind": "ife",
-      "notes": "Speaker Agreement made October 5, 2026 between Jude 3 Project, Inc. and Emanuel Lambert.\n\nThe Ask Initiative is Jude 3 Project's campus apologetics event \u2014 two parts on the same day: a daytime talk-back on campus built around Bible trivia and students' own questions (time TBD), and an evening panel discussion in which the panelists answer questions with a student moderator.\n\nItinerary with the full day schedule to be sent before the event.\n\nSource: Michelle shared a photo of the Speaker Agreement on Oct 8, 2026. The screenshot showed the e-signature step in progress \u2014 confirm signature is complete.",
+      "notes": "Speaker Agreement made October 5, 2026 between Jude 3 Project, Inc. and Emanuel Lambert.\n\nThe Ask Initiative is Jude 3 Project's campus apologetics event — two parts on the same day: a daytime talk-back on campus built around Bible trivia and students' own questions (time TBD), and an evening panel discussion in which the panelists answer questions with a student moderator.\n\nItinerary with the full day schedule to be sent before the event.\n\nSource: Michelle shared a photo of the Speaker Agreement on Oct 8, 2026. The screenshot showed the e-signature step in progress — confirm signature is complete.",
       "startDate": "2026-10-13",
       "state": "TX",
       "status": "confirmed",
       "timeLabel": "Evening panel begins 5:30 PM CT",
       "timezone": "America/Chicago",
-      "title": "Jude 3 Project \u2014 Ask Initiative at Texas Southern",
+      "title": "Jude 3 Project — Ask Initiative at Texas Southern",
       "topic": "Does Christianity Make Sense?",
       "venue": "Texas Southern University, Public Affairs Building, 3100 Cleburne St, Houston, TX 77004, USA"
     },
@@ -1172,10 +1172,10 @@
       "id": "jesus-calling-podcast-2026-11-05",
       "kind": "podcast",
       "mediaType": "podcast",
-      "notes": "Organizer: Mckenzie Masters, StoryTold PR. Guests: Emanuel, Maddie Boarman, Elizabeth Cole. 1-hour audio/video virtual interview (25M+ podcast downloads). Booked by McKenzie Oct 14, 9:54 AM EDT; calendar invite received. Loaner headset: Michelle provided the mailing address Oct 14, 9:56 AM EDT (107 Travellers Palm Way, Youngsville LA 70592). Devotional: confirmed \u2014 Michelle told McKenzie Oct 14 to send the devotional along with the headset.",
+      "notes": "Organizer: Mckenzie Masters, StoryTold PR. Guests: Emanuel, Maddie Boarman, Elizabeth Cole. 1-hour audio/video virtual interview (25M+ podcast downloads). Booked by McKenzie Oct 14, 9:54 AM EDT; calendar invite received. Loaner headset: Michelle provided the mailing address Oct 14, 9:56 AM EDT (107 Travellers Palm Way, Youngsville LA 70592). Devotional: confirmed — Michelle told McKenzie Oct 14 to send the devotional along with the headset.",
       "startDate": "2026-11-05",
       "status": "confirmed",
-      "timeLabel": "9:00 AM\u201310:00 AM CT",
+      "timeLabel": "9:00 AM–10:00 AM CT",
       "timezone": "America/Chicago",
       "title": "Video Podcast interview: Jesus Calling",
       "updatedAt": "2026-10-14T14:19:29.353Z",
@@ -1189,7 +1189,7 @@
       "calendarImportCapturedAt": "2026-09-22T15:31:38.000Z",
       "calendarImportKey": "calendar-sharon-baptist-2026-10-11",
       "createdAt": "2026-09-20T14:38:23.234Z",
-      "details": "Hotel: Hilton Philadelphia, 4200 City Ave, Philadelphia PA 19131, (215) 879-4000\n\nConfirmation 3532808802\n\nCheck-in: Sat Oct 10, 2026 4:00 PM\n\nCheck-out: Mon Oct 12, 2026 11:00 AM\n\nHotel confirmed Sat Oct 10, 2:37 PM EDT (Sharon M. Johnson): credit card authorization on file covers room, tax, and all incidentals \u2014 no credit card needed at check-in. Late check-in confirmed; room already assigned; folio left at front desk (no no-show).",
+      "details": "Hotel: Hilton Philadelphia, 4200 City Ave, Philadelphia PA 19131, (215) 879-4000\n\nConfirmation 3532808802\n\nCheck-in: Sat Oct 10, 2026 4:00 PM\n\nCheck-out: Mon Oct 12, 2026 11:00 AM\n\nHotel confirmed Sat Oct 10, 2:37 PM EDT (Sharon M. Johnson): credit card authorization on file covers room, tax, and all incidentals — no credit card needed at check-in. Late check-in confirmed; room already assigned; folio left at front desk (no no-show).",
       "endAt": "2026-10-12",
       "id": 2,
       "location": "Sharon Baptist Church, 3955 Conshohocken Ave, Philadelphia, PA 19131, USA",
@@ -1322,7 +1322,7 @@
       "_recordId": 59,
       "allDay": false,
       "createdAt": "2026-09-20T14:38:26.054Z",
-      "details": "Leadership meeting with church leaders \u2014 Emanuel leads.\n\nRecurring Tuesdays 6:00 PM.",
+      "details": "Leadership meeting with church leaders — Emanuel leads.\n\nRecurring Tuesdays 6:00 PM.",
       "endAt": "2026-10-27T20:00:00-05:00",
       "id": 14,
       "location": null,
@@ -1412,7 +1412,7 @@
       "allDay": true,
       "calendarImportCapturedAt": "2026-09-22T15:31:38.000Z",
       "calendarImportKey": "calendar-flight-chicago-2026-10-08",
-      "details": "Outbound to Chicago for the October 8 Esau McCaulley Podcast taping and the October 10 Coffee, Hip-Hop & Mental Health event.\n\nFlight 1: UA4000\nDeparture: LFT (Lafayette, LA)\nArrival: IAH (Houston, TX)\nConfirmation #IETK0P\n\nFlight 2: UA2182\nDeparture: IAH (Houston, TX)\nArrival: ORD (Chicago, IL)\nConfirmation #IETK0P\n\nPassenger: Emanuel Lambert Jr. Boarding passes issued Oct 7. Departure/arrival times were not included in the United email \u2014 do not invent times.",
+      "details": "Outbound to Chicago for the October 8 Esau McCaulley Podcast taping and the October 10 Coffee, Hip-Hop & Mental Health event.\n\nFlight 1: UA4000\nDeparture: LFT (Lafayette, LA)\nArrival: IAH (Houston, TX)\nConfirmation #IETK0P\n\nFlight 2: UA2182\nDeparture: IAH (Houston, TX)\nArrival: ORD (Chicago, IL)\nConfirmation #IETK0P\n\nPassenger: Emanuel Lambert Jr. Boarding passes issued Oct 7. Departure/arrival times were not included in the United email — do not invent times.",
       "endAt": "2026-10-08",
       "location": null,
       "owner": "Emanuel",
@@ -1475,7 +1475,7 @@
       "allDay": false,
       "calendarImportCapturedAt": "2026-09-22T15:31:38.000Z",
       "calendarImportKey": "calendar-flight-bos-2026-10-23",
-      "details": "Departure: DFW 5:25 PM\nArrival: BOS 10:19 PM\n\nDelta Air Lines DL2057\nDelta Comfort Classic\n\nPending \u2014 awaiting confirmation number from Nina Kumar",
+      "details": "Departure: DFW 5:25 PM\nArrival: BOS 10:19 PM\n\nDelta Air Lines DL2057\nDelta Comfort Classic\n\nPending — awaiting confirmation number from Nina Kumar",
       "endAt": "2026-10-23T22:19:00-04:00",
       "endTimezone": "America/New_York",
       "location": null,
@@ -1527,7 +1527,7 @@
     {
       "_recordId": 148,
       "allDay": false,
-      "details": "Topic: Apologetics in the emerging leaders space\n\nContact: Bishop Jakes\n\n\u2022 Send Bishop Jakes more info about Emanuel so it's organic\n\u2022 5 talking points about apologetics in the emerging leaders space\n\u2022 30-second clip for their promo",
+      "details": "Topic: Apologetics in the emerging leaders space\n\nContact: Bishop Jakes\n\n• Send Bishop Jakes more info about Emanuel so it's organic\n• 5 talking points about apologetics in the emerging leaders space\n• 30-second clip for their promo",
       "endAt": "2026-10-05T19:00:00-07:00",
       "location": "Instagram Live (remote)",
       "owner": "Emanuel",
@@ -1567,7 +1567,7 @@
     {
       "_recordId": 257,
       "allDay": false,
-      "details": "Filming at 12:00 PM Pacific (2:00 PM Central). Arrive by 11:45 AM Pacific (1:45 PM Central) \u2014 15 min early for check-in.",
+      "details": "Filming at 12:00 PM Pacific (2:00 PM Central). Arrive by 11:45 AM Pacific (1:45 PM Central) — 15 min early for check-in.",
       "endAt": "2026-10-30T13:00:00-07:00",
       "location": "The Pod Place, 1500 S Evergreen Ave, Offices 105 & 106, Los Angeles, CA 90023",
       "owner": "Emanuel",
@@ -1600,13 +1600,13 @@
     {
       "_recordId": 261,
       "allDay": false,
-      "details": "Arrive by 5:00 PM CT.\n\nEvening panel begins 5:30 PM CT.\n\nDaytime talk-back on campus (Bible trivia + students' questions) \u2014 time TBD; full itinerary to be sent before the event.\n\nTopic: Does Christianity Make Sense?\n\nSpeaker Agreement (Jude 3 Project, Inc. / Emanuel Lambert) made October 5, 2026.\n\nContact: Lisa Fields \u2014 (904) 699-0135\n\nHotel: SpringHill Suites Houston Intercontinental Airport, 15840 John F Kennedy Blvd, Houston, TX 77032\n\nCheck-in: Tue Oct 13, 2026 / Check-out: Wed Oct 14, 2026\n\nAirport arrival: call hotel at 281-442-2275 with terminal info for shuttle pickup\n\nLyft from hotel at 4:00 PM to Texas Southern (arrive by 5:00 PM)\n\nAfter event: COO Don takes Emanuel back to hotel\n\nWednesday: hotel shuttle back to airport\n\n[Itinerary](https://michelleguessa-glitch.github.io/if-command-center/itinerary-jude3-texas-southern.pdf)",
+      "details": "Arrive by 5:00 PM CT.\n\nEvening panel begins 5:30 PM CT.\n\nDaytime talk-back on campus (Bible trivia + students' questions) — time TBD; full itinerary to be sent before the event.\n\nTopic: Does Christianity Make Sense?\n\nSpeaker Agreement (Jude 3 Project, Inc. / Emanuel Lambert) made October 5, 2026.\n\nContact: Lisa Fields — (904) 699-0135\n\nHotel: SpringHill Suites Houston Intercontinental Airport, 15840 John F Kennedy Blvd, Houston, TX 77032\n\nCheck-in: Tue Oct 13, 2026 / Check-out: Wed Oct 14, 2026\n\nAirport arrival: call hotel at 281-442-2275 with terminal info for shuttle pickup\n\nLyft from hotel at 4:00 PM to Texas Southern (arrive by 5:00 PM)\n\nAfter event: COO Don takes Emanuel back to hotel\n\nWednesday: hotel shuttle back to airport\n\n[Itinerary](https://michelleguessa-glitch.github.io/if-command-center/itinerary-jude3-texas-southern.pdf)",
       "endAt": "2026-10-13T19:00:00-05:00",
       "location": "Public Affairs Building, 3100 Cleburne St, Houston, TX 77004, USA",
       "owner": "Emanuel",
       "startAt": "2026-10-13T17:00:00-05:00",
       "timezone": "America/Chicago",
-      "title": "Jude 3 Project \u2014 Ask Initiative at Texas Southern"
+      "title": "Jude 3 Project — Ask Initiative at Texas Southern"
     },
     {
       "_recordId": 263,
@@ -1623,7 +1623,7 @@
     {
       "_recordId": 268,
       "allDay": false,
-      "details": "Sharon Baptist Church (92nd Anniversary) \u2014 Oct 11, 2026.\n\nConfirmation 3532808802\nCheck-in: Sat Oct 10, 2026 4:00 PM\nCheck-out: Mon Oct 12, 2026 11:00 AM\n\nHotel confirmed Sat Oct 10, 2:37 PM EDT (Sharon M. Johnson, Admin Asst. to Bishop Keith W. Reed, Sr.): credit card authorization on file covers room, tax, and all incidentals \u2014 no credit card needed at check-in. Late check-in confirmed; room already assigned; folio left at front desk (no no-show).\n\nChurch contact: Sharon M. Johnson \u2014 302-312-1278, sjohnson.thesbc@gmail.com",
+      "details": "Sharon Baptist Church (92nd Anniversary) — Oct 11, 2026.\n\nConfirmation 3532808802\nCheck-in: Sat Oct 10, 2026 4:00 PM\nCheck-out: Mon Oct 12, 2026 11:00 AM\n\nHotel confirmed Sat Oct 10, 2:37 PM EDT (Sharon M. Johnson, Admin Asst. to Bishop Keith W. Reed, Sr.): credit card authorization on file covers room, tax, and all incidentals — no credit card needed at check-in. Late check-in confirmed; room already assigned; folio left at front desk (no no-show).\n\nChurch contact: Sharon M. Johnson — 302-312-1278, sjohnson.thesbc@gmail.com",
       "endAt": "2026-10-12T10:00:00-05:00",
       "location": "Hilton Philadelphia, 4200 City Ave, Philadelphia, PA 19131",
       "owner": "Emanuel",
@@ -1649,7 +1649,7 @@
     {
       "_recordId": 272,
       "allDay": false,
-      "details": "Departure: LFT 12:03 PM\nArrival: IAH 1:25 PM\n\nConfirmation #ATTEG4\nUnited Express (GoJet Airlines)\n\nJude 3 Project \u2014 Ask Initiative at Texas Southern University, Houston, TX.\n\neTicket: 01621480274363\nTotal: $896.80\n\n[Boarding Pass](https://michelleguessa-glitch.github.io/if-command-center/boarding-pass-houston-lft-iah.jpg)\n\nReturn: Oct 14, 2026 3:29p CDT",
+      "details": "Departure: LFT 12:03 PM\nArrival: IAH 1:25 PM\n\nConfirmation #ATTEG4\nUnited Express (GoJet Airlines)\n\nJude 3 Project — Ask Initiative at Texas Southern University, Houston, TX.\n\neTicket: 01621480274363\nTotal: $896.80\n\n[Boarding Pass](https://michelleguessa-glitch.github.io/if-command-center/boarding-pass-houston-lft-iah.jpg)\n\nReturn: Oct 14, 2026 3:29p CDT",
       "endAt": "2026-10-13T13:25:00-05:00",
       "location": null,
       "owner": "Emanuel",
@@ -1677,13 +1677,13 @@
     {
       "_recordId": 274,
       "allDay": false,
-      "details": "Travel \u00b7 Fairfield Inn, Lynchburg VA \u2014 check-in Sat Oct 24, 10:00 PM Eastern, check-out Tue Oct 27, 9:00 AM Eastern, 2026. Emanuel conf G2H23TCK5 \u00b7 Michelle conf 5RNDWQ98Z. For the IFE + Liberty University Fireside Chat (Oct 25\u201327).",
+      "details": "Travel · Fairfield Inn, Lynchburg VA — check-in Sat Oct 24, 10:00 PM Eastern, check-out Tue Oct 27, 9:00 AM Eastern, 2026. Emanuel conf G2H23TCK5 · Michelle conf 5RNDWQ98Z. For the IFE + Liberty University Fireside Chat (Oct 25–27).",
       "endAt": "2026-10-27T08:00:00-05:00",
       "location": "Fairfield Inn, Lynchburg, VA",
       "owner": "Emanuel",
       "startAt": "2026-10-24T21:00:00-05:00",
       "timezone": "America/New_York",
-      "title": "Hotel: Fairfield Inn \u2013 Lynchburg"
+      "title": "Hotel: Fairfield Inn – Lynchburg"
     },
     {
       "_recordId": 276,
@@ -1691,7 +1691,7 @@
       "details": "Departure: LAX 12:15 PM\nArrival: LFT 10:11 PM\n\nConfirmation #GW33EY\nDL0395 (Airbus A321neo) / DL5535 (Canadair RJ900, Endeavor Air)\nVia ATL (1 hr 54 min layover)\nLAX Terminal 3",
       "endAt": "2026-10-31T22:11:00-05:00",
       "endTimezone": "America/Chicago",
-      "location": "Los Angeles (LAX) \u2192 Lafayette (LFT)",
+      "location": "Los Angeles (LAX) → Lafayette (LFT)",
       "owner": "Emanuel",
       "startAt": "2026-10-31T12:15:00-07:00",
       "timezone": "America/Los_Angeles",
@@ -1710,7 +1710,7 @@
       "_recordId": 285,
       "allDay": false,
       "createdAt": "2026-10-14T14:19:29.353Z",
-      "details": "Video podcast interview: Jesus Calling. Thu Nov 5, 2026, 9:00\u201310:00 AM CT (10:00\u201311:00 AM ET). Remote/virtual \u2014 1-hour audio/video interview. Organizer: Mckenzie Masters, StoryTold PR (mckenzie@storytoldpr.com). Guests: Emanuel, Maddie Boarman, Elizabeth Cole.",
+      "details": "Video podcast interview: Jesus Calling. Thu Nov 5, 2026, 9:00–10:00 AM CT (10:00–11:00 AM ET). Remote/virtual — 1-hour audio/video interview. Organizer: Mckenzie Masters, StoryTold PR (mckenzie@storytoldpr.com). Guests: Emanuel, Maddie Boarman, Elizabeth Cole.",
       "endAt": "2026-11-05T10:00:00-06:00",
       "location": "",
       "owner": "Emanuel",
@@ -1733,7 +1733,7 @@
     {
       "_recordId": 289,
       "allDay": false,
-      "details": "Live podcast recording \u2014 open to the public\n\nHosted by Sam Collier\nFeaturing Emanuel \"Da T.R.U.T.H.\" Lambert\n\nAURN \u2014 American Urban Radio Networks",
+      "details": "Live podcast recording — open to the public\n\nHosted by Sam Collier\nFeaturing Emanuel \"Da T.R.U.T.H.\" Lambert\n\nAURN — American Urban Radio Networks",
       "endAt": "2026-10-18T15:00:00-04:00",
       "location": "The Creamery Studios, 1500 Southland Cir NW Ste H, Atlanta, GA 30318",
       "owner": "Emanuel",
@@ -2056,7 +2056,7 @@
       "linkedBookingId": null,
       "mediaType": "podcast",
       "name": "Jerry Flowers Ministries",
-      "notes": "PENDING / in discussion \u2014 NOT confirmed. Da'Truth featured guest appearance inquiry only. Michelle proposed October 20 at 4:00 PM or later for an in-studio appearance; Jerry Flowers Ministries has not confirmed a date, time, format, or terms. Studio: 201 Main Street, Houston, Texas 77022. Key people: Pastor Jerry (Host); Amber Bergeron, Executive Assistant \u2014 832-775-2207, booking@jerryflowersministries.com (working admin contact).",
+      "notes": "PENDING / in discussion — NOT confirmed. Da'Truth featured guest appearance inquiry only. Michelle proposed October 20 at 4:00 PM or later for an in-studio appearance; Jerry Flowers Ministries has not confirmed a date, time, format, or terms. Studio: 201 Main Street, Houston, Texas 77022. Key people: Pastor Jerry (Host); Amber Bergeron, Executive Assistant — 832-775-2207, booking@jerryflowersministries.com (working admin contact).",
       "organization": "Jerry Flowers Ministries",
       "phone": "832-775-2207",
       "role": null,
@@ -2313,7 +2313,7 @@
       ],
       "mediaType": "podcast",
       "name": "On The Path Podcast",
-      "notes": "Key people: Mikayla Janeese \u2014 Executive assistant, onthepathpodcast@gmail.com, 416-551-7196. EA for Cheryl Nembhard.",
+      "notes": "Key people: Mikayla Janeese — Executive assistant, onthepathpodcast@gmail.com, 416-551-7196. EA for Cheryl Nembhard.",
       "organization": "On The Path Podcast",
       "phone": "416-551-7196",
       "updatedAt": "2026-10-14T06:54:44.732Z"
@@ -2345,7 +2345,7 @@
       ],
       "mediaType": "pr_firm",
       "name": "StoryTold",
-      "notes": "Key people: McKenzie \u2014 PR, mckenzie@storytoldpr.com. Spare heading book launch media campaign.",
+      "notes": "Key people: McKenzie — PR, mckenzie@storytoldpr.com. Spare heading book launch media campaign.",
       "organization": "StoryTold PR",
       "updatedAt": "2026-10-14T06:14:19.201Z"
     },
@@ -2363,7 +2363,7 @@
       ],
       "mediaType": "radio",
       "name": "Da'Fixx Radio Show",
-      "notes": "Key people: Gwen \u2014 Radio host, dafixxradioshow@gmail.com.",
+      "notes": "Key people: Gwen — Radio host, dafixxradioshow@gmail.com.",
       "organization": "Da'Fixx Radio Show",
       "updatedAt": "2026-10-14T06:54:44.732Z"
     },
@@ -2381,7 +2381,7 @@
       ],
       "mediaType": "photographer",
       "name": "Maltivas",
-      "notes": "Key people: Thomas \u2014 Photographer \u00b7 Videographer, thomas@maltivas.com, 337-519-8757. From Emanuel admin intake.",
+      "notes": "Key people: Thomas — Photographer · Videographer, thomas@maltivas.com, 337-519-8757. From Emanuel admin intake.",
       "organization": "Maltivas",
       "phone": "337-519-8757",
       "updatedAt": "2026-10-14T06:54:44.732Z"
@@ -2411,7 +2411,7 @@
       ],
       "mediaType": "podcast",
       "name": "Behavior Genius",
-      "notes": "Key people: RJ James \u2014 CEO, rjames@behaviorgenius.com, (951) 236-5131; Portia James \u2014 Undivided Podcast, pjames@behaviorgenius.com; Kamora Granger \u2014 Undivided Podcast, kgranger@behaviorgenius.com. www.BehaviorGenius.com.",
+      "notes": "Key people: RJ James — CEO, rjames@behaviorgenius.com, (951) 236-5131; Portia James — Undivided Podcast, pjames@behaviorgenius.com; Kamora Granger — Undivided Podcast, kgranger@behaviorgenius.com. www.BehaviorGenius.com.",
       "organization": "Undivided Podcast",
       "updatedAt": "2026-10-14T06:27:28.374Z",
       "website": "www.BehaviorGenius.com"
@@ -2430,7 +2430,7 @@
       ],
       "mediaType": "pr_firm",
       "name": "EPI Media Group",
-      "notes": "Key people: Ebony Porter-Ike \u2014 Podcast host, ebony@epimediagroup.com. Pitched podcast for Emanuel re 'Forgive Me If I Was Rude'.",
+      "notes": "Key people: Ebony Porter-Ike — Podcast host, ebony@epimediagroup.com. Pitched podcast for Emanuel re 'Forgive Me If I Was Rude'.",
       "organization": "EPI Media Group",
       "updatedAt": "2026-10-14T07:40:11.390Z"
     },
@@ -2453,7 +2453,7 @@
       ],
       "mediaType": "radio",
       "name": "Holy Culture / The Corelink Solution",
-      "notes": "Key people: James Rosseau (Trig) \u2014 Founder / CEO, jamesrosseau@holyculture.net; King Cyz \u2014 Radio host, kingcyz@holyculture.net (Holy Culture Radio, SiriusXM 140).",
+      "notes": "Key people: James Rosseau (Trig) — Founder / CEO, jamesrosseau@holyculture.net; King Cyz — Radio host, kingcyz@holyculture.net (Holy Culture Radio, SiriusXM 140).",
       "organization": "Holy Culture / The Corelink Solution",
       "updatedAt": "2026-10-14T06:54:44.732Z"
     },
@@ -2471,7 +2471,7 @@
       ],
       "mediaType": "podcast",
       "name": "The Basement with Tim Ross",
-      "notes": "Key people: Eunice \u2014 Admin, Eunice@upsettheworld.com. Upset the World.",
+      "notes": "Key people: Eunice — Admin, Eunice@upsettheworld.com. Upset the World.",
       "organization": "The Basement with Tim Ross",
       "updatedAt": "2026-10-14T06:54:44.732Z"
     },
@@ -2594,7 +2594,7 @@
       "linkedBookingId": null,
       "mediaType": null,
       "name": "Bishop Orin Perry",
-      "notes": "Michelle sent Emanuel's talking points + 30-second promo clips (Sep 26, 2026) pitching Emanuel as a speaker guest to Bishop Orin \u2014 four proposed next-gen leader topics plus a WeTransfer promo link. Not a podcast booking. No event name, date, or booking yet \u2014 awaiting Bishop Orin's reply. Church/organization name not yet known.\n\nTD Jakes",
+      "notes": "Michelle sent Emanuel's talking points + 30-second promo clips (Sep 26, 2026) pitching Emanuel as a speaker guest to Bishop Orin — four proposed next-gen leader topics plus a WeTransfer promo link. Not a podcast booking. No event name, date, or booking yet — awaiting Bishop Orin's reply. Church/organization name not yet known.\n\nTD Jakes",
       "organization": "",
       "phone": "",
       "role": "Bishop (speaker pitch recipient)"
@@ -2605,7 +2605,7 @@
       "city": "Houston, TX",
       "linkedBookingId": 260,
       "name": "Jude 3 Project, Inc.",
-      "notes": "Apologetics ministry \u2014 Ask Initiative campus events. Contracting org for Emanuel's Oct 13, 2026 appearance at Texas Southern University (evening panel 5:30 PM CT, topic: Does Christianity Make Sense?). Speaker Agreement made Oct 5, 2026; signing via connect.jude3project.org (e-signature in progress per Oct 8 screenshot \u2014 confirm complete). Full itinerary to be sent before the event.",
+      "notes": "Apologetics ministry — Ask Initiative campus events. Contracting org for Emanuel's Oct 13, 2026 appearance at Texas Southern University (evening panel 5:30 PM CT, topic: Does Christianity Make Sense?). Speaker Agreement made Oct 5, 2026; signing via connect.jude3project.org (e-signature in progress per Oct 8 screenshot — confirm complete). Full itinerary to be sent before the event.",
       "organization": "Jude 3 Project, Inc.",
       "role": "Event organizer"
     },
@@ -2705,7 +2705,7 @@
       "email": "dtaylor@harpwest.com",
       "groupLabel": "Harpwest Media Group",
       "name": "Danielle Taylor",
-      "notes": "Emanuel-related thread of Fri Oct 16, 2026 \u2014 \u201cRightNow Media Series Opportunity \u2013 Pitch Concepts & Next Steps.\u201d RightNow Media 6-episode teaching-series PITCH opportunity \u2014 DISCUSSION STAGE, NOT confirmed. Manny spoke with Harpwest on Oct 15 about a series for RightNow Media (6 episodes, 8\u201312 min each, his book as a downloadable resource, study guide). Harpwest asks for (a) a completed background questionnaire, (b) proposed series concepts with six episode titles and one-liners, (c) his blackout dates (open to record in November). RNM review takes up to 2 months. Also floated corporate speaking + bulk book purchase ideas. Nothing booked \u2014 flagged for Michelle's decision.",
+      "notes": "Emanuel-related thread of Fri Oct 16, 2026 — “RightNow Media Series Opportunity – Pitch Concepts & Next Steps.” RightNow Media 6-episode teaching-series PITCH opportunity — DISCUSSION STAGE, NOT confirmed. Manny spoke with Harpwest on Oct 15 about a series for RightNow Media (6 episodes, 8–12 min each, his book as a downloadable resource, study guide). Harpwest asks for (a) a completed background questionnaire, (b) proposed series concepts with six episode titles and one-liners, (c) his blackout dates (open to record in November). RNM review takes up to 2 months. Also floated corporate speaking + bulk book purchase ideas. Nothing booked — flagged for Michelle's decision.",
       "organization": "Harpwest Media Group",
       "role": "Executive Producer",
       "updatedAt": "2026-10-17T01:09:17.914Z",
@@ -2718,7 +2718,7 @@
       "email": "htaylor@harpwest.com",
       "groupLabel": "Harpwest Media Group",
       "name": "Howard Taylor",
-      "notes": "CC'd on the Oct 16, 2026 email; role not stated in the thread. Emanuel-related thread of Fri Oct 16, 2026 \u2014 \u201cRightNow Media Series Opportunity \u2013 Pitch Concepts & Next Steps.\u201d RightNow Media 6-episode teaching-series PITCH opportunity \u2014 DISCUSSION STAGE, NOT confirmed. Manny spoke with Harpwest on Oct 15 about a series for RightNow Media (6 episodes, 8\u201312 min each, his book as a downloadable resource, study guide). Harpwest asks for (a) a completed background questionnaire, (b) proposed series concepts with six episode titles and one-liners, (c) his blackout dates (open to record in November). RNM review takes up to 2 months. Also floated corporate speaking + bulk book purchase ideas. Nothing booked \u2014 flagged for Michelle's decision.",
+      "notes": "CC'd on the Oct 16, 2026 email; role not stated in the thread. Emanuel-related thread of Fri Oct 16, 2026 — “RightNow Media Series Opportunity – Pitch Concepts & Next Steps.” RightNow Media 6-episode teaching-series PITCH opportunity — DISCUSSION STAGE, NOT confirmed. Manny spoke with Harpwest on Oct 15 about a series for RightNow Media (6 episodes, 8–12 min each, his book as a downloadable resource, study guide). Harpwest asks for (a) a completed background questionnaire, (b) proposed series concepts with six episode titles and one-liners, (c) his blackout dates (open to record in November). RNM review takes up to 2 months. Also floated corporate speaking + bulk book purchase ideas. Nothing booked — flagged for Michelle's decision.",
       "organization": "Harpwest Media Group",
       "role": null,
       "updatedAt": "2026-10-17T01:09:17.914Z"
@@ -2926,7 +2926,7 @@
     {
       "_recordId": 265,
       "amount": 48.52,
-      "businessPurpose": "Lyft ride for Emanuel Lambert \u2014 O'Hare Airport to 100 N Hale St, Wheaton IL (Esau McCaulley podcast taping), Oct 8, 2026. Driver Lina. (The scheduled 10:41 AM pickup was missed; its $15 no-show fee was disputed separately.)",
+      "businessPurpose": "Lyft ride for Emanuel Lambert — O'Hare Airport to 100 N Hale St, Wheaton IL (Esau McCaulley podcast taping), Oct 8, 2026. Driver Lina. (The scheduled 10:41 AM pickup was missed; its $15 no-show fee was disputed separately.)",
       "category": "Travel",
       "date": "2026-10-08",
       "linkedBooking": "",
@@ -2937,7 +2937,7 @@
     {
       "_recordId": 266,
       "amount": 73.91,
-      "businessPurpose": "Lyft ride for Emanuel Lambert \u2014 Moveable Feast, Wheaton IL to Courtyard Chicago Downtown/River North, Oct 8, 2026 (3:00 PM pickup, 27.8 mi, 1 hr 40 min).",
+      "businessPurpose": "Lyft ride for Emanuel Lambert — Moveable Feast, Wheaton IL to Courtyard Chicago Downtown/River North, Oct 8, 2026 (3:00 PM pickup, 27.8 mi, 1 hr 40 min).",
       "category": "Travel",
       "date": "2026-10-08",
       "linkedBooking": "",
@@ -2971,7 +2971,7 @@
       "emailSubject": "",
       "relatedEvent": "61",
       "status": "",
-      "summary": "Last received (Tue, Oct 6, 4:24 PM EDT) \u2014 Asa Stringer replied that the book copy was sent via UPS and appears to have arrived Saturday; he shared the UPS tracking number 1Z GH5 473 03 2510 8421 and asked Michelle to let him know if she has any other questions.\n\nLast outgoing (Tue, Oct 6, 8:51 PM EDT) \u2014 Michelle replied \"Thank you!\"\n\nTravel arrangements pending.",
+      "summary": "Last received (Tue, Oct 6, 4:24 PM EDT) — Asa Stringer replied that the book copy was sent via UPS and appears to have arrived Saturday; he shared the UPS tracking number 1Z GH5 473 03 2510 8421 and asked Michelle to let him know if she has any other questions.\n\nLast outgoing (Tue, Oct 6, 8:51 PM EDT) — Michelle replied \"Thank you!\"\n\nTravel arrangements pending.",
       "topic": "God's Story podcast invitation"
     },
     {
@@ -2985,7 +2985,7 @@
       "emailSubject": "",
       "relatedEvent": "",
       "status": "",
-      "summary": "Last received (Thu, Oct 15, 5:47 PM EDT) \u2014 Rex Louth sent the UPS tracking numbers for the book order: 1Z6097911302607140, 1Z6097911302607284, 1Z6097911302607337, 1Z6097911302607300.\n\nEarlier received (Thu, Oct 15, 5:45 PM EDT) \u2014 Rex confirmed after a phone call with Michelle that the shipment will be delivered tomorrow (Fri, Oct 16) to the church location in Atlanta (Christian Cultural Center \u2013 Atlanta Campus).\n\nLast outgoing (Thu, Oct 15, 7:33 PM EDT) \u2014 Michelle thanked Rex (\"Pastor Louth\") for the confirmation, said it was a pleasure speaking, and looked forward to staying connected.\n\nEarlier received (Wed, Oct 14, 5:21 PM EDT) \u2014 Rex Louth (Author Orders, David C. Cook) confirmed the expedited book order: 75 copies of \"Forgive Me If I Was Rude\" will arrive Friday, Oct 16, 2026. Two-day shipping $143.43; order total with 65% author discount + taxes + shipping = $727.92. Rex will send tracking info once available.\n\nEarlier outgoing (Thu, Oct 15, 3:41 PM EDT) \u2014 Michelle followed up with Rex to confirm he received the updated shipping address: Emanuel Lambert Jr., 8784 Roswell Rd., Sandy Springs, GA 30350.\n\nEarlier (Wed, Oct 14, 9:36 PM EDT) \u2014 Michelle replied \"Awesome! How do we submit payment?\" (8:55 PM), then provided the updated shipping address above (9:36 PM).\n\nEarlier (Wed, Oct 14, 4:43 PM EDT) \u2014 Michelle followed up with Rex asking when the warehouse could provide the shipping numbers so they could proceed with the order; books needed within 3 days (by Oct 17).\n\nEarlier (Wed, Oct 14, 9:15 AM EDT) \u2014 Michelle asked Rex to expedite 75 books to the Christian Cultural Center \u2013 Atlanta Campus address (1374 W Peachtree St NW, Atlanta, GA 30309), to be received by 10/17.\n\nEarlier (Oct 12\u201313) \u2014 Annette Brickbealer provided the author-orders email address (authororders@davidccook.org) and asked that she and Luke McKinnon be copied; Luke shared Emanuel's author-discount breakdown: 65% off for 1\u20131,000 copies, 70% for 1,001\u20132,500, 75% for 2,501+ (not royalty-bearing, not reported to BookScan); Rex said expedited shipping and direct-to-venue shipping are available.\n\nEarlier (Sep 23, 10:48 AM EDT) \u2014 Annette replied \"You're welcome\" after sending the UPS tracking numbers for the 100-book shipment.",
+      "summary": "Last received (Thu, Oct 15, 5:47 PM EDT) — Rex Louth sent the UPS tracking numbers for the book order: 1Z6097911302607140, 1Z6097911302607284, 1Z6097911302607337, 1Z6097911302607300.\n\nEarlier received (Thu, Oct 15, 5:45 PM EDT) — Rex confirmed after a phone call with Michelle that the shipment will be delivered tomorrow (Fri, Oct 16) to the church location in Atlanta (Christian Cultural Center – Atlanta Campus).\n\nLast outgoing (Thu, Oct 15, 7:33 PM EDT) — Michelle thanked Rex (\"Pastor Louth\") for the confirmation, said it was a pleasure speaking, and looked forward to staying connected.\n\nEarlier received (Wed, Oct 14, 5:21 PM EDT) — Rex Louth (Author Orders, David C. Cook) confirmed the expedited book order: 75 copies of \"Forgive Me If I Was Rude\" will arrive Friday, Oct 16, 2026. Two-day shipping $143.43; order total with 65% author discount + taxes + shipping = $727.92. Rex will send tracking info once available.\n\nEarlier outgoing (Thu, Oct 15, 3:41 PM EDT) — Michelle followed up with Rex to confirm he received the updated shipping address: Emanuel Lambert Jr., 8784 Roswell Rd., Sandy Springs, GA 30350.\n\nEarlier (Wed, Oct 14, 9:36 PM EDT) — Michelle replied \"Awesome! How do we submit payment?\" (8:55 PM), then provided the updated shipping address above (9:36 PM).\n\nEarlier (Wed, Oct 14, 4:43 PM EDT) — Michelle followed up with Rex asking when the warehouse could provide the shipping numbers so they could proceed with the order; books needed within 3 days (by Oct 17).\n\nEarlier (Wed, Oct 14, 9:15 AM EDT) — Michelle asked Rex to expedite 75 books to the Christian Cultural Center – Atlanta Campus address (1374 W Peachtree St NW, Atlanta, GA 30309), to be received by 10/17.\n\nEarlier (Oct 12–13) — Annette Brickbealer provided the author-orders email address (authororders@davidccook.org) and asked that she and Luke McKinnon be copied; Luke shared Emanuel's author-discount breakdown: 65% off for 1–1,000 copies, 70% for 1,001–2,500, 75% for 2,501+ (not royalty-bearing, not reported to BookScan); Rex said expedited shipping and direct-to-venue shipping are available.\n\nEarlier (Sep 23, 10:48 AM EDT) — Annette replied \"You're welcome\" after sending the UPS tracking numbers for the 100-book shipment.",
       "topic": "Emanuel's 100 Books"
     },
     {
@@ -2996,10 +2996,10 @@
       "contactPhone": "",
       "emailDate": "2026-09-24",
       "emailSender": "Sean / Coffee, Hip-Hop & Mental Health",
-      "emailSubject": "Forgive If I Was Rude \u2014 25-copy bulk order",
+      "emailSubject": "Forgive If I Was Rude — 25-copy bulk order",
       "relatedEvent": "",
       "status": "awaiting purchase",
-      "summary": "Latest in thread:\n\n\u2022 Latest received \u2014 September 24, 2026 at 11:30 PM EDT: Sean thanked the team and said he would let them know soon. No purchase was confirmed.\n\n\u2022 Latest sent \u2014 September 23, 2026 at 10:26 AM EDT: Michelle forwarded Rudy Kish\u2019s corrected quote and apology. Rudy honored a 25% discount on 25 copies of \u2018Forgive If I Was Rude\u2019 at $14.99 per book because of his earlier quantity-and-quote error. Standard shipping is free, and sales tax will be waived with a tax-exempt certificate.",
+      "summary": "Latest in thread:\n\n• Latest received — September 24, 2026 at 11:30 PM EDT: Sean thanked the team and said he would let them know soon. No purchase was confirmed.\n\n• Latest sent — September 23, 2026 at 10:26 AM EDT: Michelle forwarded Rudy Kish’s corrected quote and apology. Rudy honored a 25% discount on 25 copies of ‘Forgive If I Was Rude’ at $14.99 per book because of his earlier quantity-and-quote error. Standard shipping is free, and sales tax will be waived with a tax-exempt certificate.",
       "topic": "CHHAMH bulk order quote",
       "updatedAt": "2026-09-27T10:32:29.799Z"
     },
@@ -3014,7 +3014,7 @@
       "emailSubject": "Re: Podcast Interview w/ Da'Truth",
       "relatedEvent": "65",
       "status": "awaiting reply",
-      "summary": "Last outgoing (Oct 14, 3:20 AM) \u2014 Michelle circling back to lock in time/location of the Oct 21 podcast interview (Naomi confirmed Oct 21 on Sep 22, said details coming that week). No reply \u2014 PENDING time/location confirmation.\n\nEarlier received (Sep 22, 5:12 PM) \u2014 Naomi confirmed they're excited to have Da'Truth join the podcast on October 21st, are coordinating the details, and will get back later this week with available times.\n\nEarlier outgoing (Sep 23, 5:11 PM) \u2014 Michelle's reply: \"Thank you for getting back to me promptly! Sounds good, I look forward to hearing from you later this week.\" Awaiting Naomi's follow-up with available times.",
+      "summary": "Last outgoing (Oct 14, 3:20 AM) — Michelle circling back to lock in time/location of the Oct 21 podcast interview (Naomi confirmed Oct 21 on Sep 22, said details coming that week). No reply — PENDING time/location confirmation.\n\nEarlier received (Sep 22, 5:12 PM) — Naomi confirmed they're excited to have Da'Truth join the podcast on October 21st, are coordinating the details, and will get back later this week with available times.\n\nEarlier outgoing (Sep 23, 5:11 PM) — Michelle's reply: \"Thank you for getting back to me promptly! Sounds good, I look forward to hearing from you later this week.\" Awaiting Naomi's follow-up with available times.",
       "topic": "Da'Truth podcast with Brenda Palmer"
     },
     {
@@ -3025,10 +3025,10 @@
       "contactPhone": "",
       "emailDate": "2026-10-15",
       "emailSender": "Kamora Granger / Behavior Genius",
-      "emailSubject": "Re: Upcoming Podcast Filming \u2013 October 30th | Important Information & Reminders",
+      "emailSubject": "Re: Upcoming Podcast Filming – October 30th | Important Information & Reminders",
       "relatedEvent": "257",
       "status": "action needed",
-      "summary": "Last received (Oct 15, 6:33 PM) \u2014 Kamora confirmed Michelle's team must secure Emanuel's transportation to hotel and studio. Filming Fri Oct 30, 12:00 PM (arrive 11:45 AM), The Pod Place, 1500 S Evergreen Ave, Los Angeles CA 90023. Pending: arrange transportation; review contract/posting agreement.\n\nEarlier received (Friday, Oct 2, 4:04 PM) \u2014 Portia James reacted via Gmail to Michelle's thank-you, confirming the hospitality and wardrobe arrangements for the Oct 6 Undivided taping in LA.\n\nEarlier outgoing (Friday, Oct 2, 3:37 PM) \u2014 Michelle replied \"Very well! Thank you!\" confirming Portia's hospitality and wardrobe arrangements for the Oct 6 Undivided taping in LA.",
+      "summary": "Last received (Oct 15, 6:33 PM) — Kamora confirmed Michelle's team must secure Emanuel's transportation to hotel and studio. Filming Fri Oct 30, 12:00 PM (arrive 11:45 AM), The Pod Place, 1500 S Evergreen Ave, Los Angeles CA 90023. Pending: arrange transportation; review contract/posting agreement.\n\nEarlier received (Friday, Oct 2, 4:04 PM) — Portia James reacted via Gmail to Michelle's thank-you, confirming the hospitality and wardrobe arrangements for the Oct 6 Undivided taping in LA.\n\nEarlier outgoing (Friday, Oct 2, 3:37 PM) — Michelle replied \"Very well! Thank you!\" confirming Portia's hospitality and wardrobe arrangements for the Oct 6 Undivided taping in LA.",
       "topic": "Undivided Podcast taping and travel"
     },
     {
@@ -3042,7 +3042,7 @@
       "emailSubject": "",
       "relatedEvent": "50",
       "status": "",
-      "summary": "Last received (Fri Oct 2, 2:57 PM EDT) \u2014 Mike Stralow confirmed the Wheaton studio address (120 N Hale St, Suite 200, Wheaton, IL 60187) is a good address to ship a copy of the book to, for Emanuel's in-studio taping on Thu Oct 8, 1:00\u20132:00 PM Central.\n\nLast outgoing (Sep 29, 10:21 AM EDT) \u2014 Michelle asked Mike to confirm whether the studio address is a good address to ship a copy of the book to.\n\nTravel arrangements pending.",
+      "summary": "Last received (Fri Oct 2, 2:57 PM EDT) — Mike Stralow confirmed the Wheaton studio address (120 N Hale St, Suite 200, Wheaton, IL 60187) is a good address to ship a copy of the book to, for Emanuel's in-studio taping on Thu Oct 8, 1:00–2:00 PM Central.\n\nLast outgoing (Sep 29, 10:21 AM EDT) — Michelle asked Mike to confirm whether the studio address is a good address to ship a copy of the book to.\n\nTravel arrangements pending.",
       "topic": "Esau McCaulley podcast"
     },
     {
@@ -3053,10 +3053,10 @@
       "contactPhone": "",
       "emailDate": "2026-09-09",
       "emailSender": "McKenzie Masters / StoryTold PR",
-      "emailSubject": "The Basement with Tim Ross \u2014 October 20 confirmation",
+      "emailSubject": "The Basement with Tim Ross — October 20 confirmation",
       "relatedEvent": "52",
       "status": "confirmed",
-      "summary": "Latest in thread:\n\n\u2022 Latest received \u2014 September 9, 2026 at 2:37 PM EDT: McKenzie Masters sent the calendar hold for the October 20 in-studio taping in Denton. McKenzie had confirmed on September 8, \u201cWe\u2019re confirmed for 10/20.\u201d The schedule is 9:15 AM guest arrival, 9:30 AM taping, with an optional post-taping lunch. Eunice is the admin contact at Upset the World Studios.\n\n\u2022 Latest sent \u2014 September 9, 2026 at 2:32 PM EDT: Michelle confirmed that Emanuel would join Tim and the team for lunch. Pastor Sam Collier\u2019s attendance will be confirmed later.",
+      "summary": "Latest in thread:\n\n• Latest received — September 9, 2026 at 2:37 PM EDT: McKenzie Masters sent the calendar hold for the October 20 in-studio taping in Denton. McKenzie had confirmed on September 8, “We’re confirmed for 10/20.” The schedule is 9:15 AM guest arrival, 9:30 AM taping, with an optional post-taping lunch. Eunice is the admin contact at Upset the World Studios.\n\n• Latest sent — September 9, 2026 at 2:32 PM EDT: Michelle confirmed that Emanuel would join Tim and the team for lunch. Pastor Sam Collier’s attendance will be confirmed later.",
       "topic": "The Basement with Tim Ross",
       "updatedAt": "2026-09-27T10:32:29.799Z"
     },
@@ -3071,7 +3071,7 @@
       "emailSubject": "",
       "relatedEvent": "",
       "status": "",
-      "summary": "Last received (Sep 4) \u2014 Mikayla Janeese confirmed Emanuel recorded On The Path on Sep 4, 2026; they also want to interview Bri.\n\nLast outgoing (Sep 10) \u2014 Michelle forwarded the Bri interview request to Chayla and the concierge.",
+      "summary": "Last received (Sep 4) — Mikayla Janeese confirmed Emanuel recorded On The Path on Sep 4, 2026; they also want to interview Bri.\n\nLast outgoing (Sep 10) — Michelle forwarded the Bri interview request to Chayla and the concierge.",
       "topic": "On The Path podcast"
     },
     {
@@ -3085,7 +3085,7 @@
       "emailSubject": "",
       "relatedEvent": "53",
       "status": "",
-      "summary": "Last received (Tue, Oct 6, 9:13 PM EDT) \u2014 McKenzie replied \"Thanks so much, Michelle!\" Earlier the same evening (9:07 PM), she shared that Abdu's team said today's conversation was great, but Riverside did not get the full upload of Emanuel's video; they asked Emanuel to finish the upload at riverside.com/upload on the same computer and browser, or by reopening the mobile app and keeping it open until it's done.\n\nLast outgoing (Tue, Oct 6, 9:11 PM EDT) \u2014 Michelle replied \"Thank you McKenzie. I'll make sure Emanuel gets this.\"\n\nTravel arrangements: not applicable \u2014 virtual interview.",
+      "summary": "Last received (Tue, Oct 6, 9:13 PM EDT) — McKenzie replied \"Thanks so much, Michelle!\" Earlier the same evening (9:07 PM), she shared that Abdu's team said today's conversation was great, but Riverside did not get the full upload of Emanuel's video; they asked Emanuel to finish the upload at riverside.com/upload on the same computer and browser, or by reopening the mobile app and keeping it open until it's done.\n\nLast outgoing (Tue, Oct 6, 9:11 PM EDT) — Michelle replied \"Thank you McKenzie. I'll make sure Emanuel gets this.\"\n\nTravel arrangements: not applicable — virtual interview.",
       "topic": "All Rise with Abdu Murray"
     },
     {
@@ -3096,10 +3096,10 @@
       "contactPhone": "",
       "emailDate": "2026-10-12",
       "emailSender": "Michelle / Intelligent Faith",
-      "emailSubject": "Re: Flyer Request \u2014 Intelligent Faith Experience",
+      "emailSubject": "Re: Flyer Request — Intelligent Faith Experience",
       "relatedEvent": "51",
       "status": "awaiting reply",
-      "summary": "Last outgoing (Oct 12, 3:15 PM) \u2014 Michelle followed up with Blair on the flyer + flight booking (Blair said Sep 24 flights would be booked week of Oct 5). No reply from Blair since.\n\nEarlier received (Sep 23, 10:26 AM) \u2014 Blair confirmed she'll send over a copy of the flyer as soon as the design is finalized and available.\n\nEarlier outgoing (Sep 23, 5:09 PM) \u2014 Michelle thanked Blair and asked when Emanuel's flights would be booked.\n\nTravel arrangements pending \u2014 flights and hotel for Oct 18\u201319 are being arranged (flights $472.80, hotel $819.23, $100/day per diem); no flight itinerary or confirmation number yet.",
+      "summary": "Last received (Oct 12, 3:28 PM) — Blair replied to Michelle's 3:15 PM follow-up (her email landed in Spam): she will take care of the flight purchase today and will send the confirmation as soon as the booking is complete. Flight confirmation not received yet.\n\nLast outgoing (Oct 12, 3:15 PM) — Michelle followed up with Blair on the flyer + flight booking (Blair said Sep 24 flights would be booked week of Oct 5).\n\nEarlier received (Sep 24, 10:37 AM) — Blair said they were planning to book Emanuel's flight during the week of October 5th and would provide an update once the flight has been booked.\n\nEarlier outgoing (Sep 23, 5:09 PM) — Michelle thanked Blair and asked when Emanuel's flights would be booked.\n\nEarlier received (Sep 23, 10:26 AM) — Blair confirmed she'll send over a copy of the flyer as soon as the design is finalized and available.\n\nTravel arrangements pending — flights and hotel for Oct 18–19 are being arranged (flights $472.80, hotel $819.23, $100/day per diem); Blair promised the flight confirmation Oct 12 but no confirmation number or itinerary has arrived in this thread yet.",
       "topic": "CCC Atlanta booking"
     },
     {
@@ -3113,8 +3113,8 @@
       "emailSubject": "WTW'26 conference flow and Dallas availability",
       "relatedEvent": "56",
       "status": "in discussion",
-      "summary": "Latest in thread:\n\n\u2022 Latest sent \u2014 September 23, 2026 at 5:55 PM EDT: Michelle recommended the \u201cIntelligent Faith for Believers\u201d package, including Curious Conversations & Q&A, as the best fit for the conference flow. She said she would follow up with Emanuel\u2019s Dallas availability for October 21\u201323 after his September 24 meeting.\n\n\u2022 Latest received \u2014 September 17, 2026 at 5:30 PM EDT: Aria said Albaner was available all three dates and asked Michelle to provide Emanuel\u2019s preferred day and time.",
-      "topic": "WTW'26 \u2014 Albaner Eugene Jr conference",
+      "summary": "Latest in thread:\n\n• Latest sent — September 23, 2026 at 5:55 PM EDT: Michelle recommended the “Intelligent Faith for Believers” package, including Curious Conversations & Q&A, as the best fit for the conference flow. She said she would follow up with Emanuel’s Dallas availability for October 21–23 after his September 24 meeting.\n\n• Latest received — September 17, 2026 at 5:30 PM EDT: Aria said Albaner was available all three dates and asked Michelle to provide Emanuel’s preferred day and time.",
+      "topic": "WTW'26 — Albaner Eugene Jr conference",
       "updatedAt": "2026-09-27T10:32:29.799Z"
     },
     {
@@ -3128,7 +3128,7 @@
       "emailSubject": "",
       "relatedEvent": "",
       "status": "",
-      "summary": "Last received (Sep 26, 1:19 PM) \u2014 Amber Bergeron provided the studio address: 201 Main Street, Houston, Texas 77022, downtown Houston.\n\nLast outgoing (Sep 26, 7:19 PM) \u2014 Michelle thanked Amber for the details and followed up on upcoming available dates to potentially host the in-studio podcasting session. Inquiry still pending \u2014 Michelle follows up herself.\n\nTravel arrangements pending \u2014 Emanuel's in-studio visit is being coordinated; no travel booked yet.",
+      "summary": "Last received (Sep 26, 1:19 PM) — Amber Bergeron provided the studio address: 201 Main Street, Houston, Texas 77022, downtown Houston.\n\nLast outgoing (Sep 26, 7:19 PM) — Michelle thanked Amber for the details and followed up on upcoming available dates to potentially host the in-studio podcasting session. Inquiry still pending — Michelle follows up herself.\n\nTravel arrangements pending — Emanuel's in-studio visit is being coordinated; no travel booked yet.",
       "topic": "Da'Truth featured guest inquiry"
     },
     {
@@ -3142,7 +3142,7 @@
       "emailSubject": "Re: Update",
       "relatedEvent": "49",
       "status": "awaiting decision",
-      "summary": "Last received (Oct 10, 9:45 AM) \u2014 Book order quote: $30/book, $750 for 25 books; Chris wants to support but has funding constraints and wants transparency before committing \u2014 PENDING decision. Event ran Oct 9\u201310 (Oct 9 evening \"NO SMALL TALK\" fireside; Oct 10 World Mental Health Day forum at Northwestern, Emanuel 2:00\u20132:30 PM). Logistics: per-diem $300 sent via Zelle (Oct 9), car pickup arrangements, run of show.\n\nEarlier received (Tue, Oct 6, 10:30 AM EDT) \u2014 CHHAMH actively working on Emanuel's flight for their Chicago event: Christopher spoke to Emanuel this morning; they asked for Emanuel's full name, date of birth, and TSA precheck status to settle flight arrangements.\n\nEarlier outgoing (Tue, Oct 6, 8:15 AM EDT) \u2014 assist sent Emanuel's preferred flight itinerary to CHHAMH."
+      "summary": "Last outgoing (Oct 16, 7:50 PM) — Michelle thanked Sean and the CHHAMH team for the Oct 9–10 Chicago event (Emanuel enjoyed the opportunity to reach the community alongside them) and shared this WeTransfer link (https://we.tl/r-5Xicpe2kX4gmSHTV), asking them to send any media files from the weekend.\n\nLast received (Oct 10, 9:45 AM) — Book order quote: $30/book, $750 for 25 books; Chris wants to support but has funding constraints and wants transparency before committing — PENDING decision. Event ran Oct 9–10 (Oct 9 evening \"NO SMALL TALK\" fireside; Oct 10 World Mental Health Day forum at Northwestern, Emanuel 2:00–2:30 PM). Logistics: per-diem $300 sent via Zelle (Oct 9), car pickup arrangements, run of show.\n\nEarlier received (Tue, Oct 6, 10:30 AM EDT) — CHHAMH actively working on Emanuel's flight for their Chicago event: Christopher spoke to Emanuel this morning; they asked for Emanuel's full name, date of birth, and TSA precheck status to settle flight arrangements.\n\nEarlier outgoing (Tue, Oct 6, 8:15 AM EDT) — assist sent Emanuel's preferred flight itinerary to CHHAMH."
     },
     {
       "_recordId": 170,
@@ -3155,7 +3155,7 @@
       "emailSubject": "",
       "relatedEvent": "48",
       "status": "",
-      "summary": "Last received (Sep 14, 6:51 PM EDT) \u2014 Sharon Johnson confirmed the travel itinerary was sent and offered further help.\n\nLast outgoing (Sep 14, 7:29 PM EDT) \u2014 Michelle thanked Sharon for the itinerary.\n\nTravel arrangements booked.",
+      "summary": "Last received (Sep 14, 6:51 PM EDT) — Sharon Johnson confirmed the travel itinerary was sent and offered further help.\n\nLast outgoing (Sep 14, 7:29 PM EDT) — Michelle thanked Sharon for the itinerary.\n\nTravel arrangements booked.",
       "topic": "Sharon Baptist Church 92nd Anniversary"
     },
     {
@@ -3169,7 +3169,7 @@
       "emailSubject": "",
       "relatedEvent": "",
       "status": "",
-      "summary": "Last received (May 13, 5:45 PM EDT) \u2014 RNG Pastors admin confirmed Pastor Kendall is aware, they're discussing a date likely in January 2027, will be in touch.\n\nLast outgoing (May 13, 8:38 PM EDT) \u2014 Michelle thanked them and said she looks forward to hearing once the date is finalized.",
+      "summary": "Last received (May 13, 5:45 PM EDT) — RNG Pastors admin confirmed Pastor Kendall is aware, they're discussing a date likely in January 2027, will be in touch.\n\nLast outgoing (May 13, 8:38 PM EDT) — Michelle thanked them and said she looks forward to hearing once the date is finalized.",
       "topic": "Pastor Kendall McDowell IFE lead"
     },
     {
@@ -3183,7 +3183,7 @@
       "emailSubject": "",
       "relatedEvent": "",
       "status": "",
-      "summary": "Last received (Aug 17, 10:44 AM) \u2014 Marlon said Pastor Vernon has returned from sabbatical; Marlon will talk to the lead team and get back with suitable dates for 2027.\n\nLast outgoing (Aug 12) \u2014 Michelle asked for potential dates as she's scheduling Emanuel's 2027 calendar.",
+      "summary": "Last received (Aug 17, 10:44 AM) — Marlon said Pastor Vernon has returned from sabbatical; Marlon will talk to the lead team and get back with suitable dates for 2027.\n\nLast outgoing (Aug 12) — Michelle asked for potential dates as she's scheduling Emanuel's 2027 calendar.",
       "topic": "Marlon Sellers / Life Church IFE lead"
     },
     {
@@ -3197,7 +3197,7 @@
       "emailSubject": "",
       "relatedEvent": "",
       "status": "",
-      "summary": "Last received (Aug 12, 7:13 PM) \u2014 Jemima thanked Michelle for the response; their contact will get back regarding the honorarium and budget.\n\nLast outgoing (Aug 12, 1:03 PM) \u2014 Michelle clarified honorarium ranges $5,000\u2013$8,500 (excludes flights, hotel, etc.) and asked what budget they allocated.",
+      "summary": "Last received (Aug 12, 7:13 PM) — Jemima thanked Michelle for the response; their contact will get back regarding the honorarium and budget.\n\nLast outgoing (Aug 12, 1:03 PM) — Michelle clarified honorarium ranges $5,000–$8,500 (excludes flights, hotel, etc.) and asked what budget they allocated.",
       "topic": "Jemima Irabor-Ighedosa / Summit Bible Church IFE lead"
     },
     {
@@ -3211,7 +3211,7 @@
       "emailSubject": "",
       "relatedEvent": "",
       "status": "",
-      "summary": "Last received (Aug 12, 9:02 AM) \u2014 Ashley said Apostle Duhart is on sabbatical; she's reviewing the IFE packages and will share with Apostle Duhart and Pastor for consideration; asked how long a session typically lasts.\n\nLast outgoing (Aug 5) \u2014 Michelle followed up offering to answer questions while they review the proposal.",
+      "summary": "Last received (Aug 12, 9:02 AM) — Ashley said Apostle Duhart is on sabbatical; she's reviewing the IFE packages and will share with Apostle Duhart and Pastor for consideration; asked how long a session typically lasts.\n\nLast outgoing (Aug 5) — Michelle followed up offering to answer questions while they review the proposal.",
       "topic": "Ashley Citchens / The Rock IFE lead"
     },
     {
@@ -3225,7 +3225,7 @@
       "emailSubject": "",
       "relatedEvent": "",
       "status": "",
-      "summary": "Last received \u2014 No reply received yet.\n\nLast outgoing (Jun 3, 9:17 AM) \u2014 Michelle followed up with Latoya at Renovation Church Buffalo on bringing The Intelligent Faith Experience; initial outreach May 12 included agreement and travel-booking details.",
+      "summary": "Last received — No reply received yet.\n\nLast outgoing (Jun 3, 9:17 AM) — Michelle followed up with Latoya at Renovation Church Buffalo on bringing The Intelligent Faith Experience; initial outreach May 12 included agreement and travel-booking details.",
       "topic": "Latoya / Renovation Church IFE lead"
     },
     {
@@ -3239,7 +3239,7 @@
       "emailSubject": "",
       "relatedEvent": "",
       "status": "",
-      "summary": "Last received (Jul 9, 3:00 PM) \u2014 King Cyz confirmed Sept 12th works for the Holy Culture studio appearance; asked if 2pm works.\n\nLast outgoing (Aug 12, 1:31 PM) \u2014 Michelle said she should have Emanuel's flight itinerary secured by end of next week.\n\nTravel arrangements pending \u2014 coordinating Emanuel's Sept 12th Holy Culture radio studio appearance; flights not yet booked.",
+      "summary": "Last received (Jul 9, 3:00 PM) — King Cyz confirmed Sept 12th works for the Holy Culture studio appearance; asked if 2pm works.\n\nLast outgoing (Aug 12, 1:31 PM) — Michelle said she should have Emanuel's flight itinerary secured by end of next week.\n\nTravel arrangements pending — coordinating Emanuel's Sept 12th Holy Culture radio studio appearance; flights not yet booked.",
       "topic": "James Rosseau (Trig) / Holy Culture lead"
     },
     {
@@ -3253,7 +3253,7 @@
       "emailSubject": "",
       "relatedEvent": "57",
       "status": "",
-      "summary": "Last received (Fri, Oct 9, 1:11 PM EDT) \u2014 Renee Breen thanked Michelle for the documents.\n\nLast outgoing (Fri, Oct 9, 1:01 PM EDT) \u2014 Michelle sent Renee the completed Short Form Agreement (Guest Speaker, Lambert, 10-26-26) plus the DaTRUTH hospitality and technical rider.\n\nTravel arrangements pending \u2014 hotel BOOKED: Fairfield Inn, Lynchburg (Emanuel conf G2H23TCK5, Michelle conf 5RNDWQ98Z), check-in Oct 24, check-out Oct 27. Emanuel's flights were updated and booked per Renee (upgraded to Main Select), but the thread still carries no confirmation number or final updated itinerary. Ground transportation requested, not yet confirmed.",
+      "summary": "Last received (Fri, Oct 9, 1:11 PM EDT) — Renee Breen thanked Michelle for the documents.\n\nLast outgoing (Fri, Oct 9, 1:01 PM EDT) — Michelle sent Renee the completed Short Form Agreement (Guest Speaker, Lambert, 10-26-26) plus the DaTRUTH hospitality and technical rider.\n\nTravel arrangements pending — hotel BOOKED: Fairfield Inn, Lynchburg (Emanuel conf G2H23TCK5, Michelle conf 5RNDWQ98Z), check-in Oct 24, check-out Oct 27. Emanuel's flights were updated and booked per Renee (upgraded to Main Select), but the thread still carries no confirmation number or final updated itinerary. Ground transportation requested, not yet confirmed.",
       "topic": "Liberty University visit"
     },
     {
@@ -3267,7 +3267,7 @@
       "emailSubject": "",
       "relatedEvent": "",
       "status": "",
-      "summary": "Last outgoing (Sep 26, 2:39 PM) \u2014 Michelle's email \"Emanuel 'Da'Truth' Talking Points and Promo Clip\": Emanuel's bio, four proposed talk topics for next-gen leaders, and a WeTransfer link to the promo clips. This was Michelle pitching Emanuel as a speaker guest to Bishop Orin \u2014 not a podcast booking; no event name, date, or booking was included.\n\nNo response received yet \u2014 awaiting Bishop Orin's reply.",
+      "summary": "Last outgoing (Sep 26, 2:39 PM) — Michelle's email \"Emanuel 'Da'Truth' Talking Points and Promo Clip\": Emanuel's bio, four proposed talk topics for next-gen leaders, and a WeTransfer link to the promo clips. This was Michelle pitching Emanuel as a speaker guest to Bishop Orin — not a podcast booking; no event name, date, or booking was included.\n\nNo response received yet — awaiting Bishop Orin's reply.",
       "topic": "Bishop Orin Perry IFE lead"
     },
     {
@@ -3281,7 +3281,7 @@
       "emailSubject": "",
       "relatedEvent": "",
       "status": "",
-      "summary": "Last received (Wed, Oct 14, 4:13 PM EDT) \u2014 Maddie Boarman (StoryTold PR) replied that she's passed Emanuel's 11/6 availability along to Raleigh to see if it works or whether he has other options after that time. Still awaiting Raleigh's confirmation \u2014 no new date confirmed yet.\n\nLast outgoing (Wed, Oct 14, 4:44 PM EDT) \u2014 Michelle replied: \"Sounds good, thank you.\"\n\nEarlier (Wed, Oct 14, 10:58 AM EDT) \u2014 Michelle replied that Emanuel is next available 11/6 at 9 AM CST.\n\nEarlier (Wed, Oct 14, 10:17 AM EDT) \u2014 Maddie Boarman wrote that host Raleigh Sadler is available all day next Wednesday (10/21) and Friday (10/23) to reschedule the MercyCast interview; asked what would work best for Emanuel. No new date is confirmed yet \u2014 the choice is Michelle's.\n\nEarlier (Wed, Oct 14, 8:37 AM EDT) \u2014 Michelle replied to Maddie's reschedule notice: \"No problem, thanks for the heads up!\"\n\nEarlier (Wed, Oct 14, 7:01 AM EDT) \u2014 Maddie Boarman wrote that Raleigh asked to reschedule today's MercyCast interview: he double-booked himself and will be on a flight during the 10:00\u201311:00 AM EDT slot. Maddie is coordinating new dates with Raleigh and asked that Emanuel reallocate the hour. Today's slot is no longer confirmed \u2014 the interview is pending new dates.\n\nEarlier (Tue, Oct 13, 8:48 PM EDT) \u2014 Michelle replied to Maddie: \"Awesome, thank you so much!\"\n\nEarlier (Tue, Oct 13, 3:31 PM EDT) \u2014 Maddie Boarman sent Emanuel's interview sheet for his MercyCast interview: Wed Oct 14, 10:00\u201311:00 AM EDT, a 1-hour video + audio recorded interview with host Raleigh Sadler. The updated invite carries the Riverside studio link and 10 potential questions for Raleigh.\n\nEarlier (Sep 30, 10:00 AM EDT) \u2014 Maddie Boarman confirmed and scheduled the MercyCast VIDEO podcast interview: Emanuel will appear on the MercyCast podcast (host Raleigh Sadler, ~3K monthly listens) on Wed Oct 14, 10:00\u201311:00 AM EDT \u2014 a 1-hour video + audio recorded interview via Google Meet. A calendar invite went to emanuellambert@gmail.com.",
+      "summary": "Last received (Wed, Oct 14, 4:13 PM EDT) — Maddie Boarman (StoryTold PR) replied that she's passed Emanuel's 11/6 availability along to Raleigh to see if it works or whether he has other options after that time. Still awaiting Raleigh's confirmation — no new date confirmed yet.\n\nLast outgoing (Wed, Oct 14, 4:44 PM EDT) — Michelle replied: \"Sounds good, thank you.\"\n\nEarlier (Wed, Oct 14, 10:58 AM EDT) — Michelle replied that Emanuel is next available 11/6 at 9 AM CST.\n\nEarlier (Wed, Oct 14, 10:17 AM EDT) — Maddie Boarman wrote that host Raleigh Sadler is available all day next Wednesday (10/21) and Friday (10/23) to reschedule the MercyCast interview; asked what would work best for Emanuel. No new date is confirmed yet — the choice is Michelle's.\n\nEarlier (Wed, Oct 14, 8:37 AM EDT) — Michelle replied to Maddie's reschedule notice: \"No problem, thanks for the heads up!\"\n\nEarlier (Wed, Oct 14, 7:01 AM EDT) — Maddie Boarman wrote that Raleigh asked to reschedule today's MercyCast interview: he double-booked himself and will be on a flight during the 10:00–11:00 AM EDT slot. Maddie is coordinating new dates with Raleigh and asked that Emanuel reallocate the hour. Today's slot is no longer confirmed — the interview is pending new dates.\n\nEarlier (Tue, Oct 13, 8:48 PM EDT) — Michelle replied to Maddie: \"Awesome, thank you so much!\"\n\nEarlier (Tue, Oct 13, 3:31 PM EDT) — Maddie Boarman sent Emanuel's interview sheet for his MercyCast interview: Wed Oct 14, 10:00–11:00 AM EDT, a 1-hour video + audio recorded interview with host Raleigh Sadler. The updated invite carries the Riverside studio link and 10 potential questions for Raleigh.\n\nEarlier (Sep 30, 10:00 AM EDT) — Maddie Boarman confirmed and scheduled the MercyCast VIDEO podcast interview: Emanuel will appear on the MercyCast podcast (host Raleigh Sadler, ~3K monthly listens) on Wed Oct 14, 10:00–11:00 AM EDT — a 1-hour video + audio recorded interview via Google Meet. A calendar invite went to emanuellambert@gmail.com.",
       "topic": "PR campaign follow-up (StoryTold PR / David C. Cook)"
     },
     {
@@ -3295,7 +3295,7 @@
       "emailSubject": "",
       "relatedEvent": "",
       "status": "closed",
-      "summary": "Last received (Sep 29, 10:59 AM EDT) \u2014 Rudy Kish replied that the sales team cannot provide regional sales info until after the book goes on-sale; suggested looking at Emanuel's social media demographics to find the top two markets where his followers are concentrated.\n\nEarlier (Sep 28, 9:21 PM EDT) \u2014 Rudy replied that Amazon does not share demographic info in the reports he pulls; he had contacted the sales team and asked Michelle to standby.\n\nFirst outgoing (Sep 28, 6:48 PM EDT) \u2014 Michelle asked Rudy whether the sales report includes demographics; they are planning a live signing and reading experience in the city with the highest sales volume.",
+      "summary": "Last received (Sep 29, 10:59 AM EDT) — Rudy Kish replied that the sales team cannot provide regional sales info until after the book goes on-sale; suggested looking at Emanuel's social media demographics to find the top two markets where his followers are concentrated.\n\nEarlier (Sep 28, 9:21 PM EDT) — Rudy replied that Amazon does not share demographic info in the reports he pulls; he had contacted the sales team and asked Michelle to standby.\n\nFirst outgoing (Sep 28, 6:48 PM EDT) — Michelle asked Rudy whether the sales report includes demographics; they are planning a live signing and reading experience in the city with the highest sales volume.",
       "topic": "Sales demographic request (David C. Cook)"
     },
     {
@@ -3309,8 +3309,8 @@
       "emailSubject": "",
       "relatedEvent": "",
       "status": "closed",
-      "summary": "Last received (Sep 2, 3:21 PM EDT) \u2014 Rudy Kish replied \"Great, thank you.\"\n\nEarlier (Sep 2, 9:07 AM EDT) \u2014 McKenzie Masters added Candace to the ARC media mailing list (had a few ARCs left allocated for media) and shared the mailing-list sheet.\n\nEarlier (Sep 2, 8:30 AM EDT) \u2014 Rudy Kish added McKenzie to the thread.\n\nFirst (Sep 2, 7:00 AM EDT) \u2014 Annette Brickbealer confirmed they can mail a manuscript to Candace, and asked whether McKenzie already had Candace on her PR media list.",
-      "topic": "Manuscript / ARC request \u2014 Candace (David C. Cook)"
+      "summary": "Last received (Sep 2, 3:21 PM EDT) — Rudy Kish replied \"Great, thank you.\"\n\nEarlier (Sep 2, 9:07 AM EDT) — McKenzie Masters added Candace to the ARC media mailing list (had a few ARCs left allocated for media) and shared the mailing-list sheet.\n\nEarlier (Sep 2, 8:30 AM EDT) — Rudy Kish added McKenzie to the thread.\n\nFirst (Sep 2, 7:00 AM EDT) — Annette Brickbealer confirmed they can mail a manuscript to Candace, and asked whether McKenzie already had Candace on her PR media list.",
+      "topic": "Manuscript / ARC request — Candace (David C. Cook)"
     },
     {
       "_recordId": 240,
@@ -3323,7 +3323,7 @@
       "emailSubject": "",
       "relatedEvent": "",
       "status": "",
-      "summary": "Last received (Sep 3, 11:52 PM EDT) \u2014 Rudy Kish replied \"This is all great media, thank you all.\"\n\nEarlier (Sep 3, 1:04 PM EDT) \u2014 McKenzie Masters asked Michelle to confirm Emanuel is still planning to be in the Dallas area Oct 19\u201323 and to share which dates/times he'd be available for interviews.\n\nEarlier (Sep 3, 12:55 PM EDT) \u2014 McKenzie shared secured interest from Ruslan KD for an in-person interview in San Diego, asking if Emanuel could drive down from LA (he's there Oct 6) the day before or after.\n\nEarlier (Sep 3, 12:40 PM EDT) \u2014 Michelle sent the team the in-studio promo lineup: Undivided Podcast (LA, Oct 6), Esau McCaulley Podcast (Chicago, Oct 8), Coffee Hip-Hop and Mental Health (Chicago, Oct 9), Northwestern University (Oct 10), The Narrative with Sam Collier (Atlanta, Oct 18\u201320).\n\nEarlier (Sep 3, 12:54 PM EDT) \u2014 McKenzie confirmed On the Path with Cheryl Nembhard for Sep 4 at 3 PM CT (calendar hold sent, awaiting details from Cheryl's team).",
+      "summary": "Last received (Sep 3, 11:52 PM EDT) — Rudy Kish replied \"This is all great media, thank you all.\"\n\nEarlier (Sep 3, 1:04 PM EDT) — McKenzie Masters asked Michelle to confirm Emanuel is still planning to be in the Dallas area Oct 19–23 and to share which dates/times he'd be available for interviews.\n\nEarlier (Sep 3, 12:55 PM EDT) — McKenzie shared secured interest from Ruslan KD for an in-person interview in San Diego, asking if Emanuel could drive down from LA (he's there Oct 6) the day before or after.\n\nEarlier (Sep 3, 12:40 PM EDT) — Michelle sent the team the in-studio promo lineup: Undivided Podcast (LA, Oct 6), Esau McCaulley Podcast (Chicago, Oct 8), Coffee Hip-Hop and Mental Health (Chicago, Oct 9), Northwestern University (Oct 10), The Narrative with Sam Collier (Atlanta, Oct 18–20).\n\nEarlier (Sep 3, 12:54 PM EDT) — McKenzie confirmed On the Path with Cheryl Nembhard for Sep 4 at 3 PM CT (calendar hold sent, awaiting details from Cheryl's team).",
       "topic": "Launch campaign pop-ups and in-studio pods"
     },
     {
@@ -3337,7 +3337,7 @@
       "emailSubject": "",
       "relatedEvent": "53",
       "status": "closed",
-      "summary": "Last received (Sep 1, 9:09 AM EDT) \u2014 Rudy Kish replied \"Thank you Michelle.\"\n\nEarlier (Sep 1, 7:02 AM EDT) \u2014 Michelle thanked Rudy for the clarification and confirmed they will proceed with a virtual interview; asked McKenzie for thoughts on Emanuel doing the recorded interview on the book release date even though it won't drop that day.\n\nFirst (Aug 31, 9:31 PM EDT) \u2014 Rudy Kish clarified David C. Cook covers expenses for national media only; since All Rise with Abdu Murray is not national media, they would not cover travel expenses, and suggested a virtual interview instead. (Booking tracked under Updates > Podcasts: All Rise with Abdu Murray.)",
+      "summary": "Last received (Sep 1, 9:09 AM EDT) — Rudy Kish replied \"Thank you Michelle.\"\n\nEarlier (Sep 1, 7:02 AM EDT) — Michelle thanked Rudy for the clarification and confirmed they will proceed with a virtual interview; asked McKenzie for thoughts on Emanuel doing the recorded interview on the book release date even though it won't drop that day.\n\nFirst (Aug 31, 9:31 PM EDT) — Rudy Kish clarified David C. Cook covers expenses for national media only; since All Rise with Abdu Murray is not national media, they would not cover travel expenses, and suggested a virtual interview instead. (Booking tracked under Updates > Podcasts: All Rise with Abdu Murray.)",
       "topic": "All Rise expense coverage (David C. Cook)"
     },
     {
@@ -3352,7 +3352,7 @@
       "emailSubject": "",
       "relatedEvent": "285",
       "status": "",
-      "summary": "Last outgoing (Wed, Oct 14, 4:44 PM EDT) \u2014 Michelle replied: \"You're welcome!\" \u2014 acknowledgement closing today's thread with McKenzie.\n\nLast received (Wed, Oct 14, 11:07 AM EDT) \u2014 Mckenzie Masters (StoryTold PR) replied \"Perfect, thanks Michelle!\" \u2014 the Jesus Calling devotional and loaner headset will be mailed per Michelle's address.\n\nEarlier (Wed, Oct 14, 9:56 AM EDT) \u2014 Michelle told McKenzie to send the devotional and loaner headset to 107 Travellers Palm Way, Youngsville LA 70592.\n\nEarlier (Wed, Oct 14, 9:54 AM EDT) \u2014 Mckenzie Masters confirmed the Jesus Calling Podcast interview is booked for Thu Nov 5, 9:00\u201310:00 AM CST (10:00\u201311:00 AM EST): a 1-hour audio/video virtual interview. She said the calendar invite is sent and more info is coming. She asked Michelle to confirm whether Emanuel needs a Jesus Calling devotional mailed to him, either to keep or to give.\n\nEarlier (Tue, Oct 13, 1:02 PM EDT) \u2014 Michelle confirmed Nov 5 at 9 AM works for Emanuel.\n\nTravel: virtual interview \u2014 no travel needed.",
+      "summary": "Last outgoing (Wed, Oct 14, 4:44 PM EDT) — Michelle replied: \"You're welcome!\" — acknowledgement closing today's thread with McKenzie.\n\nLast received (Wed, Oct 14, 11:07 AM EDT) — Mckenzie Masters (StoryTold PR) replied \"Perfect, thanks Michelle!\" — the Jesus Calling devotional and loaner headset will be mailed per Michelle's address.\n\nEarlier (Wed, Oct 14, 9:56 AM EDT) — Michelle told McKenzie to send the devotional and loaner headset to 107 Travellers Palm Way, Youngsville LA 70592.\n\nEarlier (Wed, Oct 14, 9:54 AM EDT) — Mckenzie Masters confirmed the Jesus Calling Podcast interview is booked for Thu Nov 5, 9:00–10:00 AM CST (10:00–11:00 AM EST): a 1-hour audio/video virtual interview. She said the calendar invite is sent and more info is coming. She asked Michelle to confirm whether Emanuel needs a Jesus Calling devotional mailed to him, either to keep or to give.\n\nEarlier (Tue, Oct 13, 1:02 PM EDT) — Michelle confirmed Nov 5 at 9 AM works for Emanuel.\n\nTravel: virtual interview — no travel needed.",
       "topic": "Jesus Calling podcast interview",
       "updatedAt": "2026-10-14T14:19:29.353Z"
     }
@@ -3391,7 +3391,7 @@
     {
       "_recordId": 120,
       "createdAt": "2026-09-20T14:37:58.477Z",
-      "description": "Pitch early access to the FMIIWR experience to churches as a partner benefit \u2014 helping believers navigate the tension of opposing worldviews.",
+      "description": "Pitch early access to the FMIIWR experience to churches as a partner benefit — helping believers navigate the tension of opposing worldviews.",
       "dueDate": "2026-10-06",
       "id": 3,
       "owner": "Michelle",
@@ -3471,7 +3471,7 @@
     },
     {
       "_recordId": 129,
-      "details": "Outbound to Chicago for the October 8 Esau McCaulley Podcast taping and the October 10 Coffee, Hip-Hop & Mental Health event.\n\nFlight 1: UA4000\nDeparture: LFT (Lafayette, LA)\nArrival: IAH (Houston, TX)\nConfirmation #IETK0P\n\nFlight 2: UA2182\nDeparture: IAH (Houston, TX)\nArrival: ORD (Chicago, IL)\nConfirmation #IETK0P\n\nPassenger: Emanuel Lambert Jr. Boarding passes issued Oct 7. Departure/arrival times were not included in the United email \u2014 do not invent times.",
+      "details": "Outbound to Chicago for the October 8 Esau McCaulley Podcast taping and the October 10 Coffee, Hip-Hop & Mental Health event.\n\nFlight 1: UA4000\nDeparture: LFT (Lafayette, LA)\nArrival: IAH (Houston, TX)\nConfirmation #IETK0P\n\nFlight 2: UA2182\nDeparture: IAH (Houston, TX)\nArrival: ORD (Chicago, IL)\nConfirmation #IETK0P\n\nPassenger: Emanuel Lambert Jr. Boarding passes issued Oct 7. Departure/arrival times were not included in the United email — do not invent times.",
       "endAt": "2026-10-08",
       "location": null,
       "startAt": "2026-10-08",
@@ -3528,7 +3528,7 @@
       "_recordId": 134,
       "calendarImportCapturedAt": "2026-09-22T15:31:38.000Z",
       "calendarImportKey": "flight-bos-2026-10-23",
-      "details": "Departure: DFW 5:25 PM\nArrival: BOS 10:19 PM\n\nDelta Air Lines DL2057\nDelta Comfort Classic\n\nPending \u2014 awaiting confirmation number from Nina Kumar",
+      "details": "Departure: DFW 5:25 PM\nArrival: BOS 10:19 PM\n\nDelta Air Lines DL2057\nDelta Comfort Classic\n\nPending — awaiting confirmation number from Nina Kumar",
       "endAt": "2026-10-23T22:19:00-04:00",
       "endTimezone": "America/New_York",
       "location": null,
@@ -3568,18 +3568,18 @@
     },
     {
       "_recordId": 250,
-      "details": "BOOKED \u2014 Fairfield Inn, Lynchburg VA (for the IFE + Liberty University Fireside Chat, Oct 25\u201327).\n\nEmanuel Lambert \u2014 confirmation G2H23TCK5\nMichelle Guess \u2014 confirmation 5RNDWQ98Z\nCheck-in Sat Oct 24, check-out Tue Oct 27, 2026.\n\nFlights still PROPOSED (not ticketed): Renee Breen (Liberty) sent proposed itineraries Oct 1 \u2014 Emanuel BOS\u2192LYH Oct 24 (AA1140/AA5893 via Charlotte), LYH\u2192LFT Oct 27 (AA6019/AA5206 via Charlotte); Michelle MCO\u2192LYH Oct 24 (AA1611/AA5893), LYH\u2192MCO Oct 27 (AA6018/AA1611). Renee will purchase once itineraries are approved; final confirmations to follow. Ground transportation to/from the airport requested, not yet confirmed.",
+      "details": "BOOKED — Fairfield Inn, Lynchburg VA (for the IFE + Liberty University Fireside Chat, Oct 25–27).\n\nEmanuel Lambert — confirmation G2H23TCK5\nMichelle Guess — confirmation 5RNDWQ98Z\nCheck-in Sat Oct 24, check-out Tue Oct 27, 2026.\n\nFlights still PROPOSED (not ticketed): Renee Breen (Liberty) sent proposed itineraries Oct 1 — Emanuel BOS→LYH Oct 24 (AA1140/AA5893 via Charlotte), LYH→LFT Oct 27 (AA6019/AA5206 via Charlotte); Michelle MCO→LYH Oct 24 (AA1611/AA5893), LYH→MCO Oct 27 (AA6018/AA1611). Renee will purchase once itineraries are approved; final confirmations to follow. Ground transportation to/from the airport requested, not yet confirmed.",
       "endAt": "2026-10-27",
       "location": "Fairfield Inn, Lynchburg, VA",
       "startAt": "2026-10-24",
       "status": "booked",
       "timezone": "America/New_York",
-      "title": "Hotel: Fairfield Inn \u2013 Lynchburg",
+      "title": "Hotel: Fairfield Inn – Lynchburg",
       "traveler": "Emanuel"
     },
     {
       "_recordId": 267,
-      "details": "Hilton Philadelphia, 4200 City Ave, Philadelphia PA 19131, (215) 879-4000.\n\nConfirmation 3532808802. Check-in Sat 10/10 4:00 PM, check-out Mon 10/12 11:00 AM.\n\nHotel confirmed Sat Oct 10, 2026 2:37 PM EDT (Sharon M. Johnson): credit card authorization on file covers room, tax, and all incidentals \u2014 no credit card needed at check-in. Late check-in confirmed. Room already assigned. Folio left at front desk (no no-show).",
+      "details": "Hilton Philadelphia, 4200 City Ave, Philadelphia PA 19131, (215) 879-4000.\n\nConfirmation 3532808802. Check-in Sat 10/10 4:00 PM, check-out Mon 10/12 11:00 AM.\n\nHotel confirmed Sat Oct 10, 2026 2:37 PM EDT (Sharon M. Johnson): credit card authorization on file covers room, tax, and all incidentals — no credit card needed at check-in. Late check-in confirmed. Room already assigned. Folio left at front desk (no no-show).",
       "endAt": "2026-10-12T11:00:00-04:00",
       "location": "Hilton Philadelphia, 4200 City Ave, Philadelphia, PA 19131",
       "startAt": "2026-10-10T16:00:00-04:00",
@@ -3603,7 +3603,7 @@
     },
     {
       "_recordId": 271,
-      "details": "Departure: LFT 12:03 PM\nArrival: IAH 1:25 PM\n\nConfirmation #ATTEG4\nUnited Express (GoJet Airlines)\n\nJude 3 Project \u2014 Ask Initiative at Texas Southern University, Houston, TX.\n\neTicket: 01621480274363\nTotal: $896.80\n\n[Boarding Pass](https://michelleguessa-glitch.github.io/if-command-center/boarding-pass-houston-lft-iah.jpg)\n\nReturn: Oct 14, 2026 3:29p CDT",
+      "details": "Departure: LFT 12:03 PM\nArrival: IAH 1:25 PM\n\nConfirmation #ATTEG4\nUnited Express (GoJet Airlines)\n\nJude 3 Project — Ask Initiative at Texas Southern University, Houston, TX.\n\neTicket: 01621480274363\nTotal: $896.80\n\n[Boarding Pass](https://michelleguessa-glitch.github.io/if-command-center/boarding-pass-houston-lft-iah.jpg)\n\nReturn: Oct 14, 2026 3:29p CDT",
       "endAt": "2026-10-13T13:25:00-05:00",
       "location": null,
       "startAt": "2026-10-13T12:03:00-05:00",
