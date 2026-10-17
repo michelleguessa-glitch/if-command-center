@@ -1711,6 +1711,17 @@
       "timezone": "America/Chicago",
       "title": "Video Podcast interview: Jesus Calling",
       "updatedAt": "2026-10-14T14:19:29.353Z"
+    },
+    {
+      "_recordId": 287,
+      "allDay": true,
+      "details": "",
+      "endAt": "2026-10-23",
+      "location": "TD Jake's",
+      "owner": "Emanuel",
+      "startAt": "2026-10-22",
+      "timezone": "America/Chicago",
+      "title": "Panel at TD Jake's"
     }
   ],
   "capturedAt": "2026-09-20T21:15:26-04:00",
