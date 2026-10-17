@@ -259,7 +259,7 @@ if(d2.length>1){var m2=d2[1].match(/([A-Z]{3})\s+(\d{1,2}):(\d{2})\s*([AP])M/i);
 var oTz=trR&&trR.timezone?trR.timezone:x.timezone;var oETz=trR&&trR.endTimezone?trR.endTimezone:null;dArr.push(pair('Time zone',oETz?oTz+' \u2192 '+oETz:oTz));
 var fN=tD.split('\n').filter(function(l){return !/^\s*(Departure|Arrival):\s*[A-Z]{3}\s+\d{1,2}:\d{2}\s*[AP]M/i.test(l)&&!/^\s*Return:/i.test(l);}).join('\n').replace(/\n{3,}/g,'\n\n').trim();
 var p=zonedDateParts(x.startAt,x.timezone);
-var range=x.timeLabel||timeRange(x.startAt,x.endAt,x.allDay,x.timezone);
+var oR1=timeOne(x.startAt,x.allDay,oTz),oR2=timeOne(x.endAt,x.allDay,oETz||oTz);var range=x.timeLabel||(oR1&&oR2?oR1+' \u2013 '+oR2:timeRange(x.startAt,x.endAt,x.allDay,x.timezone));
 var key=x.id??x._recordId??x.title;
 return `<details class="overview-event" id="overview-${esc(key)}"><summary><div class="date"><span>${esc(p.m)}</span><strong>${esc(p.d)}</strong></div><div class="row-copy"><div class="meta"><span class="tag">Calendar</span><span class="expand">View details</span></div><h3>${esc(x.title)}</h3>${range?`<p class="time">${esc(range)}</p>`:''}</div></summary><div class="detail"><dl>${dArr.join('')}</dl>${fN?`<div class="notes"><strong>Details</strong><p>${richText(fN)}</p></div>`:''}</div></details>`;
 }
