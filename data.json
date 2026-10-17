@@ -43,16 +43,16 @@
       "fullPaymentReceived": false,
       "id": 2,
       "kind": "ife",
-      "notes": "Blair Hatchett is the admin contact for CCC Atlanta \u2014 bhatchett@cccinfo.org. Hotel Oct 17-20. Total with travel $4,092.03 (hotel $819.23, flights $472.80, per diem $100/day).",
+      "notes": "Blair Hatchett is the admin contact for CCC Atlanta \u2014 bhatchett@cccinfo.org. Hotel Oct 17-20. Total with travel $4,092.03 (hotel $819.23, flights $472.80, per diem $100/day).\n\nSunday Oct 18, 10:00 AM \u2014 Emanuel guest speaker; Lead Pastor Samu'l Collier; The Loft at Center Stage.",
       "startDate": "2026-10-18",
       "state": "GA",
       "status": "confirmed",
-      "timeLabel": "To be confirmed",
+      "timeLabel": "10:00 AM ET",
       "timezone": "America/New_York",
       "title": "CCC Atlanta (Pastor Sam)",
       "topic": null,
       "updatedAt": "2026-09-22T23:43:17.923Z",
-      "venue": "CCC Atlanta \u00b7 cccinfo.org"
+      "venue": "The Loft at Center Stage"
     },
     {
       "_recordId": 3,
@@ -1221,8 +1221,9 @@
     {
       "_recordId": 51,
       "allDay": true,
+      "details": "Sunday 10:00 AM \u2014 Emanuel guest speaker\n\nLead Pastor Samu'l Collier",
       "endAt": "2026-10-19",
-      "location": "Christian Cultural Center - Atlanta Campus, 1374 W Peachtree St NW, Atlanta, GA 30309, USA",
+      "location": "The Loft at Center Stage",
       "owner": "Emanuel",
       "startAt": "2026-10-18",
       "timezone": "America/Chicago",
@@ -1454,16 +1455,19 @@
     },
     {
       "_recordId": 141,
-      "allDay": true,
+      "allDay": false,
       "calendarImportCapturedAt": "2026-09-22T15:31:38.000Z",
       "calendarImportKey": "calendar-flight-dfw-2026-10-19",
-      "details": null,
-      "endAt": "2026-10-19",
+      "details": "Departure: ATL 3:35 PM\nArrival: DFW 5:00 PM\n\nDelta Air Lines DL0374\nAirbus A321\nSeat 25E Main Classic",
+      "endAt": "2026-10-19T17:00:00-05:00",
+      "endTimezone": "America/Chicago",
       "location": null,
       "owner": "Emanuel",
-      "startAt": "2026-10-19",
-      "timezone": "America/Chicago",
-      "title": "Flight to DFW"
+      "startAt": "2026-10-19T15:35:00-04:00",
+      "status": "booked",
+      "timezone": "America/New_York",
+      "title": "Flight to DFW",
+      "traveler": "Emanuel"
     },
     {
       "_recordId": 142,
@@ -1722,6 +1726,17 @@
       "startAt": "2026-10-22",
       "timezone": "America/Chicago",
       "title": "Panel at TD Jake's"
+    },
+    {
+      "_recordId": 289,
+      "allDay": false,
+      "details": "Live podcast recording \u2014 open to the public\n\nHosted by Sam Collier\nFeaturing Emanuel \"Da T.R.U.T.H.\" Lambert\n\nAURN \u2014 American Urban Radio Networks",
+      "endAt": "2026-10-18T15:00:00-04:00",
+      "location": "The Creamery Studios, 1500 Southland Cir NW Ste H, Atlanta, GA 30318",
+      "owner": "Emanuel",
+      "startAt": "2026-10-18T13:00:00-04:00",
+      "timezone": "America/New_York",
+      "title": "The Narrative with Sam Collier"
     }
   ],
   "capturedAt": "2026-09-20T21:15:26-04:00",
@@ -3439,12 +3454,13 @@
       "_recordId": 133,
       "calendarImportCapturedAt": "2026-09-22T15:31:38.000Z",
       "calendarImportKey": "flight-dfw-2026-10-19",
-      "details": null,
-      "endAt": "2026-10-19",
+      "details": "Departure: ATL 3:35 PM\nArrival: DFW 5:00 PM\n\nDelta Air Lines DL0374\nAirbus A321\nSeat 25E Main Classic",
+      "endAt": "2026-10-19T17:00:00-05:00",
+      "endTimezone": "America/Chicago",
       "location": null,
-      "startAt": "2026-10-19",
-      "status": "pending",
-      "timezone": "America/Chicago",
+      "startAt": "2026-10-19T15:35:00-04:00",
+      "status": "booked",
+      "timezone": "America/New_York",
       "title": "Flight to DFW",
       "traveler": "Emanuel"
     },
