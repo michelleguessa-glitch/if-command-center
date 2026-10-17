@@ -2722,6 +2722,26 @@
       "organization": "Harpwest Media Group",
       "role": null,
       "updatedAt": "2026-10-17T01:09:17.914Z"
+    },
+    {
+      "_recordId": 293,
+      "category": "Organization",
+      "email": "lisa@jude3project.com",
+      "name": "Lisa Fields",
+      "notes": "Forwarded Emanuel's United eTicket (conf ATTEG4) for the Oct 13-14 Lafayette-Houston trip tied to the Jude 3 Project Ask Initiative at Texas Southern.",
+      "organization": "Jude 3 Project",
+      "phone": "",
+      "role": "Founder & CEO"
+    },
+    {
+      "_recordId": 294,
+      "category": "media",
+      "email": "kgranger@behaviorgenius.com",
+      "name": "Kamora Granger",
+      "notes": "Working contact for the Undivided Podcast Oct 30, 2026 filming (The Pod Place, Los Angeles). Coordinates filming details; Emanuel's team secures transportation to hotel and studio.",
+      "organization": "Behavior Genius",
+      "phone": "",
+      "role": "Executive Assistant"
     }
   ],
   "dailyTasks": [
