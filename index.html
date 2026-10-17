@@ -200,11 +200,11 @@ if(tExpRet){dArr.push(pair('Return',tExpRet.trim()));}
 else{var tD2=tDet.match(/Departure:\s*([A-Z]{3})\s+(\d{1,2}:\d{2}\s*[AP]M)/g)||[];
 if(tD2.length>1){var tM2=tD2[1].match(/([A-Z]{3})\s+(\d{1,2}):(\d{2})\s*([AP])M/i);if(tM2){var tRt=tM2[2]+':'+tM2[3]+tM2[4].toLowerCase();var tRd=trRec&&trRec.endAt?new Date(trRec.endAt):null;var tMo=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];var tDt=tRd?tMo[tRd.getMonth()]+' '+tRd.getDate()+', '+tRd.getFullYear():'';var tZz=(trRec&&(trRec.endTimezone||trRec.timezone)||'').indexOf('Chicago')>=0?'CDT':'';dArr.push(pair('Return',tDt+' '+tRt+' '+tZz));}}}
 }
-var tTz=trRec&&trRec.timezone?trRec.timezone:x.timezone;var tETz=trRec&&trRec.endTimezone?trRec.endTimezone:null;dArr.push(pair('Time zone',tETz?tTz+' \u2192 '+tETz:tTz));
+var tTz=trRec&&trRec.timezone?trRec.timezone:x.timezone;var tETz=trRec&&trRec.endTimezone?trRec.endTimezone:null;var tR1=timeOne(x.startAt,x.allDay,tTz),tR2=timeOne(x.endAt,x.allDay,tETz||tTz);var tRange=tR1&&tR2?tR1+' \u2013 '+tR2:(tR1||tR2||'');dArr.push(pair('Time zone',tETz?tTz+' \u2192 '+tETz:tTz));
 var fNotes=tDet.split('\n').filter(function(l){return !/^\s*(Departure|Arrival):\s*[A-Z]{3}\s+\d{1,2}:\d{2}\s*[AP]M/i.test(l)&&!/^\s*Return:/i.test(l);}).join('\n').replace(/\n{3,}/g,'\n\n').trim();
-return row({id:id,date:x.startAt?x.startAt.slice(0,10):'',category:'Calendar',title:x.title,time:'',location:'',details:dArr,notes:fNotes});
+return row({id:id,date:x.startAt?x.startAt.slice(0,10):'',category:'Calendar',title:x.title,time:tRange,location:'',details:dArr,notes:fNotes});
 }
-var range=x.timeLabel||(x.endTimezone?compact([timeOne(x.startAt,x.allDay,x.timezone),timeOne(x.endAt,x.allDay,x.endTimezone)]).join(' – '):timeRange(x.startAt,x.endAt,x.allDay,x.timezone));
+var range=x.timeLabel||(x.endTimezone?compact([timeOne(x.startAt,x.allDay,x.timezone),timeOne(x.endAt,x.allDay,x.endTimezone)]).replace(' \u00b7 ',' \u2013 '):timeRange(x.startAt,x.endAt,x.allDay,x.timezone));
 var bkForCal=findBookingForCalendar(x);return row({id:id,date:x.startAt?x.startAt.slice(0,10):'',category:'Calendar',title:x.title,time:range,location:x.location,details:bookingEventCardFields(bkForCal,x),notes:stripContactLines(x.details)});
 }
 function travelRow(x){
