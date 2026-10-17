@@ -1226,7 +1226,7 @@
       "location": "The Loft at Center Stage",
       "owner": "Emanuel",
       "startAt": "2026-10-18",
-      "timezone": "America/Chicago",
+      "timezone": "America/New_York",
       "title": "CCC Atlanta"
     },
     {
@@ -1493,6 +1493,7 @@
       "calendarImportKey": "calendar-flight-lyh-2026-10-24",
       "details": null,
       "endAt": "2026-10-24T20:50:00-05:00",
+      "endTimezone": "America/New_York",
       "location": null,
       "owner": "Emanuel",
       "startAt": "2026-10-24T15:50:00-05:00",
@@ -1688,6 +1689,7 @@
       "allDay": false,
       "details": "Departure: LAX 12:15 PM\nArrival: LFT 10:11 PM\n\nConfirmation #GW33EY\nDL0395 (Airbus A321neo) / DL5535 (Canadair RJ900, Endeavor Air)\nVia ATL (1 hr 54 min layover)\nLAX Terminal 3",
       "endAt": "2026-10-31T22:11:00-05:00",
+      "endTimezone": "America/Chicago",
       "location": "Los Angeles (LAX) \u2192 Lafayette (LFT)",
       "owner": "Emanuel",
       "startAt": "2026-10-31T12:15:00-07:00",
@@ -3521,6 +3523,7 @@
       "calendarImportKey": "flight-lyh-2026-10-24",
       "details": null,
       "endAt": "2026-10-24T20:50:00-05:00",
+      "endTimezone": "America/New_York",
       "location": null,
       "startAt": "2026-10-24T15:50:00-05:00",
       "status": "pending",
