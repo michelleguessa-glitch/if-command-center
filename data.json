@@ -1737,6 +1737,17 @@
       "startAt": "2026-10-18T13:00:00-04:00",
       "timezone": "America/New_York",
       "title": "The Narrative with Sam Collier"
+    },
+    {
+      "_recordId": 292,
+      "allDay": false,
+      "details": "In-studio interview\n\nHosts: DJ Focus and Dice Gamble",
+      "endAt": "2026-10-17T17:30:00-04:00",
+      "location": "DA FIXX STUDIOS, 1145 Zonolite Road NE, Suite #3, Atlanta, GA 30306",
+      "owner": "Emanuel",
+      "startAt": "2026-10-17T17:00:00-04:00",
+      "timezone": "America/New_York",
+      "title": "DaFixx Radio interview"
     }
   ],
   "capturedAt": "2026-09-20T21:15:26-04:00",
@@ -2683,6 +2694,31 @@
       "name": "Rock City Church Birmingham",
       "organization": "Rock City Church Birmingham",
       "updatedAt": "2026-10-14T07:12:59.473Z"
+    },
+    {
+      "_recordId": 290,
+      "category": "media",
+      "createdAt": "2026-10-17T01:09:17.914Z",
+      "email": "dtaylor@harpwest.com",
+      "groupLabel": "Harpwest Media Group",
+      "name": "Danielle Taylor",
+      "notes": "Emanuel-related thread of Fri Oct 16, 2026 \u2014 \u201cRightNow Media Series Opportunity \u2013 Pitch Concepts & Next Steps.\u201d RightNow Media 6-episode teaching-series PITCH opportunity \u2014 DISCUSSION STAGE, NOT confirmed. Manny spoke with Harpwest on Oct 15 about a series for RightNow Media (6 episodes, 8\u201312 min each, his book as a downloadable resource, study guide). Harpwest asks for (a) a completed background questionnaire, (b) proposed series concepts with six episode titles and one-liners, (c) his blackout dates (open to record in November). RNM review takes up to 2 months. Also floated corporate speaking + bulk book purchase ideas. Nothing booked \u2014 flagged for Michelle's decision.",
+      "organization": "Harpwest Media Group",
+      "role": "Executive Producer",
+      "updatedAt": "2026-10-17T01:09:17.914Z",
+      "website": "https://www.harpwest.com"
+    },
+    {
+      "_recordId": 291,
+      "category": "media",
+      "createdAt": "2026-10-17T01:09:17.914Z",
+      "email": "htaylor@harpwest.com",
+      "groupLabel": "Harpwest Media Group",
+      "name": "Howard Taylor",
+      "notes": "CC'd on the Oct 16, 2026 email; role not stated in the thread. Emanuel-related thread of Fri Oct 16, 2026 \u2014 \u201cRightNow Media Series Opportunity \u2013 Pitch Concepts & Next Steps.\u201d RightNow Media 6-episode teaching-series PITCH opportunity \u2014 DISCUSSION STAGE, NOT confirmed. Manny spoke with Harpwest on Oct 15 about a series for RightNow Media (6 episodes, 8\u201312 min each, his book as a downloadable resource, study guide). Harpwest asks for (a) a completed background questionnaire, (b) proposed series concepts with six episode titles and one-liners, (c) his blackout dates (open to record in November). RNM review takes up to 2 months. Also floated corporate speaking + bulk book purchase ideas. Nothing booked \u2014 flagged for Michelle's decision.",
+      "organization": "Harpwest Media Group",
+      "role": null,
+      "updatedAt": "2026-10-17T01:09:17.914Z"
     }
   ],
   "dailyTasks": [
@@ -2899,7 +2935,7 @@
       "updatedAt": "2026-09-25T22:59:15.220Z"
     }
   ],
-  "latestUpdateAt": "2026-10-14T14:19:29.353Z",
+  "latestUpdateAt": "2026-10-17T01:09:17.914Z",
   "notes": [
     {
       "_recordId": 152,
