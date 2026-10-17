@@ -1220,12 +1220,12 @@
     },
     {
       "_recordId": 51,
-      "allDay": true,
-      "details": "Emanuel guest speaker\n\nLead Pastor Samu'l Collier",
-      "endAt": "2026-10-19",
+      "allDay": false,
+      "details": "Emanuel guest speaker\n\nLead Pastor Samu'l Collier\n\n[Itinerary](https://michelleguessa-glitch.github.io/if-command-center/itinerary-ccc-atlanta-2026-10-18.pdf)",
+      "endAt": "2026-10-18T12:04:00-04:00",
       "location": "The Loft at Center Stage",
       "owner": "Emanuel",
-      "startAt": "2026-10-18",
+      "startAt": "2026-10-18T10:00:00-04:00",
       "timezone": "America/New_York",
       "title": "CCC Atlanta"
     },
