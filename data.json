@@ -1234,7 +1234,7 @@
       "calendarImportCapturedAt": "2026-09-22T15:31:38.000Z",
       "calendarImportKey": "calendar-basement-2026-10-20",
       "createdAt": "2026-09-20T14:38:23.369Z",
-      "details": "Arrival: 9:00 AM / Taping: 9:15 AM (approx. 1.5\u20132 hrs)\n\nOptional post-taping lunch \u2014 lunch preference + Emanuel's Starbucks order due to Tim's team by Tuesday morning\n\nEnter the studio via the wooden staircase located to the left of the garage\n\nOnsite contacts: Derrick Santiago 619-632-7525, Juli Buendia 817-983-5189",
+      "details": "Arrival: 9:00 AM / Taping: 9:15 AM (approx. 1.5\u20132 hrs)\n\nOptional post-taping lunch \u2014 lunch preference + Emanuel's Starbucks order due to Tim's team by Tuesday morning\n\nEnter the studio via the wooden staircase located to the left of the garage\n\nOnsite contacts: Derrick Santiago 619-632-7525, Juli Buendia 817-983-5189\n\n[Itinerary](https://michelleguessa-glitch.github.io/if-command-center/itinerary-basement-tim-ross.pdf)",
       "endAt": "2026-10-20T13:00:00-05:00",
       "id": 7,
       "location": "800 Regency Ct., Denton, TX 76210",
@@ -1761,8 +1761,7 @@
       "startAt": "2026-10-19T15:00:00-05:00",
       "timezone": "America/Chicago",
       "title": "Hotel: Comfort Inn & Suites Euless DFW West",
-      "traveler": "Emanuel",
-      "updatedAt": "2026-10-19T17:36:57.000Z"
+      "traveler": "Emanuel"
     },
     {
       "_recordId": 305,
@@ -1776,7 +1775,6 @@
     },
     {
       "_recordId": 306,
-      "id": 306,
       "allDay": false,
       "contactEmail": "brobinson@thepottershouse.org",
       "contactName": "Beverly Robinson",
@@ -1786,22 +1784,17 @@
       "owner": "Emanuel",
       "startAt": "2026-10-19T19:30:00-05:00",
       "timezone": "America/Chicago",
-      "title": "TNM Panelist Zoom with Bishop Jakes",
-      "createdAt": "2026-10-19T14:35:27.000Z",
-      "updatedAt": "2026-10-19T14:35:27.000Z"
+      "title": "TNM Panelist Zoom with Bishop Jakes"
     },
     {
       "_recordId": 307,
-      "id": 307,
       "allDay": false,
       "endAt": "2026-10-29T08:20:00-05:00",
       "location": "StreamYard",
       "owner": "Emanuel",
       "startAt": "2026-10-29T07:20:00-05:00",
       "timezone": "America/Chicago",
-      "title": "DevoEnergy + Pastor Mike Jr",
-      "createdAt": "2026-10-19T17:33:40.000Z",
-      "updatedAt": "2026-10-19T17:39:52.000Z"
+      "title": "DevoEnergy + Pastor Mike Jr"
     }
   ],
   "capturedAt": "2026-09-20T21:15:26-04:00",
@@ -3072,7 +3065,7 @@
       "updatedAt": "2026-09-25T22:59:15.220Z"
     }
   ],
-  "latestUpdateAt": "2026-10-19T17:39:52.000Z",
+  "latestUpdateAt": "2026-10-19T10:39:06.881Z",
   "notes": [
     {
       "_recordId": 152,
@@ -3761,8 +3754,7 @@
       "status": "booked",
       "timezone": "America/Chicago",
       "title": "Hotel: Comfort Inn & Suites Euless DFW West",
-      "traveler": "Emanuel",
-      "updatedAt": "2026-10-19T17:36:57.000Z"
+      "traveler": "Emanuel"
     }
   ]
 }
