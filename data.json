@@ -1762,6 +1762,16 @@
       "timezone": "America/Chicago",
       "title": "Hotel: Comfort Inn & Suites Euless DFW West",
       "traveler": "Emanuel"
+    },
+    {
+      "_recordId": 305,
+      "allDay": false,
+      "details": "Usher and Chris Brown\n\nSection 607, Row 19, Seats 9\u201310\n\n2 tickets ($271.60)\n\nEvent time subject to change",
+      "location": "Caesars Superdome, 1500 Sugar Bowl Dr, New Orleans, LA 70112, USA",
+      "owner": "Michelle",
+      "startAt": "2026-11-20T19:00:00-06:00",
+      "timezone": "America/Chicago",
+      "title": "Date Night"
     }
   ],
   "capturedAt": "2026-09-20T21:15:26-04:00",
@@ -2801,6 +2811,21 @@
       "organization": "StoryTold PR",
       "role": "StoryTold PR",
       "updatedAt": "2026-10-19T10:39:06.881Z"
+    },
+    {
+      "_recordId": 304,
+      "category": "church",
+      "city": null,
+      "email": "brobinson@thepottershouse.org",
+      "groupLabel": null,
+      "id": null,
+      "linkedBookingId": null,
+      "mediaType": null,
+      "name": "Beverly Robinson",
+      "notes": "Organizer of the Bishop Jakes / The Potter's House 'The Next Move' (TNM) panelist Zoom meeting \u2014 two one-way announcement emails to assist@worldofintelligentfaith.com Mon Oct 19, 2026 (TNM panelist Zoom Meeting with Bishop Jakes + reminder, tonight 7:30 PM CST per body / 8:30\u20139:30 PM per calendar card; Meeting ID 916 6057 2104, passcode 895596). Emanuel NOT named as panelist in either email \u2014 no confirmed booking. Added from the Oct 19 08:46 EDT inbox-watch; dedup-checked against contacts by name/email before adding.",
+      "organization": "The Potter's House",
+      "phone": null,
+      "role": "Organizer (Bishop Jakes ministry)"
     }
   ],
   "dailyTasks": [
