@@ -1491,8 +1491,8 @@
       "allDay": false,
       "calendarImportCapturedAt": "2026-09-22T15:31:38.000Z",
       "calendarImportKey": "calendar-flight-lyh-2026-10-24",
-      "details": "Return flight to Lynchburg after the Motivation Church event in Boston.\n\nDeparture: BOS 4:49 PM (Sat Oct 24, 2026 \u2014 American Airlines)\n\nArrival: LYH (arrival time not yet confirmed)\n\nPer Michelle (email to Nina Kumar, Motivation Church, Sun Oct 18, 2026 10:19 PM EDT): Emanuel's flight departs Sat Oct 24th at 4:49p, he is flying American to Lynchburg VA.\n\nConfirmation number + full itinerary not yet in the thread \u2014 status stays pending per her rule.",
-      "endAt": "2026-10-24T20:50:00-05:00",
+      "details": "Return flight to Lynchburg after the Motivation Church event in Boston.\n\nDeparture: BOS 4:49 PM EDT\nArrival: CLT 7:19 PM EDT\nAA 1140 \u2014 non-stop, Airbus A321, seat 22C\n\nDeparture: CLT 8:35 PM EDT\nArrival: LYH 9:52 PM EDT\nAA 5893 \u2014 operated by Piedmont Airlines as American Eagle, Embraer RJ145, seat 09B\n\nReturn: Tue Oct 27, 2026 3:28 PM EDT\n\nDeparture: LYH 3:28 PM EDT\nArrival: CLT 4:50 PM EDT\nAA 6019 \u2014 operated by Piedmont Airlines as American Eagle, Embraer RJ145, seat 07B\n\nDeparture: CLT 7:40 PM EDT\nArrival: LFT 9:17 PM CDT\nAA 5206 \u2014 operated by PSA Airlines as American Eagle, Canadair Regional Jet 900, seat 13D\n\nConfirmation #YYBENB (American Airlines record locator; Anthony Travel record locator JQJSLL)\nTicket #AA 7561499774\n\nFinal confirmation forwarded Mon Oct 19, 2026, 5:30 PM EDT by Renee' Ann Breen (Liberty University, Opportunity and Enrichment) from Anthony Travel's Oct 2 itinerary; Michelle had requested the confirmation numbers Sun Oct 18, 2026.",
+      "endAt": "2026-10-24T21:52:00-04:00",
       "endTimezone": "America/New_York",
       "location": null,
       "owner": "Emanuel",
@@ -2849,6 +2849,29 @@
       "organization": "The Potter's House",
       "phone": null,
       "role": "Organizer (Bishop Jakes ministry)"
+    },
+    {
+      "_recordId": 308,
+      "category": "education",
+      "createdAt": "2026-10-19T22:45:35.409Z",
+      "email": "rabrown@liberty.edu",
+      "name": "Renee' Ann Breen",
+      "notes": "Tied to: Emanuel's Motivation Church (Boston) Oct 24 travel \u2014 forwarded the Anthony Travel flight confirmations to Michelle.",
+      "organization": "Liberty University",
+      "role": "Liberty University, Opportunity and Enrichment",
+      "updatedAt": "2026-10-19T22:45:35.409Z"
+    },
+    {
+      "_recordId": 309,
+      "category": "other",
+      "createdAt": "2026-10-19T22:45:35.409Z",
+      "email": "kristifrisbie@anthonytravel.com",
+      "name": "Kristi Frisbie",
+      "notes": "Tied to: Emanuel's Motivation Church (Boston) Oct 24 travel \u2014 booked the American Airlines tickets.",
+      "organization": "Anthony Travel",
+      "phone": "336-265-1820",
+      "role": "Travel agent",
+      "updatedAt": "2026-10-19T22:45:35.409Z"
     }
   ],
   "dailyTasks": [
@@ -3065,7 +3088,7 @@
       "updatedAt": "2026-09-25T22:59:15.220Z"
     }
   ],
-  "latestUpdateAt": "2026-10-19T10:39:06.881Z",
+  "latestUpdateAt": "2026-10-19T22:45:35.409Z",
   "notes": [
     {
       "_recordId": 152,
@@ -3163,7 +3186,7 @@
       "emailSubject": "",
       "relatedEvent": "",
       "status": "",
-      "summary": "Last received (Mon, Oct 19, 11:17 AM EDT) \u2014 McKenzie Masters replied: \"Wonderful, thanks so much Michelle!\" \u2014 acknowledged Emanuel's Starbucks and lunch order ahead of Tuesday's taping.\n\nLast outgoing (Mon, Oct 19, 10:51 AM EDT) \u2014 Michelle sent Emanuel's order to McKenzie: Starbucks Hot White Mocha with extra whip; Chick-fil-A #1 meal (no cheese) with a medium lemonade.\n\nTravel arrangements booked \u2014 Comfort Inn & Suites Euless DFW West, Euless TX, check-in Mon Oct 19 / check-out Wed Oct 21, conf 6792456414, $185.53 paid, breakfast included; flight to DFW on Oct 19 confirmed; in-studio taping confirmed Oct 20, 9:00 AM\u20131:00 PM CT, Denton, TX.",
+      "summary": "Last received (Mon, Oct 19, 11:17 AM EDT) \u2014 McKenzie Masters acknowledged Emanuel's Starbucks and lunch order ahead of Tuesday's taping.\n\nLast outgoing (Mon, Oct 19, 5:22 PM EDT) \u2014 Michelle sent 6 preferred interview questions for Tim's team to use instead of the press-kit questions (on navigating deepest differences, building bridges, confidence in faith, deconstruction and reconstruction, emotional regulation, and productive disagreement). Earlier the same day she had also sent Emanuel's Starbucks and lunch order (10:51 AM) and a follow-up asking when Tim's team would share questions (4:26 PM).\n\nTravel arrangements booked \u2014 Comfort Inn & Suites Euless DFW West, Euless TX, check-in Mon Oct 19 / check-out Wed Oct 21, conf 6792456414, $185.53 paid, breakfast included; flight to DFW on Oct 19 confirmed; in-studio taping confirmed Oct 20, 9:00 AM\u20131:00 PM CT, Denton, TX.",
       "topic": "The Basement with Tim Ross"
     },
     {
@@ -3663,12 +3686,12 @@
       "_recordId": 135,
       "calendarImportCapturedAt": "2026-09-22T15:31:38.000Z",
       "calendarImportKey": "flight-lyh-2026-10-24",
-      "details": "Return flight to Lynchburg after the Motivation Church event in Boston.\n\nDeparture: BOS 4:49 PM (Sat Oct 24, 2026 \u2014 American Airlines)\n\nArrival: LYH (arrival time not yet confirmed)\n\nPer Michelle (email to Nina Kumar, Motivation Church, Sun Oct 18, 2026 10:19 PM EDT): Emanuel's flight departs Sat Oct 24th at 4:49p, he is flying American to Lynchburg VA.\n\nConfirmation number + full itinerary not yet in the thread \u2014 status stays pending per her rule.",
-      "endAt": "2026-10-24T20:50:00-05:00",
+      "details": "Return flight to Lynchburg after the Motivation Church event in Boston.\n\nDeparture: BOS 4:49 PM EDT\nArrival: CLT 7:19 PM EDT\nAA 1140 \u2014 non-stop, Airbus A321, seat 22C\n\nDeparture: CLT 8:35 PM EDT\nArrival: LYH 9:52 PM EDT\nAA 5893 \u2014 operated by Piedmont Airlines as American Eagle, Embraer RJ145, seat 09B\n\nReturn: Tue Oct 27, 2026 3:28 PM EDT\n\nDeparture: LYH 3:28 PM EDT\nArrival: CLT 4:50 PM EDT\nAA 6019 \u2014 operated by Piedmont Airlines as American Eagle, Embraer RJ145, seat 07B\n\nDeparture: CLT 7:40 PM EDT\nArrival: LFT 9:17 PM CDT\nAA 5206 \u2014 operated by PSA Airlines as American Eagle, Canadair Regional Jet 900, seat 13D\n\nConfirmation #YYBENB (American Airlines record locator; Anthony Travel record locator JQJSLL)\nTicket #AA 7561499774\n\nFinal confirmation forwarded Mon Oct 19, 2026, 5:30 PM EDT by Renee' Ann Breen (Liberty University, Opportunity and Enrichment) from Anthony Travel's Oct 2 itinerary; Michelle had requested the confirmation numbers Sun Oct 18, 2026.",
+      "endAt": "2026-10-24T21:52:00-04:00",
       "endTimezone": "America/New_York",
       "location": null,
       "startAt": "2026-10-24T16:49:00-04:00",
-      "status": "pending",
+      "status": "booked",
       "timezone": "America/New_York",
       "title": "Flight to LYH",
       "traveler": "Emanuel"
