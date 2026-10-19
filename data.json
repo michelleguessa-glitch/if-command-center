@@ -1795,13 +1795,13 @@
       "id": 307,
       "allDay": false,
       "endAt": "2026-10-29T08:20:00-05:00",
-      "location": "",
+      "location": "StreamYard",
       "owner": "Emanuel",
       "startAt": "2026-10-29T07:20:00-05:00",
       "timezone": "America/Chicago",
       "title": "DevoEnergy + Pastor Mike Jr",
       "createdAt": "2026-10-19T17:33:40.000Z",
-      "updatedAt": "2026-10-19T17:33:40.000Z"
+      "updatedAt": "2026-10-19T17:39:52.000Z"
     }
   ],
   "capturedAt": "2026-09-20T21:15:26-04:00",
@@ -3072,7 +3072,7 @@
       "updatedAt": "2026-09-25T22:59:15.220Z"
     }
   ],
-  "latestUpdateAt": "2026-10-19T17:36:57.000Z",
+  "latestUpdateAt": "2026-10-19T17:39:52.000Z",
   "notes": [
     {
       "_recordId": 152,
