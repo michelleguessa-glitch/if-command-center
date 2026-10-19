@@ -1754,14 +1754,15 @@
     {
       "_recordId": 301,
       "allDay": false,
-      "details": "Comfort Inn & Suites Euless DFW West, 1803 W Airport Freeway, Euless, TX 76040, +1 817-952-7800.\n\nGuest: Emanuel Lambert.\n\nConfirmation 6792456414 (Booking.com).\n\nCheck-in: Mon Oct 19, 2026 from 3:00 PM CT \u2014 property approved the requested check-in window of 5:00\u20136:00 PM, no extra charge.\n\nCheck-out: Wed Oct 21, 2026 by 11:00 AM CT.\n\nRoom: King Room \u2013 Non Smoking, 1 adult, 2 nights.\n\nPrice: $185.53 total, paid in full via Booking.com (room $156.78 + tax $20.77 + service charge $7.98). Non-refundable.\n\nBreakfast included.\n\n$100 damage deposit due on arrival by credit card, refunded at check-out after inspection.\n\nTrip: The Basement with Tim Ross taping, Tue Oct 20 (Denton, TX, arrive 9:00 AM); podcast interview with Brenda Palmer, Wed Oct 21 (Dallas, TX).",
+      "details": "Comfort Inn & Suites Euless DFW West, 1803 W Airport Freeway, Euless, TX 76040, +1 817-952-7800.\n\nGuest: Emanuel Lambert.\n\nConfirmation 6792456414 (Booking.com).\n\nCheck-in: Mon Oct 19, 2026 from 3:00 PM CT \u2014 property approved the requested check-in window of 5:00\u20136:00 PM, no extra charge.\n\nCheck-out: Wed Oct 21, 2026 by 11:00 AM CT.\n\nRoom: King Room \u2013 Non Smoking, 1 adult, 2 nights.\n\nPrice: $185.53 total, paid in full via Booking.com (room $156.78 + tax $20.77 + service charge $7.98). Non-refundable.\n\nBreakfast included.\n\n$50 damage deposit due on arrival by credit card/debit, refunded at check-out after inspection.\n\nTrip: The Basement with Tim Ross taping, Tue Oct 20 (Denton, TX, arrive 9:00 AM); podcast interview with Brenda Palmer, Wed Oct 21 (Dallas, TX).",
       "endAt": "2026-10-21T11:00:00-05:00",
       "location": "Comfort Inn & Suites Euless DFW West, 1803 W Airport Freeway, Euless, TX 76040",
       "owner": "Emanuel",
       "startAt": "2026-10-19T15:00:00-05:00",
       "timezone": "America/Chicago",
       "title": "Hotel: Comfort Inn & Suites Euless DFW West",
-      "traveler": "Emanuel"
+      "traveler": "Emanuel",
+      "updatedAt": "2026-10-19T17:36:57.000Z"
     },
     {
       "_recordId": 305,
@@ -3071,7 +3072,7 @@
       "updatedAt": "2026-09-25T22:59:15.220Z"
     }
   ],
-  "latestUpdateAt": "2026-10-19T17:33:40.000Z",
+  "latestUpdateAt": "2026-10-19T17:36:57.000Z",
   "notes": [
     {
       "_recordId": 152,
@@ -3753,14 +3754,15 @@
     },
     {
       "_recordId": 299,
-      "details": "Comfort Inn & Suites Euless DFW West, 1803 W Airport Freeway, Euless, TX 76040, +1 817-952-7800.\n\nGuest: Emanuel Lambert.\n\nConfirmation 6792456414 (Booking.com).\n\nCheck-in: Mon Oct 19, 2026 from 3:00 PM CT \u2014 property approved the requested check-in window of 5:00\u20136:00 PM, no extra charge.\n\nCheck-out: Wed Oct 21, 2026 by 11:00 AM CT.\n\nRoom: King Room \u2013 Non Smoking, 1 adult, 2 nights.\n\nPrice: $185.53 total, paid in full via Booking.com (room $156.78 + tax $20.77 + service charge $7.98). Non-refundable.\n\nBreakfast included.\n\n$100 damage deposit due on arrival by credit card, refunded at check-out after inspection.\n\nTrip: The Basement with Tim Ross taping, Tue Oct 20 (Denton, TX, arrive 9:00 AM); podcast interview with Brenda Palmer, Wed Oct 21 (Dallas, TX).",
+      "details": "Comfort Inn & Suites Euless DFW West, 1803 W Airport Freeway, Euless, TX 76040, +1 817-952-7800.\n\nGuest: Emanuel Lambert.\n\nConfirmation 6792456414 (Booking.com).\n\nCheck-in: Mon Oct 19, 2026 from 3:00 PM CT \u2014 property approved the requested check-in window of 5:00\u20136:00 PM, no extra charge.\n\nCheck-out: Wed Oct 21, 2026 by 11:00 AM CT.\n\nRoom: King Room \u2013 Non Smoking, 1 adult, 2 nights.\n\nPrice: $185.53 total, paid in full via Booking.com (room $156.78 + tax $20.77 + service charge $7.98). Non-refundable.\n\nBreakfast included.\n\n$50 damage deposit due on arrival by credit card/debit, refunded at check-out after inspection.\n\nTrip: The Basement with Tim Ross taping, Tue Oct 20 (Denton, TX, arrive 9:00 AM); podcast interview with Brenda Palmer, Wed Oct 21 (Dallas, TX).",
       "endAt": "2026-10-21T11:00:00-05:00",
       "location": "Comfort Inn & Suites Euless DFW West, 1803 W Airport Freeway, Euless, TX 76040",
       "startAt": "2026-10-19T15:00:00-05:00",
       "status": "booked",
       "timezone": "America/Chicago",
       "title": "Hotel: Comfort Inn & Suites Euless DFW West",
-      "traveler": "Emanuel"
+      "traveler": "Emanuel",
+      "updatedAt": "2026-10-19T17:36:57.000Z"
     }
   ]
 }
