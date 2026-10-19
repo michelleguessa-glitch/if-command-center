@@ -1750,6 +1750,18 @@
       "startAt": "2026-10-17T17:00:00-04:00",
       "timezone": "America/New_York",
       "title": "DaFixx Radio interview"
+    },
+    {
+      "_recordId": 301,
+      "allDay": false,
+      "details": "Comfort Inn & Suites Euless DFW West, 1803 W Airport Freeway, Euless, TX 76040, +1 817-952-7800.\n\nGuest: Emanuel Lambert.\n\nConfirmation 6792456414 (Booking.com).\n\nCheck-in: Mon Oct 19, 2026 from 3:00 PM CT \u2014 property approved the requested check-in window of 5:00\u20136:00 PM, no extra charge.\n\nCheck-out: Wed Oct 21, 2026 by 11:00 AM CT.\n\nRoom: King Room \u2013 Non Smoking, 1 adult, 2 nights.\n\nPrice: $185.53 total, paid in full via Booking.com (room $156.78 + tax $20.77 + service charge $7.98). Non-refundable.\n\nBreakfast included.\n\n$100 damage deposit due on arrival by credit card, refunded at check-out after inspection.\n\nTrip: The Basement with Tim Ross taping, Tue Oct 20 (Denton, TX, arrive 9:00 AM); podcast interview with Brenda Palmer, Wed Oct 21 (Dallas, TX).",
+      "endAt": "2026-10-21T11:00:00-05:00",
+      "location": "Comfort Inn & Suites Euless DFW West, 1803 W Airport Freeway, Euless, TX 76040",
+      "owner": "Emanuel",
+      "startAt": "2026-10-19T15:00:00-05:00",
+      "timezone": "America/Chicago",
+      "title": "Hotel: Comfort Inn & Suites Euless DFW West",
+      "traveler": "Emanuel"
     }
   ],
   "capturedAt": "2026-09-20T21:15:26-04:00",
@@ -3377,6 +3389,20 @@
       "summary": "Last outgoing (Wed, Oct 14, 4:44 PM EDT) \u2014 Michelle replied: \"You're welcome!\" \u2014 acknowledgement closing today's thread with McKenzie.\n\nLast received (Wed, Oct 14, 11:07 AM EDT) \u2014 Mckenzie Masters (StoryTold PR) replied \"Perfect, thanks Michelle!\" \u2014 the Jesus Calling devotional and loaner headset will be mailed per Michelle's address.\n\nEarlier (Wed, Oct 14, 9:56 AM EDT) \u2014 Michelle told McKenzie to send the devotional and loaner headset to 107 Travellers Palm Way, Youngsville LA 70592.\n\nEarlier (Wed, Oct 14, 9:54 AM EDT) \u2014 Mckenzie Masters confirmed the Jesus Calling Podcast interview is booked for Thu Nov 5, 9:00\u201310:00 AM CST (10:00\u201311:00 AM EST): a 1-hour audio/video virtual interview. She said the calendar invite is sent and more info is coming. She asked Michelle to confirm whether Emanuel needs a Jesus Calling devotional mailed to him, either to keep or to give.\n\nEarlier (Tue, Oct 13, 1:02 PM EDT) \u2014 Michelle confirmed Nov 5 at 9 AM works for Emanuel.\n\nTravel: virtual interview \u2014 no travel needed.",
       "topic": "Jesus Calling podcast interview",
       "updatedAt": "2026-10-14T14:19:29.353Z"
+    },
+    {
+      "_recordId": 300,
+      "category": "Podcasts",
+      "contactEmail": "",
+      "contactName": "",
+      "contactPhone": "",
+      "emailDate": "",
+      "emailSender": "",
+      "emailSubject": "",
+      "relatedEvent": "258",
+      "status": "",
+      "summary": "CONFIRMED \u2014 Sat Oct 31, 2026, 11:00 AM\u201312:30 PM Central: Shaping The Culture Podcast taping, 3672 W Imperial Hwy, Inglewood, CA 90303. (Calendar event 258.)",
+      "topic": "Shaping The Culture Podcast"
     }
   ],
   "revenueSummary": {
