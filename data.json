@@ -1491,13 +1491,13 @@
       "allDay": false,
       "calendarImportCapturedAt": "2026-09-22T15:31:38.000Z",
       "calendarImportKey": "calendar-flight-lyh-2026-10-24",
-      "details": null,
+      "details": "Return flight to Lynchburg after the Motivation Church event in Boston.\n\nDeparture: BOS 4:49 PM (Sat Oct 24, 2026 \u2014 American Airlines)\n\nArrival: LYH (arrival time not yet confirmed)\n\nPer Michelle (email to Nina Kumar, Motivation Church, Sun Oct 18, 2026 10:19 PM EDT): Emanuel's flight departs Sat Oct 24th at 4:49p, he is flying American to Lynchburg VA.\n\nConfirmation number + full itinerary not yet in the thread \u2014 status stays pending per her rule.",
       "endAt": "2026-10-24T20:50:00-05:00",
       "endTimezone": "America/New_York",
       "location": null,
       "owner": "Emanuel",
-      "startAt": "2026-10-24T15:50:00-05:00",
-      "timezone": "America/Chicago",
+      "startAt": "2026-10-24T16:49:00-04:00",
+      "timezone": "America/New_York",
       "title": "Flight to LYH"
     },
     {
@@ -3079,7 +3079,7 @@
       "emailSubject": "",
       "relatedEvent": "",
       "status": "",
-      "summary": "Last communication \u2014 Sun, Oct 18, 9:17 PM EDT.\n\nLast received (Sun, Oct 18, 9:17 PM EDT) \u2014 McKenzie Masters sent an updated calendar invitation for the Basement taping: event retitled \"In-person interview: The Basement with Tim Ross,\" location confirmed at 800 Regency Court, Denton, TX 76210, Tue Oct 20, 10:00 AM\u20132:00 PM EDT (9:00 AM\u20131:00 PM CT). Guests now include Maddie Boarman and Elizabeth Cole (StoryTold PR) alongside Emanuel and Michelle.\n\nEarlier received (Sun, Oct 18, 9:17 PM EDT) \u2014 McKenzie sent the taping itinerary: arrival 9:00 AM, taping 9:15 AM (approx. 1.5\u20132 hrs), enter via the wooden staircase left of the garage; Tim's team has Emanuel's press kit with the suggested interview questions. She asked whether Sam is coming with Emanuel and requested Emanuel's Starbucks order + lunch preference by Tuesday morning (eateries list attached).\n\nLast outgoing (Sun, Oct 18, 7:02 PM EDT) \u2014 Michelle followed up with McKenzie for the taping location and the interview questions for Emanuel's upcoming interview with Tim.\n\nTravel arrangements booked \u2014 flight to DFW on Oct 19 confirmed; in-studio taping confirmed Oct 20, 9:00 AM\u20131:00 PM CT, Denton, TX.",
+      "summary": "Last outgoing (Sun, Oct 18, 10:26 PM EDT) \u2014 Michelle replied to McKenzie: \"Emanuel will be attending alone\" \u2014 Sam is not coming with Emanuel to the Basement taping.\n\nEarlier outgoing (Sun, Oct 18, 10:25 PM EDT) \u2014 Michelle replied: \"Thank you, I hope you've enjoyed your weekend as well. Have a good night!\"\n\nLast received (Sun, Oct 18, 9:17 PM EDT) \u2014 McKenzie Masters sent an updated calendar invitation for the Basement taping: event retitled \"In-person interview: The Basement with Tim Ross,\" location confirmed at 800 Regency Court, Denton, TX 76210, Tue Oct 20, 10:00 AM\u20132:00 PM EDT (9:00 AM\u20131:00 PM CT). Guests now include Maddie Boarman and Elizabeth Cole (StoryTold PR) alongside Emanuel and Michelle.\n\nEarlier received (Sun, Oct 18, 9:17 PM EDT) \u2014 McKenzie sent the taping itinerary: arrival 9:00 AM, taping 9:15 AM (approx. 1.5\u20132 hrs), enter via the wooden staircase left of the garage; Tim's team has Emanuel's press kit with the suggested interview questions. She asked whether Sam is coming with Emanuel and requested Emanuel's Starbucks order + lunch preference by Tuesday morning (eateries list attached).\n\nTravel arrangements booked \u2014 flight to DFW on Oct 19 confirmed; in-studio taping confirmed Oct 20, 9:00 AM\u20131:00 PM CT, Denton, TX.",
       "topic": "The Basement with Tim Ross"
     },
     {
@@ -3565,13 +3565,13 @@
       "_recordId": 135,
       "calendarImportCapturedAt": "2026-09-22T15:31:38.000Z",
       "calendarImportKey": "flight-lyh-2026-10-24",
-      "details": null,
+      "details": "Return flight to Lynchburg after the Motivation Church event in Boston.\n\nDeparture: BOS 4:49 PM (Sat Oct 24, 2026 \u2014 American Airlines)\n\nArrival: LYH (arrival time not yet confirmed)\n\nPer Michelle (email to Nina Kumar, Motivation Church, Sun Oct 18, 2026 10:19 PM EDT): Emanuel's flight departs Sat Oct 24th at 4:49p, he is flying American to Lynchburg VA.\n\nConfirmation number + full itinerary not yet in the thread \u2014 status stays pending per her rule.",
       "endAt": "2026-10-24T20:50:00-05:00",
       "endTimezone": "America/New_York",
       "location": null,
-      "startAt": "2026-10-24T15:50:00-05:00",
+      "startAt": "2026-10-24T16:49:00-04:00",
       "status": "pending",
-      "timezone": "America/Chicago",
+      "timezone": "America/New_York",
       "title": "Flight to LYH",
       "traveler": "Emanuel"
     },
