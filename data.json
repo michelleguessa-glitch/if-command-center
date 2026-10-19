@@ -2777,6 +2777,30 @@
       "organization": "Upset the World Studios",
       "phone": "817-983-5189",
       "role": "Onsite Contact \u2014 The Basement with Tim Ross"
+    },
+    {
+      "_recordId": 302,
+      "category": "media",
+      "createdAt": "2026-10-19T10:39:06.881Z",
+      "email": "maddie@storytoldpr.com",
+      "groupLabel": "StoryTold PR",
+      "name": "Maddie Boarman",
+      "notes": "StoryTold PR team \u2014 guest on the updated calendar invitation for Emanuel's in-studio interview on The Basement with Tim Ross (Tue Oct 20, 2026, 800 Regency Ct, Denton TX 76210). Tied to The Basement podcast booking.",
+      "organization": "StoryTold PR",
+      "role": "StoryTold PR",
+      "updatedAt": "2026-10-19T10:39:06.881Z"
+    },
+    {
+      "_recordId": 303,
+      "category": "media",
+      "createdAt": "2026-10-19T10:39:06.881Z",
+      "email": "elizabeth@storytoldpr.com",
+      "groupLabel": "StoryTold PR",
+      "name": "Elizabeth Cole",
+      "notes": "StoryTold PR team \u2014 guest on the updated calendar invitation for Emanuel's in-studio interview on The Basement with Tim Ross (Tue Oct 20, 2026, 800 Regency Ct, Denton TX 76210). Tied to The Basement podcast booking.",
+      "organization": "StoryTold PR",
+      "role": "StoryTold PR",
+      "updatedAt": "2026-10-19T10:39:06.881Z"
     }
   ],
   "dailyTasks": [
@@ -2993,7 +3017,7 @@
       "updatedAt": "2026-09-25T22:59:15.220Z"
     }
   ],
-  "latestUpdateAt": "2026-10-19T04:25:39.697Z",
+  "latestUpdateAt": "2026-10-19T10:39:06.881Z",
   "notes": [
     {
       "_recordId": 152,
@@ -3044,12 +3068,12 @@
       "contactEmail": "",
       "contactName": "",
       "contactPhone": "",
-      "emailDate": "2026-10-14",
+      "emailDate": "2026-10-18",
       "emailSender": "Michelle / Intelligent Faith",
       "emailSubject": "Re: Podcast Interview w/ Da'Truth",
       "relatedEvent": "65",
       "status": "awaiting reply",
-      "summary": "Last outgoing (Oct 14, 3:20 AM) \u2014 Michelle circling back to lock in time/location of the Oct 21 podcast interview (Naomi confirmed Oct 21 on Sep 22, said details coming that week). No reply \u2014 PENDING time/location confirmation.\n\nEarlier received (Sep 22, 5:12 PM) \u2014 Naomi confirmed they're excited to have Da'Truth join the podcast on October 21st, are coordinating the details, and will get back later this week with available times.\n\nEarlier outgoing (Sep 23, 5:11 PM) \u2014 Michelle's reply: \"Thank you for getting back to me promptly! Sounds good, I look forward to hearing from you later this week.\" Awaiting Naomi's follow-up with available times.",
+      "summary": "Last outgoing (Sun, Oct 18, 7:49 PM EDT) \u2014 Michelle followed up with Naomi Milord, asking her to provide the studio location, time of taping, and interview questions for Emanuel's Oct 21 Dallas interview with Brenda Palmer. No reply yet \u2014 PENDING time/location/questions confirmation.\n\nEarlier outgoing (Oct 14, 3:20 AM) \u2014 Michelle circled back to lock in time/location of the Oct 21 podcast interview (Naomi confirmed Oct 21 on Sep 22, said details coming that week).\n\nEarlier received (Sep 22, 5:12 PM) \u2014 Naomi confirmed they're excited to have Da'Truth join the podcast on October 21st, are coordinating the details, and will get back later this week with available times.\n\nEarlier outgoing (Sep 23, 5:11 PM) \u2014 Michelle's reply: \"Thank you for getting back to me promptly! Sounds good, I look forward to hearing from you later this week.\" Awaiting Naomi's follow-up with available times.\n\nTravel arrangements booked \u2014 DFW trip Oct 19\u201321 (Comfort Inn & Suites Euless, conf 6792456414) covers the Oct 21 Dallas interview.",
       "topic": "Da'Truth podcast with Brenda Palmer"
     },
     {
