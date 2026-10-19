@@ -2981,7 +2981,7 @@
       "updatedAt": "2026-09-25T22:59:15.220Z"
     }
   ],
-  "latestUpdateAt": "2026-10-17T01:09:17.914Z",
+  "latestUpdateAt": "2026-10-19T04:25:39.697Z",
   "notes": [
     {
       "_recordId": 152,
@@ -3079,7 +3079,7 @@
       "emailSubject": "",
       "relatedEvent": "",
       "status": "",
-      "summary": "Last outgoing (Sun, Oct 18, 10:26 PM EDT) \u2014 Michelle replied to McKenzie: \"Emanuel will be attending alone\" \u2014 Sam is not coming with Emanuel to the Basement taping.\n\nEarlier outgoing (Sun, Oct 18, 10:25 PM EDT) \u2014 Michelle replied: \"Thank you, I hope you've enjoyed your weekend as well. Have a good night!\"\n\nLast received (Sun, Oct 18, 9:17 PM EDT) \u2014 McKenzie Masters sent an updated calendar invitation for the Basement taping: event retitled \"In-person interview: The Basement with Tim Ross,\" location confirmed at 800 Regency Court, Denton, TX 76210, Tue Oct 20, 10:00 AM\u20132:00 PM EDT (9:00 AM\u20131:00 PM CT). Guests now include Maddie Boarman and Elizabeth Cole (StoryTold PR) alongside Emanuel and Michelle.\n\nEarlier received (Sun, Oct 18, 9:17 PM EDT) \u2014 McKenzie sent the taping itinerary: arrival 9:00 AM, taping 9:15 AM (approx. 1.5\u20132 hrs), enter via the wooden staircase left of the garage; Tim's team has Emanuel's press kit with the suggested interview questions. She asked whether Sam is coming with Emanuel and requested Emanuel's Starbucks order + lunch preference by Tuesday morning (eateries list attached).\n\nTravel arrangements booked \u2014 flight to DFW on Oct 19 confirmed; in-studio taping confirmed Oct 20, 9:00 AM\u20131:00 PM CT, Denton, TX.",
+      "summary": "Last outgoing (Sun, Oct 18, 10:26 PM EDT) \u2014 Michelle replied to McKenzie: \"Emanuel will be attending alone\" \u2014 Sam is not coming with Emanuel to the Basement taping.\n\nEarlier outgoing (Sun, Oct 18, 10:25 PM EDT) \u2014 Michelle replied: \"Thank you, I hope you've enjoyed your weekend as well. Have a good night!\"\n\nLast received (Sun, Oct 18, 9:17 PM EDT) \u2014 McKenzie Masters sent an updated calendar invitation for the Basement taping: event retitled \"In-person interview: The Basement with Tim Ross,\" location confirmed at 800 Regency Court, Denton, TX 76210, Tue Oct 20, 10:00 AM\u20132:00 PM EDT (9:00 AM\u20131:00 PM CT). Guests now include Maddie Boarman and Elizabeth Cole (StoryTold PR) alongside Emanuel and Michelle.\n\nEarlier received (Sun, Oct 18, 9:17 PM EDT) \u2014 McKenzie sent the taping itinerary: arrival 9:00 AM, taping 9:15 AM (approx. 1.5\u20132 hrs), enter via the wooden staircase left of the garage; Tim's team has Emanuel's press kit with the suggested interview questions. She asked whether Sam is coming with Emanuel and requested Emanuel's Starbucks order + lunch preference by Tuesday morning (eateries list attached).\n\nTravel arrangements booked \u2014 Comfort Inn & Suites Euless DFW West, Euless TX, check-in Mon Oct 19 / check-out Wed Oct 21, conf 6792456414, $185.53 paid, breakfast included; flight to DFW on Oct 19 confirmed; in-studio taping confirmed Oct 20, 9:00 AM\u20131:00 PM CT, Denton, TX.",
       "topic": "The Basement with Tim Ross"
     },
     {
@@ -3646,6 +3646,17 @@
       "title": "Flight to LFT",
       "traveler": "Emanuel",
       "updatedAt": "2026-10-14T06:19:12.288Z"
+    },
+    {
+      "_recordId": 299,
+      "details": "Comfort Inn & Suites Euless DFW West, 1803 W Airport Freeway, Euless, TX 76040, +1 817-952-7800.\n\nGuest: Emanuel Lambert.\n\nConfirmation 6792456414 (Booking.com).\n\nCheck-in: Mon Oct 19, 2026 from 3:00 PM CT \u2014 property approved the requested check-in window of 5:00\u20136:00 PM, no extra charge.\n\nCheck-out: Wed Oct 21, 2026 by 11:00 AM CT.\n\nRoom: King Room \u2013 Non Smoking, 1 adult, 2 nights.\n\nPrice: $185.53 total, paid in full via Booking.com (room $156.78 + tax $20.77 + service charge $7.98). Non-refundable.\n\nBreakfast included.\n\n$100 damage deposit due on arrival by credit card, refunded at check-out after inspection.\n\nTrip: The Basement with Tim Ross taping, Tue Oct 20 (Denton, TX, arrive 9:00 AM); podcast interview with Brenda Palmer, Wed Oct 21 (Dallas, TX).",
+      "endAt": "2026-10-21T11:00:00-05:00",
+      "location": "Comfort Inn & Suites Euless DFW West, 1803 W Airport Freeway, Euless, TX 76040",
+      "startAt": "2026-10-19T15:00:00-05:00",
+      "status": "booked",
+      "timezone": "America/Chicago",
+      "title": "Hotel: Comfort Inn & Suites Euless DFW West",
+      "traveler": "Emanuel"
     }
   ]
 }
