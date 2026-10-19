@@ -672,3 +672,13 @@ fetch('data.json?cb='+Date.now()).then(r=>{if(!r.ok)throw new Error('data.json f
 </body>
 <!-- data-sync 2026-09-29T14:00EDT -->
 </html>
+<script>
+// Card preview: tappable Ticket link above the location line on calendar cards.
+(function(){
+function ticketLinkHtml(t){var m=String(t||"").match(/\[Ticket\]\((https?:\/\/[^\s)]+)\)/i);return m?'<p><a href="'+m[1].replace(/"/g,"%22")+'" target="_blank" rel="noopener noreferrer">Ticket</a></p>':"";}
+var origRow=row,origGlance=glanceEventCard;
+row=function(o){try{if(!o||o.category!=="Calendar")return origRow(o);var link=ticketLinkHtml(o.notes);if(!link)return origRow(o);return origRow(o).replace(/(<p>[^<]*<\/p>)(<\/div><\/div><\/summary>)/,function(m,p1,p2){return link+p1+p2;});}catch(e){return origRow(o);}};
+glanceEventCard=function(x,ip,cat){try{var html=origGlance(x,ip,cat);var link=ticketLinkHtml(x&&x.details);if(!link)return html;return html.replace(/(<p>[^<]*<\/p>)(<\/div><\/summary>)/,function(m,p1,p2){return link+p1+p2;});}catch(e){return origGlance(x,ip,cat);}};
+})();
+</script>
+
