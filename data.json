@@ -1772,6 +1772,22 @@
       "startAt": "2026-11-20T19:00:00-06:00",
       "timezone": "America/Chicago",
       "title": "Date Night"
+    },
+    {
+      "_recordId": 306,
+      "id": 306,
+      "allDay": false,
+      "contactEmail": "brobinson@thepottershouse.org",
+      "contactName": "Beverly Robinson",
+      "details": "[Join Zoom Meeting](https://zoom.us/j/91660572104?pwd=rRYx80dOzGIWP36DJyf8xogLvhgr97.1)\n\nMeeting ID: 916 6057 2104\n\nPasscode: 895596",
+      "endAt": "2026-10-19T20:30:00-05:00",
+      "location": "Zoom (Remote)",
+      "owner": "Emanuel",
+      "startAt": "2026-10-19T19:30:00-05:00",
+      "timezone": "America/Chicago",
+      "title": "TNM Panelist Zoom with Bishop Jakes",
+      "createdAt": "2026-10-19T14:35:27.000Z",
+      "updatedAt": "2026-10-19T14:35:27.000Z"
     }
   ],
   "capturedAt": "2026-09-20T21:15:26-04:00",
@@ -3042,7 +3058,7 @@
       "updatedAt": "2026-09-25T22:59:15.220Z"
     }
   ],
-  "latestUpdateAt": "2026-10-19T10:39:06.881Z",
+  "latestUpdateAt": "2026-10-19T14:35:27.000Z",
   "notes": [
     {
       "_recordId": 152,
