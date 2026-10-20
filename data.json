@@ -1795,6 +1795,18 @@
       "startAt": "2026-10-29T07:20:00-05:00",
       "timezone": "America/Chicago",
       "title": "DevoEnergy + Pastor Mike Jr"
+    },
+    {
+      "_recordId": 310,
+      "allDay": false,
+      "details": "Departure: MCO 5:30 PM EDT\nArrival: CLT 7:24 PM EDT\nAA 1611 \u2014 non-stop, Airbus A321, seat 30F\n\nDeparture: CLT 8:35 PM EDT\nArrival: LYH 9:52 PM EDT\nAA 5893 \u2014 operated by Piedmont Airlines as American Eagle, Embraer RJ145, seat 07C\n\nReturn: Tue Oct 27, 2026\n\nDeparture: LYH 3:28 PM EDT\nArrival: CLT 4:50 PM EDT\nAA 6019 \u2014 operated by Piedmont Airlines as American Eagle, Embraer RJ145, seat 09C\n\nDeparture: CLT 5:40 PM EDT\nArrival: MSY 6:47 PM CDT\nAA 2615 \u2014 Boeing 737-800\n\nConfirmation #EAGKRW (American Airlines record locator; Anthony Travel record locator GJKQVP)\n\nFinal confirmation forwarded Mon Oct 19, 2026, 5:30 PM EDT by Renee' Ann Breen (Liberty University, Opportunity and Enrichment) from Anthony Travel's Oct 2 itinerary; Michelle had requested the confirmation numbers Sun Oct 18, 2026.",
+      "endAt": "2026-10-27T18:47:00-05:00",
+      "endTimezone": "America/Chicago",
+      "location": null,
+      "owner": "Michelle",
+      "startAt": "2026-10-24T17:30:00-04:00",
+      "timezone": "America/New_York",
+      "title": "Flight to LYH"
     }
   ],
   "capturedAt": "2026-09-20T21:15:26-04:00",
@@ -3382,7 +3394,7 @@
       "emailSubject": "",
       "relatedEvent": "57",
       "status": "",
-      "summary": "Last received (Fri, Oct 9, 1:11 PM EDT) \u2014 Renee Breen thanked Michelle for the documents.\n\nLast outgoing (Fri, Oct 9, 1:01 PM EDT) \u2014 Michelle sent Renee the completed Short Form Agreement (Guest Speaker, Lambert, 10-26-26) plus the DaTRUTH hospitality and technical rider.\n\nTravel arrangements pending \u2014 hotel BOOKED: Fairfield Inn, Lynchburg (Emanuel conf G2H23TCK5, Michelle conf 5RNDWQ98Z), check-in Oct 24, check-out Oct 27. Emanuel's flights were updated and booked per Renee (upgraded to Main Select), but the thread still carries no confirmation number or final updated itinerary. Ground transportation requested, not yet confirmed.",
+      "summary": "Last received (Fri, Oct 9, 1:11 PM EDT) \u2014 Renee Breen thanked Michelle for the documents.\n\nLast outgoing (Fri, Oct 9, 1:01 PM EDT) \u2014 Michelle sent Renee the completed Short Form Agreement (Guest Speaker, Lambert, 10-26-26) plus the DaTRUTH hospitality and technical rider.\n\nLast received (Mon, Oct 19, 5:30 PM EDT) \u2014 Renee' Ann Breen forwarded the FINAL flight confirmations from Anthony Travel's Oct 2 itineraries: Emanuel BOS\u2192LYH Sat Oct 24 (AA 1140 dep 4:49 PM EDT, AA 5893 dep 8:35 PM, arr LYH 9:52 PM EDT, conf YYBENB) + return Tue Oct 27 LYH\u2192LFT (AA 6019 dep 3:28 PM EDT, AA 5206 dep 7:40 PM, arr LFT 9:17 PM CDT); Michelle MCO\u2192LYH Sat Oct 24 (AA 1611 dep 5:30 PM EDT, AA 5893 dep 8:35 PM, arr LYH 9:52 PM EDT, conf EAGKRW) + return Tue Oct 27 LYH\u2192MSY (AA 6019 dep 3:28 PM EDT, AA 2615 dep 5:40 PM, arr MSY 6:47 PM CDT). Hotel BOOKED: Fairfield Inn, Lynchburg (Emanuel conf G2H23TCK5, Michelle conf 5RNDWQ98Z), check-in Oct 24, check-out Oct 27. Ground transportation to/from the airport requested, not yet confirmed.",
       "topic": "Liberty University visit"
     },
     {
@@ -3498,6 +3510,20 @@
       "status": "",
       "summary": "CONFIRMED \u2014 Sat Oct 31, 2026, 11:00 AM\u201312:30 PM Central: Shaping The Culture Podcast taping, 3672 W Imperial Hwy, Inglewood, CA 90303. (Calendar event 258.)",
       "topic": "Shaping The Culture Podcast"
+    },
+    {
+      "_recordId": 312,
+      "category": "Book Campaign",
+      "contactEmail": "",
+      "contactName": "",
+      "contactPhone": "",
+      "emailDate": "",
+      "emailSender": "",
+      "emailSubject": "",
+      "relatedEvent": "",
+      "status": "",
+      "summary": "Last received (Mon, Oct 19, 2:01 PM EDT) \u2014 Rudy Kish (David C. Cook, Senior Marketing Director) replied that he forwarded Michelle's message to Barnes & Noble; she should be able to help get the order-form submission issue fixed.\n\nLast outgoing (Mon, Oct 19, 11:41 AM EDT) \u2014 Michelle emailed Rudy Kish: Lesley Gooden (Rock City Church Birmingham) received an error message when submitting the 500-book order forms; Michelle attached the forms so Amanda (Barnes & Noble) receives them. Michelle noted her other inbox was also erroring, so she replied from michelleguessa@gmail.com.",
+      "topic": "Rock City Church Birmingham \u2014 500-book order"
     }
   ],
   "revenueSummary": {
@@ -3711,7 +3737,7 @@
     },
     {
       "_recordId": 250,
-      "details": "BOOKED \u2014 Fairfield Inn, Lynchburg VA (for the IFE + Liberty University Fireside Chat, Oct 25\u201327).\n\nEmanuel Lambert \u2014 confirmation G2H23TCK5\nMichelle Guess \u2014 confirmation 5RNDWQ98Z\nCheck-in Sat Oct 24, check-out Tue Oct 27, 2026.\n\nFlights still PROPOSED (not ticketed): Renee Breen (Liberty) sent proposed itineraries Oct 1 \u2014 Emanuel BOS\u2192LYH Oct 24 (AA1140/AA5893 via Charlotte), LYH\u2192LFT Oct 27 (AA6019/AA5206 via Charlotte); Michelle MCO\u2192LYH Oct 24 (AA1611/AA5893), LYH\u2192MCO Oct 27 (AA6018/AA1611). Renee will purchase once itineraries are approved; final confirmations to follow. Ground transportation to/from the airport requested, not yet confirmed.",
+      "details": "BOOKED \u2014 Fairfield Inn, Lynchburg VA (for the IFE + Liberty University Fireside Chat, Oct 25\u201327).\n\nEmanuel Lambert \u2014 confirmation G2H23TCK5\nMichelle Guess \u2014 confirmation 5RNDWQ98Z\nCheck-in Sat Oct 24, check-out Tue Oct 27, 2026.\n\nFlights CONFIRMED (final confirmations forwarded Mon Oct 19, 2026 by Renee' Ann Breen, Liberty University, from Anthony Travel's Oct 2 itineraries): Emanuel BOS\u2192LYH Oct 24 (AA 1140/AA 5893 via Charlotte, conf YYBENB) + LYH\u2192LFT Oct 27 (AA 6019/AA 5206 via Charlotte); Michelle MCO\u2192LYH Oct 24 (AA 1611/AA 5893 via Charlotte, conf EAGKRW) + LYH\u2192MSY Oct 27 (AA 6019/AA 2615 via Charlotte). Ground transportation to/from the airport requested, not yet confirmed.",
       "endAt": "2026-10-27",
       "location": "Fairfield Inn, Lynchburg, VA",
       "startAt": "2026-10-24",
@@ -3778,6 +3804,18 @@
       "timezone": "America/Chicago",
       "title": "Hotel: Comfort Inn & Suites Euless DFW West",
       "traveler": "Emanuel"
+    },
+    {
+      "_recordId": 311,
+      "details": "Departure: MCO 5:30 PM EDT\nArrival: CLT 7:24 PM EDT\nAA 1611 \u2014 non-stop, Airbus A321, seat 30F\n\nDeparture: CLT 8:35 PM EDT\nArrival: LYH 9:52 PM EDT\nAA 5893 \u2014 operated by Piedmont Airlines as American Eagle, Embraer RJ145, seat 07C\n\nReturn: Tue Oct 27, 2026\n\nDeparture: LYH 3:28 PM EDT\nArrival: CLT 4:50 PM EDT\nAA 6019 \u2014 operated by Piedmont Airlines as American Eagle, Embraer RJ145, seat 09C\n\nDeparture: CLT 5:40 PM EDT\nArrival: MSY 6:47 PM CDT\nAA 2615 \u2014 Boeing 737-800\n\nConfirmation #EAGKRW (American Airlines record locator; Anthony Travel record locator GJKQVP)\n\nFinal confirmation forwarded Mon Oct 19, 2026, 5:30 PM EDT by Renee' Ann Breen (Liberty University, Opportunity and Enrichment) from Anthony Travel's Oct 2 itinerary; Michelle had requested the confirmation numbers Sun Oct 18, 2026.",
+      "endAt": "2026-10-27T18:47:00-05:00",
+      "endTimezone": "America/Chicago",
+      "location": null,
+      "startAt": "2026-10-24T17:30:00-04:00",
+      "status": "booked",
+      "timezone": "America/New_York",
+      "title": "Flight to LYH",
+      "traveler": "Michelle"
     }
   ]
 }
