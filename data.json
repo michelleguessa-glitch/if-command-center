@@ -828,10 +828,10 @@
       "id": 39,
       "kind": "podcast",
       "notes": null,
-      "startDate": "2026-10-21",
+      "startDate": null,
       "state": null,
-      "status": "confirmed",
-      "timeLabel": "Time TBD",
+      "status": "pending",
+      "timeLabel": null,
       "timezone": "America/Chicago",
       "title": "Brenda Palmer Podcast Interview with Da'Truth",
       "topic": "Podcast interview with Emanuel Lambert (Da'Truth)",
@@ -1379,19 +1379,6 @@
       "title": "Flight to LFT",
       "traveler": "Emanuel",
       "updatedAt": "2026-10-14T06:19:12.288Z"
-    },
-    {
-      "_recordId": 65,
-      "allDay": true,
-      "createdAt": "2026-09-20T19:16:24.000Z",
-      "details": "Brenda Palmer: admin@iambrendapalmer.com.\n\nMichelle emailed on September 18, 2026 to ask for availability.",
-      "endAt": null,
-      "id": 20,
-      "location": null,
-      "owner": "Emanuel",
-      "startAt": "2026-10-21",
-      "timezone": "America/Chicago",
-      "title": "Brenda Palmer Podcast Interview with Da'Truth"
     },
     {
       "_recordId": 66,
