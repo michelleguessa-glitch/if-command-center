@@ -1179,6 +1179,26 @@
       "title": "Video Podcast interview: Jesus Calling",
       "updatedAt": "2026-10-14T14:19:29.353Z",
       "venue": null
+    },
+    {
+      "_recordId": 319,
+      "calendarImportKey": "podcast-confidence-in-christ-2026-11-03",
+      "category": "Podcasts",
+      "contactEmail": "mckenzie@storytoldpr.com",
+      "contactName": "Mckenzie Masters",
+      "createdAt": "2026-10-21T18:00:37.829Z",
+      "endDate": "2026-11-03",
+      "id": "podcast-confidence-in-christ-2026-11-03",
+      "kind": "podcast",
+      "mediaType": "podcast",
+      "notes": "CONFIRMED \u2014 Confidence in Christ Podcast interview. Host: Kala Diane (kaladiane.com), ~4K monthly listens. 30-minute interview, airs early 2027. Remote over Zoom: https://us06web.zoom.us/j/4462418907?pwd=FEsVEQGxwszAd8nGrabBfPQO2DhpOQ.1\n\nOrganizer: Mckenzie Masters (mckenzie@storytoldpr.com, StoryTold PR). Guests: Emanuel Lambert, Michelle Guess, Maddie Boarman (maddie@storytoldpr.com), Elizabeth Cole (elizabeth@storytoldpr.com).\n\nConfirmation chain: Oct 20, 11:38 AM \u2014 McKenzie pitched (secured interest; Kala availability Oct 27\u201329, Nov 3, Nov 5, Nov 10, Nov 12 mornings). Oct 21, 6:23 AM \u2014 Michelle asked \"is this a remote interview?\" Oct 21, 11:40 AM \u2014 McKenzie confirmed over Zoom. Oct 21, 1:27 PM \u2014 Michelle picked Tuesday Nov 3 morning and asked for the exact time + Zoom link. Oct 21, 1:51 PM \u2014 McKenzie's calendar invitation locked 10:00\u201310:30 AM ET with the Zoom link.",
+      "startDate": "2026-11-03",
+      "status": "confirmed",
+      "timeLabel": "10:00 AM \u2013 10:30 AM ET",
+      "timezone": "America/New_York",
+      "title": "Confidence in Christ Podcast (Kala Diane)",
+      "updatedAt": "2026-10-21T18:00:37.829Z",
+      "venue": "Zoom (remote)"
     }
   ],
   "calendar": [
@@ -1847,6 +1867,19 @@
       "startAt": "2026-11-01",
       "timezone": "America/Chicago",
       "title": "Poppa Bday Party"
+    },
+    {
+      "_recordId": 320,
+      "allDay": false,
+      "createdAt": "2026-10-21T18:00:37.829Z",
+      "details": "Podcast \u00b7 CONFIRMED \u2014 Confidence in Christ Podcast interview. Host: Kala Diane (kaladiane.com), ~4K monthly listens. 30-minute interview, airs early 2027. Remote over Zoom: https://us06web.zoom.us/j/4462418907?pwd=FEsVEQGxwszAd8nGrabBfPQO2DhpOQ.1\n\nOrganizer: Mckenzie Masters (mckenzie@storytoldpr.com, StoryTold PR). Guests: Emanuel Lambert, Michelle Guess, Maddie Boarman (maddie@storytoldpr.com), Elizabeth Cole (elizabeth@storytoldpr.com).\n\nConfirmation chain: Oct 20, 11:38 AM \u2014 McKenzie pitched (secured interest; Kala availability Oct 27\u201329, Nov 3, Nov 5, Nov 10, Nov 12 mornings). Oct 21, 6:23 AM \u2014 Michelle asked \"is this a remote interview?\" Oct 21, 11:40 AM \u2014 McKenzie confirmed over Zoom. Oct 21, 1:27 PM \u2014 Michelle picked Tuesday Nov 3 morning and asked for the exact time + Zoom link. Oct 21, 1:51 PM \u2014 McKenzie's calendar invitation locked 10:00\u201310:30 AM ET with the Zoom link.",
+      "endAt": "2026-11-03T10:30:00-05:00",
+      "location": "Zoom (remote)",
+      "owner": "Emanuel",
+      "startAt": "2026-11-03T10:00:00-05:00",
+      "timezone": "America/New_York",
+      "title": "Confidence in Christ Podcast (Kala Diane)",
+      "updatedAt": "2026-10-21T18:00:37.829Z"
     }
   ],
   "capturedAt": "2026-09-20T21:15:26-04:00",
@@ -2924,6 +2957,60 @@
       "phone": "336-265-1820",
       "role": "Travel agent",
       "updatedAt": "2026-10-19T22:45:35.409Z"
+    },
+    {
+      "_recordId": 321,
+      "category": "media",
+      "createdAt": "2026-10-21T18:00:37.829Z",
+      "email": "",
+      "groupLabel": "Confidence in Christ Podcast",
+      "linkedBookingId": "podcast-confidence-in-christ-2026-11-03",
+      "mediaType": "podcast",
+      "name": "Kala Diane",
+      "notes": "Tied to the Confidence in Christ Podcast (Kala Diane) booking \u2014 confirmed 30-minute remote interview over Zoom, Tue Nov 3, 2026, 10:00\u201310:30 AM ET; host Kala Diane (kaladiane.com), ~4K monthly listens, airs early 2027.",
+      "organization": "Confidence in Christ Podcast",
+      "role": "Podcast host, Confidence in Christ",
+      "updatedAt": "2026-10-21T18:00:37.829Z",
+      "website": "kaladiane.com"
+    },
+    {
+      "_recordId": 322,
+      "category": "media",
+      "createdAt": "2026-10-21T18:00:37.829Z",
+      "email": "annette.brickbealer@davidccook.org",
+      "groupLabel": "David C. Cook",
+      "linkedBookingId": "podcast-confidence-in-christ-2026-11-03",
+      "name": "Annette Brickbealer",
+      "notes": "Tied to the Confidence in Christ Podcast (Kala Diane) booking \u2014 confirmed 30-minute remote interview over Zoom, Tue Nov 3, 2026, 10:00\u201310:30 AM ET; host Kala Diane (kaladiane.com), ~4K monthly listens, airs early 2027.",
+      "organization": "David C. Cook",
+      "role": "David C. Cook",
+      "updatedAt": "2026-10-21T18:00:37.829Z"
+    },
+    {
+      "_recordId": 323,
+      "category": "media",
+      "createdAt": "2026-10-21T18:00:37.829Z",
+      "email": "asa.stringer@davidccook.org",
+      "groupLabel": "David C. Cook",
+      "linkedBookingId": "podcast-confidence-in-christ-2026-11-03",
+      "name": "Asa Stringer",
+      "notes": "Tied to the Confidence in Christ Podcast (Kala Diane) booking \u2014 confirmed 30-minute remote interview over Zoom, Tue Nov 3, 2026, 10:00\u201310:30 AM ET; host Kala Diane (kaladiane.com), ~4K monthly listens, airs early 2027.",
+      "organization": "David C. Cook",
+      "role": "David C. Cook",
+      "updatedAt": "2026-10-21T18:00:37.829Z"
+    },
+    {
+      "_recordId": 324,
+      "category": "media",
+      "createdAt": "2026-10-21T18:00:37.829Z",
+      "email": "rudy.kish@davidccook.org",
+      "groupLabel": "David C. Cook",
+      "linkedBookingId": "podcast-confidence-in-christ-2026-11-03",
+      "name": "Rudy Kish",
+      "notes": "Tied to the Confidence in Christ Podcast (Kala Diane) booking \u2014 confirmed 30-minute remote interview over Zoom, Tue Nov 3, 2026, 10:00\u201310:30 AM ET; host Kala Diane (kaladiane.com), ~4K monthly listens, airs early 2027.",
+      "organization": "David C. Cook",
+      "role": "David C. Cook",
+      "updatedAt": "2026-10-21T18:00:37.829Z"
     }
   ],
   "dailyTasks": [
@@ -3140,7 +3227,7 @@
       "updatedAt": "2026-09-25T22:59:15.220Z"
     }
   ],
-  "latestUpdateAt": "2026-10-19T22:45:35.409Z",
+  "latestUpdateAt": "2026-10-21T18:00:37.829Z",
   "notes": [
     {
       "_recordId": 152,
