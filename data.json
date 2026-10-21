@@ -1260,18 +1260,18 @@
     },
     {
       "_recordId": 54,
-      "allDay": true,
+      "allDay": false,
       "calendarImportCapturedAt": "2026-09-22T15:31:38.000Z",
       "calendarImportKey": "calendar-dallas-td-jakes-2026-10-21",
       "createdAt": "2026-09-20T14:38:25.893Z",
-      "details": "[Ticket](https://michelleguessa-glitch.github.io/if-command-center/ticket-next-move-summit-dallas.jpg)",
-      "endAt": "2026-10-24",
+      "details": "[Ticket](https://michelleguessa-glitch.github.io/if-command-center/ticket-next-move-summit-dallas.jpg)\n\nRegistration begins at 5:00 PM. Followed by the Opening Night Experience.\n\n[Itinerary](https://michelleguessa-glitch.github.io/if-command-center/next-move-summit-general-schedule.png)",
+      "endAt": "2026-10-21T21:00:00-05:00",
       "id": 9,
       "location": "The Potter's House of Dallas, 6777 W Kiest Blvd, Dallas, TX 75236, USA",
       "owner": "Emanuel",
-      "startAt": "2026-10-21",
+      "startAt": "2026-10-21T17:00:00-05:00",
       "timezone": "America/Chicago",
-      "title": "Dallas TD Jakes Conference"
+      "title": "TD Jake's Conference Day1"
     },
     {
       "_recordId": 55,
@@ -1707,14 +1707,14 @@
     },
     {
       "_recordId": 287,
-      "allDay": true,
-      "details": "",
-      "endAt": "2026-10-23",
+      "allDay": false,
+      "details": "[Ticket](https://michelleguessa-glitch.github.io/if-command-center/ticket-next-move-summit-dallas.jpg)\n\nLeadership Development Day\n\n[Itinerary](https://michelleguessa-glitch.github.io/if-command-center/next-move-summit-general-schedule.png)",
+      "endAt": "2026-10-22T16:15:00-05:00",
       "location": "TD Jake's",
       "owner": "Emanuel",
-      "startAt": "2026-10-22",
+      "startAt": "2026-10-22T08:00:00-05:00",
       "timezone": "America/Chicago",
-      "title": "Panel at TD Jake's"
+      "title": "TD Jake's Conference Day2"
     },
     {
       "_recordId": 289,
@@ -1827,6 +1827,17 @@
       "startAt": "2026-10-21T10:30:00-05:00",
       "timezone": "America/Chicago",
       "title": "Meeting with Albaner"
+    },
+    {
+      "_recordId": 317,
+      "allDay": false,
+      "details": "[Ticket](https://michelleguessa-glitch.github.io/if-command-center/ticket-next-move-summit-dallas.jpg)\n\nLeadership Commission Day\n\n[Itinerary](https://michelleguessa-glitch.github.io/if-command-center/next-move-summit-general-schedule.png)",
+      "endAt": "2026-10-23T16:15:00-05:00",
+      "location": "The Potter's House of Dallas, 6777 W Kiest Blvd, Dallas, TX 75236, USA",
+      "owner": "Emanuel",
+      "startAt": "2026-10-23T08:00:00-05:00",
+      "timezone": "America/Chicago",
+      "title": "TD Jake's Conference Day3"
     }
   ],
   "capturedAt": "2026-09-20T21:15:26-04:00",
