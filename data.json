@@ -1806,6 +1806,17 @@
       "timezone": "America/Chicago",
       "title": "Hotel: Tru By Hilton Grand Prairie",
       "traveler": "Emanuel"
+    },
+    {
+      "_recordId": 315,
+      "allDay": false,
+      "details": "Meeting Room 7D",
+      "endAt": "2026-10-21T15:00:00-05:00",
+      "location": "WeWork, Meeting Room 7D, 1920 McKinney Ave, Dallas, TX 75201",
+      "owner": "Emanuel",
+      "startAt": "2026-10-21T13:00:00-05:00",
+      "timezone": "America/Chicago",
+      "title": "White-boarding Session"
     }
   ],
   "capturedAt": "2026-09-20T21:15:26-04:00",
