@@ -1798,7 +1798,7 @@
     {
       "_recordId": 314,
       "allDay": false,
-      "details": "Tru By Hilton Grand Prairie, 1520 N HWY 360, Grand Prairie, TX 75052.\n\nGuest: Emanuel Lambert.\n\nCheck-in: Wed Oct 21, 2026 from 3:00 PM CT.\n\nCheck-out: Fri Oct 23, 2026 by 12:00 PM CT.\n\nRoom: King Room, 1 king bed, 300 ft\u00b2, 1 adult, 2 nights.\n\nBreakfast included.\n\nTrip: TD Jakes Next Move Summit, Oct 21\u201324 (The Potter's House of Dallas); podcast interview with Brenda Palmer, Wed Oct 21 (Dallas, TX).",
+      "details": "Tru By Hilton Grand Prairie, 1520 N HWY 360, Grand Prairie, TX 75052.\n\nGuest: Emanuel Lambert.\n\nCheck-in: Wed Oct 21, 2026 from 3:00 PM CT.\n\nCheck-out: Fri Oct 23, 2026 by 12:00 PM CT.\n\nRoom: King Room, 1 king bed, 300 ft\u00b2, 1 adult, 2 nights.\n\nBreakfast included.\n\nTrip: TD Jakes Next Move Summit.",
       "endAt": "2026-10-23T12:00:00-05:00",
       "location": "Tru By Hilton Grand Prairie, 1520 N HWY 360, Grand Prairie, TX 75052",
       "owner": "Emanuel",
@@ -1811,10 +1811,10 @@
       "_recordId": 315,
       "allDay": false,
       "details": "Meeting Room 7D",
-      "endAt": "2026-10-21T15:00:00-05:00",
+      "endAt": "2026-10-21T16:30:00-05:00",
       "location": "WeWork, Meeting Room 7D, 1920 McKinney Ave, Dallas, TX 75201",
       "owner": "Emanuel",
-      "startAt": "2026-10-21T13:00:00-05:00",
+      "startAt": "2026-10-21T15:00:00-05:00",
       "timezone": "America/Chicago",
       "title": "White-boarding Session"
     },
@@ -3850,7 +3850,7 @@
     },
     {
       "_recordId": 313,
-      "details": "Tru By Hilton Grand Prairie, 1520 N HWY 360, Grand Prairie, TX 75052.\n\nGuest: Emanuel Lambert.\n\nCheck-in: Wed Oct 21, 2026 from 3:00 PM CT.\n\nCheck-out: Fri Oct 23, 2026 by 12:00 PM CT.\n\nRoom: King Room, 1 king bed, 300 ft\u00b2, 1 adult, 2 nights.\n\nBreakfast included.\n\nTrip: TD Jakes Next Move Summit, Oct 21\u201324 (The Potter's House of Dallas); podcast interview with Brenda Palmer, Wed Oct 21 (Dallas, TX).",
+      "details": "Tru By Hilton Grand Prairie, 1520 N HWY 360, Grand Prairie, TX 75052.\n\nGuest: Emanuel Lambert.\n\nCheck-in: Wed Oct 21, 2026 from 3:00 PM CT.\n\nCheck-out: Fri Oct 23, 2026 by 12:00 PM CT.\n\nRoom: King Room, 1 king bed, 300 ft\u00b2, 1 adult, 2 nights.\n\nBreakfast included.\n\nTrip: TD Jakes Next Move Summit.",
       "endAt": "2026-10-23T12:00:00-05:00",
       "location": "Tru By Hilton Grand Prairie, 1520 N HWY 360, Grand Prairie, TX 75052",
       "startAt": "2026-10-21T15:00:00-05:00",
