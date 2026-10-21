@@ -1838,6 +1838,15 @@
       "startAt": "2026-10-23T08:00:00-05:00",
       "timezone": "America/Chicago",
       "title": "TD Jake's Conference Day3"
+    },
+    {
+      "_recordId": 318,
+      "allDay": true,
+      "endAt": "2026-11-02",
+      "owner": "Emanuel",
+      "startAt": "2026-11-01",
+      "timezone": "America/Chicago",
+      "title": "Poppa Bday Party"
     }
   ],
   "capturedAt": "2026-09-20T21:15:26-04:00",
