@@ -1199,6 +1199,24 @@
       "title": "Confidence in Christ Podcast (Kala Diane)",
       "updatedAt": "2026-10-21T18:00:37.829Z",
       "venue": "Zoom (remote)"
+    },
+    {
+      "_recordId": 325,
+      "city": "Dallas",
+      "contactEmail": "TVice@thepottershouse.org, brobinson@thepottershouse.org",
+      "contactName": "Tiffany Vice / Beverly Robinson",
+      "contactPhone": "469-853-3800",
+      "endDate": "2026-10-22",
+      "kind": "performance",
+      "notes": "Emanuel confirmed as a stage guest/panelist at The NEXT Move Summit (Bishop T. D. Jakes). Call Sheet: Call Time 2:25 PM, Stage Call Time 3:20 PM, Session Time 3:25 PM \u2014 'The Mantle with Bishop T. D. Jakes' (Thu Oct 22, 2026). Parking: The P.L.A.C.E. Garage (host greets in garage). Green Room: Bride's Room. Attire: Business Casual. All speakers/VIP invited to the Premier Luncheon Thu Oct 22 (12:15 PM) and the Ambassador Luncheon Fri Oct 23 (12:05 PM). Only requested action: notify the team if arriving before the 2:25 PM call time (no deadline stated). Updated Confirmation Kit received Oct 21, 2026 via Tiffany Vice (Exec. Administrative Assistant, CEO Office), Executive Office of The Potter's House. On-site emergency: Terilyn Tucker 214.970.3367.",
+      "startDate": "2026-10-22",
+      "state": "TX",
+      "status": "confirmed",
+      "timeLabel": "3:25 PM CT",
+      "timezone": "America/Chicago",
+      "title": "The Next Move Summit \u2014 Panelist: 'The Mantle' with Bishop T. D. Jakes",
+      "topic": "The Mantle panelist session",
+      "venue": "The Potter's House of Dallas, 6777 W Kiest Blvd, Dallas, TX 75236, USA"
     }
   ],
   "calendar": [
@@ -1880,6 +1898,17 @@
       "timezone": "America/New_York",
       "title": "Confidence in Christ Podcast (Kala Diane)",
       "updatedAt": "2026-10-21T18:00:37.829Z"
+    },
+    {
+      "_recordId": 326,
+      "allDay": false,
+      "details": "PANELIST SLOT \u2014 'The Mantle' with Bishop T. D. Jakes\n\nCall Time: 2:25 PM\nStage Call Time: 3:20 PM\nSession Time: 3:25 PM\n\nParking: The P.L.A.C.E. Garage (a host greets in the garage)\nGreen Room: Bride's Room\nAttire: Business Casual\n\nAll speakers/VIP invited to the Premier Luncheon today (12:15 PM, VIP/Premier Executive Lunch Session).\n\nAction: notify Tiffany Vice's team if arriving before the 2:25 PM call time \u2014 no deadline stated.\n\nContacts: Tiffany Vice, Exec. Administrative Assistant, CEO Office \u2014 TVice@thepottershouse.org, cell 469-853-3800. On-site emergency: Terilyn Tucker, 214.970.3367, ttucker@thepottershouse.org.\n\nBooking record: The Next Move Summit \u2014 Panelist: 'The Mantle' with Bishop T. D. Jakes (confirmed). End time aligned with Day 2 programming; slot length not stated in the kit.",
+      "endAt": "2026-10-22T16:15:00-05:00",
+      "location": "The Potter's House of Dallas, 6777 W Kiest Blvd, Dallas, TX 75236, USA",
+      "owner": "Emanuel",
+      "startAt": "2026-10-22T15:25:00-05:00",
+      "timezone": "America/Chicago",
+      "title": "The Next Move Summit \u2014 'The Mantle' with Bishop T. D. Jakes (Panelist)"
     }
   ],
   "capturedAt": "2026-09-20T21:15:26-04:00",
@@ -3011,6 +3040,17 @@
       "organization": "David C. Cook",
       "role": "David C. Cook",
       "updatedAt": "2026-10-21T18:00:37.829Z"
+    },
+    {
+      "_recordId": 327,
+      "category": "church",
+      "city": "Dallas",
+      "email": "TVice@thepottershouse.org",
+      "name": "Tiffany Vice",
+      "notes": "Exec. Administrative Assistant, CEO Office \u2014 The Potter's House, 3635 Dan Morton Dr, Dallas, TX 75236. Point of contact for Emanuel's panelist slot at The NEXT Move Summit ('The Mantle' with Bishop T. D. Jakes, Thu Oct 22, 2026). Sent the updated Confirmation Kit Oct 20, 2026. Notify her team if arriving before the 2:25 PM call time.",
+      "organization": "The Potter's House",
+      "phone": "469-853-3800",
+      "role": "Executive Administrative Assistant, CEO Office"
     }
   ],
   "dailyTasks": [
