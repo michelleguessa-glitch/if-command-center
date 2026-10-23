@@ -1346,7 +1346,7 @@
       "calendarImportCapturedAt": "2026-09-22T15:31:38.000Z",
       "calendarImportKey": "calendar-liberty-2026-10-25",
       "createdAt": "2026-09-20T14:38:25.977Z",
-      "details": "Hotel: Fairfield Inn, Lynchburg VA\n\nCheck-in: Sat Oct 24, 2026\n\nCheck-out: Tue Oct 27, 2026\n\nEmanuel confirmation: G2H23TCK5\n\nMichelle confirmation: 5RNDWQ98Z",
+      "details": "Hotel: Fairfield Inn, Lynchburg VA\n\nCheck-in: Sat Oct 24, 2026\n\nCheck-out: Tue Oct 27, 2026\n\nEmanuel confirmation: G2H23TCK5\n\nMichelle confirmation: 5RNDWQ98Z\n\n[Itinerary](https://michelleguessa-glitch.github.io/if-command-center/itinerary-liberty-university-2026-10-24.pdf)",
       "endAt": "2026-10-27",
       "id": 12,
       "location": "Liberty University, 1971 University Blvd, Lynchburg, VA 24515, USA",
@@ -3037,6 +3037,30 @@
       "notes": "Emanuel's contact at TBN (Trinity Broadcasting Network). Shared by Emanuel's contact to Michelle on Oct 22, 2026; Michelle forwarded the introduction to McKenzie Masters (StoryTold PR) on Oct 22 at 1:15 PM EDT: \"Kate Srein will be the best person to start with in submission for the Praise program on TBN.\" TBN Praise program submission lead \u2014 IN DISCUSSION, NOT confirmed as an interview/booking. Flagged for Michelle's decision.",
       "organization": "Trinity Broadcasting Network (TBN)",
       "role": "TBN contact \u2014 Praise program submissions"
+    },
+    {
+      "_recordId": 330,
+      "category": "education",
+      "city": "Lynchburg",
+      "email": "wevirgil@liberty.edu",
+      "linkedBookingId": 5,
+      "name": "Walter Virgil Jr.",
+      "notes": "Associate Director of Strategic Projects & Alliances, LU ONE / Office of Opportunity and Enrichment, Liberty University. Sent Emanuel's Oct 24-27, 2026 visit itinerary Fri Oct 23, 2026. Key contact for the IFE + Liberty University visit (Fireside Chat Oct 26).",
+      "organization": "Liberty University",
+      "phone": "(434) 329-5624",
+      "role": "Associate Director of Strategic Projects & Alliances"
+    },
+    {
+      "_recordId": 331,
+      "category": "education",
+      "city": "Lynchburg",
+      "email": null,
+      "linkedBookingId": 5,
+      "name": "Matthew Summers",
+      "notes": "Executive Director, Office of Opportunity and Enrichment, Liberty University. Listed on Emanuel's Oct 24-27, 2026 visit itinerary. Tied to the IFE + Liberty University visit (Fireside Chat Oct 26).",
+      "organization": "Liberty University",
+      "phone": "(434) 592-5799",
+      "role": "Executive Director, Opportunity & Enrichment"
     }
   ],
   "dailyTasks": [
