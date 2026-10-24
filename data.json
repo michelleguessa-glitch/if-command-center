@@ -69,7 +69,7 @@
       "fee": "1,500/2,000",
       "fullPaymentReceived": false,
       "kind": "ife",
-      "notes": "Will pay in full upon arrival. Confirmed by Michelle Sep 27, 2026.\n\nTravel booked: DL2057 DFW 5:25 PM \u2192 BOS 10:19 PM (Oct 23), Delta Comfort Classic. Confirmation #GC7YK7, ticket #0062473757312, seat 14E, $453.40 \u2014 confirmed by Nina Kumar Sun Oct 18, 2026, 9:45 AM EDT.\n\nSun Oct 18, 2026, 6:57 PM EDT \u2014 Michelle confirmed Emanuel's dietary restrictions and sent the DaTRUTH Technical & Hospitality Rider to Nina Kumar (image.png + rider PDF attached).",
+      "notes": "Will pay in full upon arrival. Confirmed by Michelle Sep 27, 2026.\n\nTravel booked: DL2057 DFW 5:25 PM \u2192 BOS 10:19 PM (Oct 23), Delta Comfort Classic. Confirmation #GC7YK7, ticket #0062473757312, seat 14E, $453.40 \u2014 confirmed by Nina Kumar Sun Oct 18, 2026, 9:45 AM EDT.\n\nSun Oct 18, 2026, 6:57 PM EDT \u2014 Michelle confirmed Emanuel's dietary restrictions and sent the DaTRUTH Technical & Hospitality Rider to Nina Kumar (image.png + rider PDF attached).\n\nFri Oct 23, 2026, 7:44 PM EDT \u2014 Nina Kumar shared tomorrow's session schedule: session 'Intelligent Faith for Believers' begins 11:00 AM ET; transportation pickup 10:00 AM ET (Emanuel's contact 267-317-5407; Nina confirms any pickup-time change by 10:30 PM tonight). Breakdown: Welcome & Speaker Introduction \u2014 Pastor Jay; Session Presenter \u2014 Emanuel Da'Truth Lambert; Closing Remarks \u2014 Pastor Jay; Book Sales \u2014 Motivation Store.",
       "startDate": "2026-10-24",
       "state": "MA",
       "status": "confirmed",
@@ -1317,7 +1317,7 @@
       "calendarImportCapturedAt": "2026-09-22T15:31:38.000Z",
       "calendarImportKey": "calendar-motivation-church-2026-10-24",
       "createdAt": "2026-09-20T14:38:25.930Z",
-      "details": "",
+      "details": "Status: confirmed\n\nStarts: Sat Oct 24, 2026, 11:00 AM ET\n\nEnds: Sat Oct 24, 2026, 1:00 PM ET\n\nTopic: Apologetics + Q&A (Conference)\n\nSession: Intelligent Faith for Believers \u2014 Welcome & Speaker Introduction: Pastor Jay; Session Presenter: Emanuel Da'Truth Lambert; Closing Remarks: Pastor Jay; Book Sales: Motivation Store\n\nTransportation: pickup 10:00 AM ET (Emanuel's contact 267-317-5407). Nina Kumar confirms any pickup-time change by 10:30 PM tonight.",
       "endAt": "2026-10-24T13:00:00-04:00",
       "id": 10,
       "location": "Motivation Church, 600 South St, Holbrook, MA 02343, USA",
@@ -3277,7 +3277,7 @@
       "updatedAt": "2026-09-25T22:59:15.220Z"
     }
   ],
-  "latestUpdateAt": "2026-10-21T18:00:37.829Z",
+  "latestUpdateAt": "2026-10-23T23:56:52.292Z",
   "notes": [
     {
       "_recordId": 152,
