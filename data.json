@@ -1799,18 +1799,6 @@
       "title": "DevoEnergy + Pastor Mike Jr"
     },
     {
-      "_recordId": 310,
-      "allDay": false,
-      "details": "Confirmation #EAGKRW\nAmerican Airlines AA1611\nAmerican Eagle (Piedmont Airlines) AA5893\nAmerican Eagle (Piedmont Airlines) AA6019\nAmerican Airlines AA2615",
-      "endAt": "2026-10-27T18:47:00-05:00",
-      "endTimezone": "America/Chicago",
-      "location": null,
-      "owner": "Michelle",
-      "startAt": "2026-10-24T17:30:00-04:00",
-      "timezone": "America/New_York",
-      "title": "Flight to LYH"
-    },
-    {
       "_recordId": 314,
       "allDay": false,
       "details": "Tru By Hilton Grand Prairie, 1520 N HWY 360, Grand Prairie, TX 75052.\n\nGuest: Emanuel Lambert.\n\nCheck-in: Wed Oct 21, 2026 from 3:00 PM CT.\n\nCheck-out: Fri Oct 23, 2026 by 12:00 PM CT.\n\nRoom: King Room, 1 king bed, 300 ft\u00b2, 1 adult, 2 nights.\n\nBreakfast included.\n\nTrip: TD Jakes Next Move Summit.",
@@ -3982,18 +3970,6 @@
       "timezone": "America/Chicago",
       "title": "Hotel: Comfort Inn & Suites Euless DFW West",
       "traveler": "Emanuel"
-    },
-    {
-      "_recordId": 311,
-      "details": "Confirmation #EAGKRW\nAmerican Airlines AA1611\nAmerican Eagle (Piedmont Airlines) AA5893\nAmerican Eagle (Piedmont Airlines) AA6019\nAmerican Airlines AA2615",
-      "endAt": "2026-10-27T18:47:00-05:00",
-      "endTimezone": "America/Chicago",
-      "location": null,
-      "startAt": "2026-10-24T17:30:00-04:00",
-      "status": "booked",
-      "timezone": "America/New_York",
-      "title": "Flight to LYH",
-      "traveler": "Michelle"
     },
     {
       "_recordId": 313,
