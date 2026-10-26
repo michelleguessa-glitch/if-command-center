@@ -1356,20 +1356,6 @@
       "title": "IFE + Liberty University"
     },
     {
-      "_recordId": 59,
-      "allDay": false,
-      "createdAt": "2026-09-20T14:38:26.054Z",
-      "details": "Leadership meeting with church leaders \u2014 Emanuel leads.\n\nRecurring Tuesdays 6:00 PM.",
-      "endAt": "2026-10-27T20:00:00-05:00",
-      "id": 14,
-      "location": null,
-      "owner": "Emanuel",
-      "startAt": "2026-10-27T18:00:00-05:00",
-      "timezone": "America/Chicago",
-      "title": "House of Freedom",
-      "updatedAt": "2026-09-20T14:59:34.642Z"
-    },
-    {
       "_recordId": 60,
       "allDay": true,
       "calendarImportCapturedAt": "2026-09-22T15:31:38.000Z",
@@ -1568,15 +1554,6 @@
       "title": "Flight to KY"
     },
     {
-      "_recordId": 256,
-      "allDay": false,
-      "endAt": "2027-10-05T20:00:00-05:00",
-      "owner": "Emanuel",
-      "startAt": "2027-10-05T18:00:00-05:00",
-      "timezone": "America/Chicago",
-      "title": "House of Freedom"
-    },
-    {
       "_recordId": 257,
       "allDay": false,
       "details": "Filming at 12:00 PM Pacific (2:00 PM Central). Arrive by 11:45 AM Pacific (1:45 PM Central) \u2014 15 min early for check-in.",
@@ -1708,15 +1685,6 @@
       "startAt": "2026-10-31T12:15:00-07:00",
       "timezone": "America/Los_Angeles",
       "title": "Flight to LFT"
-    },
-    {
-      "_recordId": 277,
-      "allDay": false,
-      "endAt": "2027-10-12T20:00:00-05:00",
-      "owner": "Emanuel",
-      "startAt": "2027-10-12T18:00:00-05:00",
-      "timezone": "America/Chicago",
-      "title": "House of Freedom"
     },
     {
       "_recordId": 285,
