@@ -1854,6 +1854,17 @@
       "startAt": "2026-10-27T15:28:00-04:00",
       "timezone": "America/New_York",
       "title": "Flight to LFT"
+    },
+    {
+      "_recordId": 333,
+      "allDay": false,
+      "details": "Status: confirmed\n\nStarts: Mon Oct 26, 2026, 9:30 AM ET\n\nEnds: Mon Oct 26, 2026, 2:30 PM ET\n\n[Itinerary](https://michelleguessa-glitch.github.io/if-command-center/itinerary-liberty-university-2026-10-24.pdf)",
+      "endAt": "2026-10-26T14:30:00-04:00",
+      "location": "Liberty University, 1971 University Blvd, Lynchburg, VA 24515, USA",
+      "owner": "Emanuel",
+      "startAt": "2026-10-26T09:30:00-04:00",
+      "timezone": "America/New_York",
+      "title": "Primary University Engagement \u2014 Featured Engagement Day"
     }
   ],
   "capturedAt": "2026-09-20T21:15:26-04:00",
