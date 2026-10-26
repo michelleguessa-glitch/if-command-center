@@ -1865,6 +1865,17 @@
       "startAt": "2026-10-26T09:30:00-04:00",
       "timezone": "America/New_York",
       "title": "Primary University Engagement \u2014 Featured Engagement Day"
+    },
+    {
+      "_recordId": 334,
+      "allDay": false,
+      "details": "Status: confirmed\n\nStarts: Tue Oct 27, 2026, 9:30 AM ET\n\nEnds: Tue Oct 27, 2026, 1:30 PM ET\n\n[Itinerary](https://michelleguessa-glitch.github.io/if-command-center/itinerary-liberty-university-2026-10-24.pdf)",
+      "endAt": "2026-10-27T13:30:00-04:00",
+      "location": "Liberty University, 1971 University Blvd, Lynchburg, VA 24515, USA",
+      "owner": "Emanuel",
+      "startAt": "2026-10-27T09:30:00-04:00",
+      "timezone": "America/New_York",
+      "title": "Campus Exploration & Departure"
     }
   ],
   "capturedAt": "2026-09-20T21:15:26-04:00",
