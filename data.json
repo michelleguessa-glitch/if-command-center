@@ -1876,6 +1876,28 @@
       "startAt": "2026-10-27T09:30:00-04:00",
       "timezone": "America/New_York",
       "title": "Campus Exploration & Departure"
+    },
+    {
+      "_recordId": 337,
+      "allDay": true,
+      "details": "Hotel check-in \u2014 Thu Nov 19, 2026, New Orleans, LA. Hotel name, check-in time, and address to be added once reserved.",
+      "endAt": "2026-11-19",
+      "location": "New Orleans, LA",
+      "owner": "Emanuel",
+      "startAt": "2026-11-19",
+      "timezone": "America/Chicago",
+      "title": "Hotel Check-In"
+    },
+    {
+      "_recordId": 338,
+      "allDay": true,
+      "details": "NYC Getaway \u2014 Fri Nov 27 to Sun Nov 29, 2026. Hotel not yet reserved.",
+      "endAt": "2026-11-29",
+      "location": "New York, NY",
+      "owner": "Emanuel",
+      "startAt": "2026-11-27",
+      "timezone": "America/New_York",
+      "title": "NYC Getaway"
     }
   ],
   "capturedAt": "2026-09-20T21:15:26-04:00",
