@@ -559,7 +559,7 @@
       "fee": "",
       "fullPaymentReceived": false,
       "kind": "podcast",
-      "notes": "Rescheduled to Oct 30, 2026 during LA trip (Oct 29-31). Original Oct 6, 2026 taping was CANCELLED.\n\nContract signed via DocuSign.\n\nTaping was 12:30 - 1:30 PM, one continuous full-hour conversation, no cuts; arrive ~15 min early, ~15 min wrap.\n\nAir date tentatively Nov 3, 2026 (Season 2).\n\nAdmin: Kamora Granger <kgranger@behaviorgenius.com>, RJ James (CEO, (951) 236-5131).\n\nConversation outline for Emanuel (PDF) \u2014 View: https://michelleguessa-glitch.github.io/if-command-center/undivided-podcast-outline.pdf\n\nFilming at 12:00 PM Pacific (2:00 PM Central). Arrive by 11:45 AM Pacific (1:45 PM Central) \u2014 15 min early for check-in.",
+      "notes": "Rescheduled to Oct 30, 2026 during LA trip (Oct 29-31). Original Oct 6, 2026 taping was CANCELLED.\n\nContract signed via DocuSign.\n\nTaping was 12:30 - 1:30 PM, one continuous full-hour conversation, no cuts; arrive ~15 min early, ~15 min wrap.\n\nAir date tentatively Nov 3, 2026 (Season 2).\n\nAdmin: Kamora Granger <kgranger@behaviorgenius.com>, RJ James (CEO, (951) 236-5131).\n\nConversation outline for Emanuel (PDF) \u2014 View: https://michelleguessa-glitch.github.io/if-command-center/undivided-podcast-outline.pdf\n\nFilming at 12:00 PM Pacific (2:00 PM Central). Arrive by 11:45 AM Pacific (1:45 PM Central) \u2014 15 min early for check-in.\n\nPodcast taping itinerary (PDF) \u2014 View: https://michelleguessa-glitch.github.io/if-command-center/itinerary-undivided-podcast-2026-10-30.pdf",
       "startDate": "2026-10-30",
       "state": "CA",
       "status": "confirmed",
@@ -1556,7 +1556,7 @@
     {
       "_recordId": 257,
       "allDay": false,
-      "details": "Filming at 12:00 PM Pacific (2:00 PM Central). Arrive by 11:45 AM Pacific (1:45 PM Central) \u2014 15 min early for check-in.",
+      "details": "Filming at 12:00 PM Pacific (2:00 PM Central). Arrive by 11:45 AM Pacific (1:45 PM Central) \u2014 15 min early for check-in.\n\n[Itinerary](https://michelleguessa-glitch.github.io/if-command-center/itinerary-undivided-podcast-2026-10-30.pdf)",
       "endAt": "2026-10-30T13:00:00-07:00",
       "location": "The Pod Place, 1500 S Evergreen Ave, Offices 105 & 106, Los Angeles, CA 90023",
       "owner": "Emanuel",
