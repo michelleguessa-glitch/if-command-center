@@ -1134,17 +1134,17 @@
       "contactEmail": "maddie@storytoldpr.com",
       "contactName": "Maddie Boarman",
       "createdAt": "2026-09-30T14:26:02.055Z",
-      "endDate": "",
+      "endDate": "2026-11-06",
       "id": "mercycast-podcast-2026-10-14",
       "kind": "podcast",
       "mediaType": "podcast",
-      "notes": "RESCHEDULING \u2014 Wed Oct 14, 7:01 AM EDT (Maddie Boarman, StoryTold PR): host Raleigh Sadler asked to reschedule today's interview \u2014 he double-booked and will be on a flight during the 10:00\u201311:00 AM EDT slot. Maddie is coordinating new dates. Today's slot is no longer confirmed; the interview is PENDING new dates.\n\nReschedule update \u2014 Wed Oct 14: Maddie offered Raleigh Sadler's availability Wed Oct 21 and Fri Oct 23 (10:17 AM EDT); Michelle replied Emanuel is next available Nov 6, 9:00 AM CT (10:58 AM EDT); Maddie passed it to Raleigh and will confirm (4:13 PM EDT). Awaiting Raleigh Sadler's confirmation.\n\nHit time: 9:00 am CST\nHost: Raleigh Sadler\nRiverside: https://riverside.fm/studio/mercy-cast?t=7793368ea1168a0a6b71\n\nAbout the show: The MercyCast is a podcast dedicated to learning the subtle art of compassion through the adversity of everyday life.\n\nJoin Raleigh Sadler, the host, as he has honest and thought-provoking conversations with friends he has met along the way.",
-      "startDate": "",
-      "status": "pending",
-      "timeLabel": "Rescheduling \u2014 new date TBD",
+      "notes": "CONFIRMED \u2014 Wed Oct 28, 2026: Maddie Boarman (StoryTold PR) confirmed host Raleigh Sadler is available Fri Nov 6 at 9:00 AM CT; Michelle replied \u201cYes that works!\u201d (3:05 PM EDT) and Maddie sent the calendar invitation (3:21 PM EDT) for a 1-hour VIDEO podcast interview, Fri Nov 6, 2026, 9:00\u201310:00 AM CT (10:00\u201311:00 AM ET), via Google Meet (join link in the calendar invitation from Maddie Boarman).\n\nHost: Raleigh Sadler\nAbout the show: The MercyCast is a podcast dedicated to learning the subtle art of compassion through the adversity of everyday life.\n\nJoin Raleigh Sadler, the host, as he has honest and thought-provoking conversations with friends he has met along the way.\n\nPrior history: RESCHEDULING \u2014 Wed Oct 14, 7:01 AM EDT (Maddie Boarman, StoryTold PR): host Raleigh Sadler asked to reschedule the Oct 14 interview \u2014 he double-booked and was on a flight during the 10:00\u201311:00 AM EDT slot. Maddie coordinated new dates; Michelle replied Emanuel is next available Nov 6, 9:00 AM CT (Oct 14, 10:58 AM EDT); Maddie passed it to Raleigh. Original Oct 14 Riverside studio link (superseded by the Nov 6 Google Meet invitation): https://riverside.fm/studio/mercy-cast?t=7793368ea1168a0a6b71",
+      "startDate": "2026-11-06",
+      "status": "confirmed",
+      "timeLabel": "9:00\u201310:00 AM CT (10:00\u201311:00 AM ET)",
       "timezone": "America/Chicago",
       "title": "MercyCast Podcast",
-      "venue": "https://riverside.fm/studio/mercy-cast?t=7793368ea1168a0a6b71"
+      "venue": "Video \u2014 Google Meet (link in calendar invitation)"
     },
     {
       "_recordId": 260,
@@ -1759,6 +1759,7 @@
     {
       "_recordId": 307,
       "allDay": false,
+      "details": "Log in to StreamYard at 7:00a CST for tech check via this link: [https://streamyard.com/v9424n3g4d](https://streamyard.com/v9424n3g4d)\n\nTaping will go live at 7:21 am CST. Viewers can log in here: [https://www.youtube.com/watch?v=Bi16-1W3xps](https://www.youtube.com/watch?v=Bi16-1W3xps)",
       "endAt": "2026-10-29T08:20:00-05:00",
       "location": "StreamYard",
       "owner": "Emanuel",
@@ -1898,6 +1899,17 @@
       "startAt": "2026-11-27",
       "timezone": "America/New_York",
       "title": "NYC Getaway"
+    },
+    {
+      "_recordId": 339,
+      "allDay": false,
+      "details": "VIDEO podcast interview: MercyCast with host Raleigh Sadler. Confirmed Wed Oct 28, 2026 \u2014 Maddie Boarman (StoryTold PR) sent the calendar invitation; Michelle confirmed \u201cYes that works!\u201d Join link is in the calendar invitation from Maddie Boarman. About the show: The MercyCast is a podcast dedicated to learning the subtle art of compassion through the adversity of everyday life.",
+      "endAt": "2026-11-06T10:00:00-06:00",
+      "location": "Video \u2014 Google Meet",
+      "owner": "Emanuel",
+      "startAt": "2026-11-06T09:00:00-06:00",
+      "timezone": "America/Chicago",
+      "title": "MercyCast Podcast"
     }
   ],
   "capturedAt": "2026-09-20T21:15:26-04:00",
@@ -3073,6 +3085,17 @@
       "organization": "Liberty University",
       "phone": "(434) 592-5799",
       "role": "Executive Director, Opportunity & Enrichment"
+    },
+    {
+      "_recordId": 340,
+      "category": "media",
+      "email": "",
+      "groupLabel": "",
+      "name": "Raleigh Sadler",
+      "notes": "Host of MercyCast podcast; tied to the MercyCast Podcast booking (record 242), confirmed for Fri Nov 6, 2026. Booked via Maddie Boarman, StoryTold PR.",
+      "organization": "MercyCast",
+      "phone": "",
+      "role": "Host, MercyCast"
     }
   ],
   "dailyTasks": [
