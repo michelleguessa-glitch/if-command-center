@@ -1623,7 +1623,7 @@
     {
       "_recordId": 270,
       "allDay": false,
-      "details": "Confirmation #GW33EY\nDelta Air Lines DL2730\nDelta Air Lines DL0996",
+      "details": "[Boarding Pass](https://michelleguessa-glitch.github.io/if-command-center/boarding-pass-btr-atl-oct29.jpg)\n[Boarding Pass](https://michelleguessa-glitch.github.io/if-command-center/boarding-pass-atl-lax-oct29.jpg)\n\nConfirmation #GW33EY\nDelta Air Lines DL2730\nDelta Air Lines DL0996",
       "endAt": "2026-10-29T20:35:00-07:00",
       "endTimezone": "America/Los_Angeles",
       "location": null,
@@ -3085,17 +3085,6 @@
       "organization": "Liberty University",
       "phone": "(434) 592-5799",
       "role": "Executive Director, Opportunity & Enrichment"
-    },
-    {
-      "_recordId": 340,
-      "category": "media",
-      "email": "",
-      "groupLabel": "",
-      "name": "Raleigh Sadler",
-      "notes": "Host of MercyCast podcast; tied to the MercyCast Podcast booking (record 242), confirmed for Fri Nov 6, 2026. Booked via Maddie Boarman, StoryTold PR.",
-      "organization": "MercyCast",
-      "phone": "",
-      "role": "Host, MercyCast"
     }
   ],
   "dailyTasks": [
@@ -3972,7 +3961,7 @@
     },
     {
       "_recordId": 269,
-      "details": "Confirmation #GW33EY\nDelta Air Lines DL2730\nDelta Air Lines DL0996",
+      "details": "[Boarding Pass](https://michelleguessa-glitch.github.io/if-command-center/boarding-pass-btr-atl-oct29.jpg)\n[Boarding Pass](https://michelleguessa-glitch.github.io/if-command-center/boarding-pass-atl-lax-oct29.jpg)\n\nConfirmation #GW33EY\nDelta Air Lines DL2730\nDelta Air Lines DL0996",
       "endAt": "2026-10-29T20:35:00-07:00",
       "endTimezone": "America/Los_Angeles",
       "location": null,
