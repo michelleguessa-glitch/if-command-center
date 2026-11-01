@@ -1939,6 +1939,15 @@
       "timezone": "America/New_York",
       "title": "Flight to New Orleans",
       "traveler": "Emanuel"
+    },
+    {
+      "_recordId": 345,
+      "allDay": true,
+      "endAt": "2026-11-04",
+      "owner": "Emanuel",
+      "startAt": "2026-11-03",
+      "timezone": "America/Chicago",
+      "title": "Meet w/ Pastor B Lee"
     }
   ],
   "capturedAt": "2026-09-20T21:15:26-04:00",
