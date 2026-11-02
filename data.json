@@ -16,7 +16,7 @@
       "fullPaymentReceived": false,
       "id": 1,
       "kind": "ife",
-      "notes": "Needs confirmation: website tour dates listed Oct 23, 2026; calendar shows Nov 8, 2026.\n\n[Calendar import Sep 22, 2026] Calendar details were added, but confirmation status remains unclear; keep pending Michelle\u2019s review.",
+      "notes": "Needs confirmation: website tour dates listed Oct 23, 2026; calendar shows Nov 8, 2026.\n\n[Calendar import Sep 22, 2026] Calendar details were added, but confirmation status remains unclear; keep pending Michelle\u2019s review.\n\nHotel: AC Hotel Louisville Downtown, 727 East Market St, Louisville, KY 40202, (502) 568-6880\n\nConfirmation 7L7HS58GWK\n\nCheck-in: Sat Nov 7, 2026\n\nCheck-out: Sun Nov 8, 2026 (1 night)\n\n1 King Bed, City View, Sofa bed \u2014 1 room, 1 guest",
       "startDate": "2026-11-08",
       "state": "KY",
       "status": "pending",
@@ -1545,13 +1545,17 @@
     },
     {
       "_recordId": 255,
-      "allDay": true,
-      "details": "",
-      "endAt": "2026-11-07",
+      "allDay": false,
+      "details": "Confirmation #LUXFNO\nAmerican Airlines AA5760\nAmerican Airlines AA2107",
+      "endAt": "2026-11-07T17:26:00-05:00",
+      "endTimezone": "America/New_York",
+      "location": null,
       "owner": "Emanuel",
-      "startAt": "2026-11-07",
+      "startAt": "2026-11-07T10:37:00-06:00",
+      "status": "booked",
       "timezone": "America/Chicago",
-      "title": "Flight to KY"
+      "title": "Flight to Louisville",
+      "traveler": "Emanuel"
     },
     {
       "_recordId": 257,
@@ -1948,6 +1952,20 @@
       "startAt": "2026-11-03",
       "timezone": "America/Chicago",
       "title": "Meet w/ Pastor B Lee"
+    },
+    {
+      "_recordId": 347,
+      "allDay": false,
+      "details": "Confirmation #LUXFNO\nAmerican Airlines AA3131\nAmerican Airlines AA5716",
+      "endAt": "2026-11-08T21:50:00-06:00",
+      "endTimezone": "America/Chicago",
+      "location": null,
+      "owner": "Emanuel",
+      "startAt": "2026-11-08T17:26:00-05:00",
+      "status": "booked",
+      "timezone": "America/New_York",
+      "title": "Flight to Lafayette",
+      "traveler": "Emanuel"
     }
   ],
   "capturedAt": "2026-09-20T21:15:26-04:00",
@@ -4102,6 +4120,30 @@
       "status": "booked",
       "timezone": "America/New_York",
       "title": "Flight to New Orleans",
+      "traveler": "Emanuel"
+    },
+    {
+      "_recordId": 346,
+      "details": "Confirmation #LUXFNO\nAmerican Airlines AA5760\nAmerican Airlines AA2107",
+      "endAt": "2026-11-07T17:26:00-05:00",
+      "endTimezone": "America/New_York",
+      "location": null,
+      "startAt": "2026-11-07T10:37:00-06:00",
+      "status": "booked",
+      "timezone": "America/Chicago",
+      "title": "Flight to Louisville",
+      "traveler": "Emanuel"
+    },
+    {
+      "_recordId": 348,
+      "details": "Confirmation #LUXFNO\nAmerican Airlines AA3131\nAmerican Airlines AA5716",
+      "endAt": "2026-11-08T21:50:00-06:00",
+      "endTimezone": "America/Chicago",
+      "location": null,
+      "startAt": "2026-11-08T17:26:00-05:00",
+      "status": "booked",
+      "timezone": "America/New_York",
+      "title": "Flight to Lafayette",
       "traveler": "Emanuel"
     }
   ]
