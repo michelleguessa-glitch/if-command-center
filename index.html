@@ -646,7 +646,7 @@ function checkStartingSoon(){
     const now=Date.now();
     bar.innerHTML='<strong>Starting soon today</strong>'+soon.map(e=>{
       const t=new Date(e.startAt),mins=Math.round((t-now)/60000);
-      const when=t.toLocaleTimeString([],{hour:'numeric',minute:'2-digit'});
+      const when=t.toLocaleTimeString([],{hour:'numeric',minute:'2-digit',timeZone:e.timezone||'America/Chicago',timeZoneName:'short'});
       const label=mins<=1?'starting now':('starts in '+mins+' min');
       const loc=e.location?(' \u2014 '+esc(e.location)):'';
       return '<div><span>'+esc(e.title||'Event')+'</span> \u00b7 '+esc(when)+' ('+label+')'+loc+'</div>';
