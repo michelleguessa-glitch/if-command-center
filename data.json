@@ -1982,6 +1982,16 @@
       "startAt": "2026-11-06T12:00:00-06:00",
       "timezone": "America/Chicago",
       "title": "Meeting w/ Pastor Lee Johnson"
+    },
+    {
+      "_recordId": 350,
+      "allDay": false,
+      "endAt": "2026-11-12T11:00:00-06:00",
+      "location": "Zoom",
+      "owner": "Emanuel",
+      "startAt": "2026-11-12T10:00:00-06:00",
+      "timezone": "America/Chicago",
+      "title": "Meeting w/ Katie Washington"
     }
   ],
   "capturedAt": "2026-09-20T21:15:26-04:00",
