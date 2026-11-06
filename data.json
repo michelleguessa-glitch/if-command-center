@@ -1363,16 +1363,16 @@
     },
     {
       "_recordId": 60,
-      "allDay": true,
+      "allDay": false,
       "calendarImportCapturedAt": "2026-09-22T15:31:38.000Z",
       "calendarImportKey": "calendar-christ-culture-2026-11-08",
       "createdAt": "2026-09-20T14:38:26.075Z",
-      "details": "",
-      "endAt": "2026-11-09",
+      "details": "Confirmed by Michelle Nov 2, 2026.\n\nTravel booked: American Airlines, confirmation LUXFNO \u2014 Sat Nov 7 Lafayette \u2192 Dallas/Fort Worth \u2192 Louisville; Sun Nov 8 Louisville \u2192 Charlotte \u2192 Lafayette.\n\nHotel: AC Hotel Louisville Downtown, 727 East Market St, Louisville, KY 40202, (502) 568-6880\n\nConfirmation 7L7HS58GWK\n\nCheck-in: Sat Nov 7, 2026\n\nCheck-out: Sun Nov 8, 2026 (1 night)\n\n1 King Bed, City View, Sofa bed \u2014 1 room, 1 guest",
+      "endAt": "2026-11-08T13:00:00-05:00",
       "id": 15,
       "location": "Christ Culture Church Louisville, 1205 E Washington St, Louisville, KY 40206, USA",
       "owner": "Emanuel",
-      "startAt": "2026-11-08",
+      "startAt": "2026-11-08T10:30:00-05:00",
       "timezone": "America/New_York",
       "title": "IFE + Christ Culture Church - Kentucky"
     },
@@ -1972,6 +1972,16 @@
       "timezone": "America/New_York",
       "title": "Flight to Lafayette",
       "traveler": "Emanuel"
+    },
+    {
+      "_recordId": 349,
+      "allDay": false,
+      "endAt": "2026-11-06T13:00:00-06:00",
+      "location": "",
+      "owner": "Emanuel",
+      "startAt": "2026-11-06T12:00:00-06:00",
+      "timezone": "America/Chicago",
+      "title": "Meeting w/ Pastor Lee Johnson"
     }
   ],
   "capturedAt": "2026-09-20T21:15:26-04:00",
