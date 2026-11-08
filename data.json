@@ -1962,8 +1962,8 @@
     {
       "_recordId": 347,
       "allDay": false,
-      "details": "Confirmation #LUXFNO\nAmerican Airlines AA3131\nAmerican Airlines AA5716",
-      "endAt": "2026-11-08T21:50:00-06:00",
+      "details": "[Boarding Pass](https://michelleguessa-glitch.github.io/if-command-center/boarding-pass-sdf-dfw-2026-11-08.png)\n[Boarding Pass](https://michelleguessa-glitch.github.io/if-command-center/boarding-pass-dfw-lft-2026-11-08.png)\n\nConfirmation #LUXFNO\nAmerican Airlines AA6330\nAmerican Airlines AA6237",
+      "endAt": "2026-11-08T22:54:00-06:00",
       "endTimezone": "America/Chicago",
       "location": null,
       "owner": "Emanuel",
@@ -4162,8 +4162,8 @@
     },
     {
       "_recordId": 348,
-      "details": "Confirmation #LUXFNO\nAmerican Airlines AA3131\nAmerican Airlines AA5716",
-      "endAt": "2026-11-08T21:50:00-06:00",
+      "details": "[Boarding Pass](https://michelleguessa-glitch.github.io/if-command-center/boarding-pass-sdf-dfw-2026-11-08.png)\n[Boarding Pass](https://michelleguessa-glitch.github.io/if-command-center/boarding-pass-dfw-lft-2026-11-08.png)\n\nConfirmation #LUXFNO\nAmerican Airlines AA6330\nAmerican Airlines AA6237",
+      "endAt": "2026-11-08T22:54:00-06:00",
       "endTimezone": "America/Chicago",
       "location": null,
       "startAt": "2026-11-08T17:26:00-05:00",
