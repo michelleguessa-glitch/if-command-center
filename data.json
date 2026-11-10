@@ -1992,6 +1992,17 @@
       "startAt": "2026-11-12T10:00:00-06:00",
       "timezone": "America/Chicago",
       "title": "Meeting w/ Katie Washington"
+    },
+    {
+      "_recordId": 351,
+      "allDay": false,
+      "details": "His staff don't respond.",
+      "endAt": "2026-11-11T16:00:00-06:00",
+      "location": "",
+      "owner": "Emanuel",
+      "startAt": "2026-11-11T15:00:00-06:00",
+      "timezone": "America/Chicago",
+      "title": "Meeting w/ Jerry Flowers"
     }
   ],
   "capturedAt": "2026-09-20T21:15:26-04:00",
