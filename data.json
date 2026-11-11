@@ -1986,8 +1986,9 @@
     {
       "_recordId": 350,
       "allDay": false,
+      "details": "Google Meet: https://meet.google.com/nvt-ygqp-zbu",
       "endAt": "2026-11-12T11:00:00-06:00",
-      "location": "Zoom",
+      "location": "Google Meet",
       "owner": "Emanuel",
       "startAt": "2026-11-12T10:00:00-06:00",
       "timezone": "America/Chicago",
