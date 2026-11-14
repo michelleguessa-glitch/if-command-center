@@ -261,7 +261,7 @@
     },
     {
       "_recordId": 11,
-      "city": "Dallas",
+      "city": "Carrollton",
       "contactEmail": "admin@albanereugenejr.com",
       "contactName": "Aria Fletcher",
       "contactPhone": null,
@@ -273,7 +273,7 @@
       "fullPaymentReceived": false,
       "id": 13,
       "kind": "ife",
-      "notes": "Exploratory IFE booking lead \u2014 not confirmed.\n\nACEPRODUCTIONS selected \u201cCurious Conversations & Q&A\u201d for the VIP breakout \u201cSilent Deconstruction\u201d: Emanuel briefly shares his story with deconstruction, then joins Albaner in conversation followed by live Q&A. A Main Stage Panel that evening is also possible; Emanuel is \u201cmost definitely open\u201d to the main stage.\n\nDallas connection call: Albaner is available October 21, 22, or 23, 2026.\n\nAria asked Michelle to confirm which day and time work best for Emanuel; Michelle recommended the Intelligent Faith for Believers package on Sep 23 and will follow up with Emanuel's Oct 21\u201323 availability after his Sep 24 organizer meeting.",
+      "notes": "Exploratory IFE booking lead \u2014 not confirmed.\n\nACEPRODUCTIONS selected \u201cCurious Conversations & Q&A\u201d for the VIP breakout \u201cSilent Deconstruction\u201d: Emanuel briefly shares his story with deconstruction, then joins Albaner in conversation followed by live Q&A. A Main Stage Panel that evening is also possible; Emanuel is \u201cmost definitely open\u201d to the main stage.\n\nDallas connection call: Albaner is available October 21, 22, or 23, 2026.\n\nAria asked Michelle to confirm which day and time work best for Emanuel; Michelle recommended the Intelligent Faith for Believers package on Sep 23 and will follow up with Emanuel's Oct 21\u201323 availability after his Sep 24 organizer meeting.\n\nFriday evening: VIP Experience",
       "startDate": "2026-12-11",
       "state": "TX",
       "status": "pending",
@@ -282,7 +282,7 @@
       "title": "Albaner Eugene Jr Conference (WTW Production)",
       "topic": "Curious Conversations & Q&A \u2014 Silent Deconstruction",
       "updatedAt": "2026-09-24T06:06:11.823Z",
-      "venue": "WTW Production"
+      "venue": "Freedom Church, 2435 E. Hebron Pkwy., Carrollton, Texas"
     },
     {
       "_recordId": 12,
@@ -1223,6 +1223,28 @@
       "title": "The Next Move Summit \u2014 Panelist: 'The Mantle' with Bishop T. D. Jakes",
       "topic": "The Mantle panelist session",
       "venue": "The Potter's House of Dallas, 6777 W Kiest Blvd, Dallas, TX 75236, USA"
+    },
+    {
+      "_recordId": 353,
+      "city": "Carrollton",
+      "contactEmail": "admin@albanereugenejr.com",
+      "contactName": "Aria Fletcher",
+      "contactPhone": null,
+      "depositAmount": null,
+      "depositStatus": "not_set",
+      "endDate": "2026-12-12",
+      "fee": null,
+      "fullPaymentReceived": false,
+      "kind": "ife",
+      "notes": "Exploratory IFE booking lead \u2014 not confirmed.\n\nACEPRODUCTIONS selected \u201cCurious Conversations & Q&A\u201d for the VIP breakout \u201cSilent Deconstruction\u201d: Emanuel briefly shares his story with deconstruction, then joins Albaner in conversation followed by live Q&A. A Main Stage Panel that evening is also possible; Emanuel is \u201cmost definitely open\u201d to the main stage.\n\nDallas connection call: Albaner is available October 21, 22, or 23, 2026.\n\nAria asked Michelle to confirm which day and time work best for Emanuel; Michelle recommended the Intelligent Faith for Believers package on Sep 23 and will follow up with Emanuel's Oct 21\u201323 availability after his Sep 24 organizer meeting.\n\nSaturday morning: VIP Breakout Sessions\n\nSaturday evening: Main Production (General Admission)",
+      "startDate": "2026-12-12",
+      "state": "TX",
+      "status": "pending",
+      "timeLabel": null,
+      "timezone": "America/Chicago",
+      "title": "Albaner Eugene Jr Conference (WTW Production)",
+      "topic": "Curious Conversations & Q&A \u2014 Silent Deconstruction",
+      "venue": "Freedom Church, 2435 E. Hebron Pkwy., Carrollton, Texas"
     }
   ],
   "calendar": [
@@ -1336,10 +1358,10 @@
       "_recordId": 56,
       "allDay": true,
       "createdAt": "2026-09-20T14:38:25.955Z",
-      "details": "Albaner Eugene Jr Conference.\n\nIFE breakout 'Silently Deconstructing'.",
+      "details": "Albaner Eugene Jr Conference.\n\nIFE breakout 'Silently Deconstructing'.\n\nFriday evening: VIP Experience",
       "endAt": "2026-12-12",
       "id": 11,
-      "location": "Dallas, TX",
+      "location": "Freedom Church, 2435 E. Hebron Pkwy., Carrollton, Texas",
       "owner": "Emanuel",
       "startAt": "2026-12-11",
       "timezone": "America/Chicago",
@@ -2015,6 +2037,17 @@
       "startAt": "2026-11-16T19:00:00-06:00",
       "timezone": "America/Chicago",
       "title": "Exclusive Zoom Gathering with Bishop T.D. Jakes"
+    },
+    {
+      "_recordId": 354,
+      "allDay": true,
+      "details": "Albaner Eugene Jr Conference.\n\nIFE breakout 'Silently Deconstructing'.\n\nSaturday morning: VIP Breakout Sessions\n\nSaturday evening: Main Production (General Admission)",
+      "endAt": "2026-12-13",
+      "location": "Freedom Church, 2435 E. Hebron Pkwy., Carrollton, Texas",
+      "owner": "Emanuel",
+      "startAt": "2026-12-12",
+      "timezone": "America/Chicago",
+      "title": "WTW Production"
     }
   ],
   "capturedAt": "2026-09-20T21:15:26-04:00",
