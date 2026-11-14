@@ -1925,11 +1925,11 @@
     {
       "_recordId": 338,
       "allDay": true,
-      "details": "NYC Getaway \u2014 Fri Nov 27 to Sun Nov 29, 2026.\n\nHotel not yet reserved.",
-      "endAt": "2026-11-29",
+      "details": "NYC Getaway \u2014 Fri Dec 4 to Sun Dec 6, 2026.\n\nHotel not yet reserved.",
+      "endAt": "2026-12-06",
       "location": "New York, NY",
       "owner": "Emanuel",
-      "startAt": "2026-11-27",
+      "startAt": "2026-12-04",
       "timezone": "America/New_York",
       "title": "NYC Getaway"
     },
