@@ -2004,6 +2004,17 @@
       "startAt": "2026-11-11T15:00:00-06:00",
       "timezone": "America/Chicago",
       "title": "Meeting w/ Jerry Flowers"
+    },
+    {
+      "_recordId": 352,
+      "allDay": false,
+      "details": "[Join Zoom Meeting](https://zoom.us/j/96953556797?pwd=rkG2cDUvaJWvdlSwGFUABUQZyyEbNY.1)\n\nMeeting ID: 969 5355 6797\n\nPasscode: 074007",
+      "endAt": "2026-11-16T20:00:00-06:00",
+      "location": "Zoom (Remote)",
+      "owner": "Emanuel",
+      "startAt": "2026-11-16T19:00:00-06:00",
+      "timezone": "America/Chicago",
+      "title": "Exclusive Zoom Gathering with Bishop T.D. Jakes"
     }
   ],
   "capturedAt": "2026-09-20T21:15:26-04:00",
