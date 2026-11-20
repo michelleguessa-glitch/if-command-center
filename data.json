@@ -1769,8 +1769,8 @@
     {
       "_recordId": 305,
       "allDay": false,
-      "details": "[Ticket](https://michelleguessa-glitch.github.io/if-command-center/ticket-date-night-seat9-2026-11-20.jpg)\n[Ticket](https://michelleguessa-glitch.github.io/if-command-center/ticket-date-night-seat10-2026-11-20.jpg)\n[Parking Pass](https://michelleguessa-glitch.github.io/if-command-center/parking-pass-date-night-garage2a-2026-11-20.jpg)\n\nUsher and Chris Brown\n\nSection 607, Row 19, Seats 9\u201310\n\n2 tickets ($271.60)\n\nEvent time subject to change",
-      "location": "Caesars Superdome, 1500 Sugar Bowl Dr, New Orleans, LA 70112, USA\nParking: Garage 2A - Caesars, 1400 Dave Dixon Dr, New Orleans, LA 70113",
+      "details": "[Ticket](https://michelleguessa-glitch.github.io/if-command-center/ticket-date-night-seat9-2026-11-20.jpg)\n[Ticket](https://michelleguessa-glitch.github.io/if-command-center/ticket-date-night-seat10-2026-11-20.jpg)\n[Parking Pass](https://michelleguessa-glitch.github.io/if-command-center/parking-pass-date-night-garage2a-2026-11-20.jpg)\n\nUsher and Chris Brown\n\nSection 607, Row 19, Seats 9\u201310\n\n2 tickets\n\nEvent time subject to change",
+      "location": "Parking: Garage 2A - Caesars, 1400 Dave Dixon Dr, New Orleans, LA 70113",
       "owner": "Emanuel",
       "startAt": "2026-11-20T19:00:00-06:00",
       "timezone": "America/Chicago",
