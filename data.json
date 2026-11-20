@@ -1912,17 +1912,6 @@
       "title": "Campus Exploration & Departure"
     },
     {
-      "_recordId": 337,
-      "allDay": true,
-      "details": "Hotel check-in \u2014 Thu Nov 19, 2026, New Orleans, LA.\n\nHotel name, check-in time, and address to be added once reserved.",
-      "endAt": "2026-11-19",
-      "location": "New Orleans, LA",
-      "owner": "Emanuel",
-      "startAt": "2026-11-19",
-      "timezone": "America/Chicago",
-      "title": "Hotel Check-In"
-    },
-    {
       "_recordId": 338,
       "allDay": true,
       "details": "NYC Getaway \u2014 Fri Dec 4 to Sun Dec 6, 2026.\n\nHotel not yet reserved.",
